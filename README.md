@@ -7,14 +7,16 @@ This repository is meant for **students**: clone it, open the Quarto slides, and
 ## Currently available
 
 - **Week 1** — Algorithms, recursion, complexity (`Slides/01-complexity.qmd`)
-- Lab notebook: `Slides/labs/01-fib.ipynb`
+  - Lab: `Slides/labs/01-fib.ipynb`
+- **Week 2** — Hard problems and greedy ideas (`Slides/02-hard-problems.qmd`)
+  - Lab: `Slides/labs/02-tsp.ipynb` (TSP + genetic algorithm + interval scheduling)
 
 Later weeks will be added as the course progresses.
 
 ## How to use
 
 1. Clone this repo (or download the ZIP from GitHub).
-2. Open `Slides/01-complexity.qmd` in [VS Code](https://code.visualstudio.com/) / Cursor, or any editor.
+2. Open the week's `.qmd` in [VS Code](https://code.visualstudio.com/) / Cursor, or any editor.
 3. Add your notes **in the `.qmd` file** as you follow the lecture, for example:
    - ordinary Markdown paragraphs or bullet lists
    - HTML comments that do not show when rendered: `<!-- your note -->`
@@ -29,10 +31,12 @@ Later weeks will be added as the course progresses.
 
    ```bash
    cd Slides
-   quarto render 01-complexity.qmd
+   quarto render 02-hard-problems.qmd
    ```
 
-5. Open the lab in VS Code / Jupyter: `Slides/labs/01-fib.ipynb` (Select Kernel → Run All).
+5. Open the lab notebooks in VS Code / Jupyter (Select Kernel → Run All):
+   - Week 1: `Slides/labs/01-fib.ipynb`
+   - Week 2: `Slides/labs/02-tsp.ipynb` (needs `matplotlib` for the genetic-algorithm animation)
 
 ## Course
 

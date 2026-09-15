@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 220" width="640" height="220">
+  <rect width="640" height="220" fill="#ffffff"/>
+  <text x="320" y="22" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="14" fill="#6b7380">The genome is unknown. The machine gives overlapping pieces.</text>
+  <rect x="40" y="48" width="560" height="28" rx="4" fill="#1c2430"/>
+  <text x="320" y="67" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="13" fill="#c5ccd6">? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ?</text>
+  <rect x="56" y="100" width="168" height="32" rx="4" fill="#eef3f8" stroke="#2a5a8c" stroke-width="2"/>
+  <text x="140" y="121" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="14" font-weight="700" fill="#1c2430">read 1</text>
+  <rect x="176" y="140" width="176" height="32" rx="4" fill="#eef3f8" stroke="#2a5a8c" stroke-width="2"/>
+  <text x="264" y="161" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="14" font-weight="700" fill="#1c2430">read 2</text>
+  <rect x="312" y="100" width="160" height="32" rx="4" fill="#eef3f8" stroke="#2a5a8c" stroke-width="2"/>
+  <text x="392" y="121" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="14" font-weight="700" fill="#1c2430">read 3</text>
+  <rect x="430" y="140" width="168" height="32" rx="4" fill="#eef3f8" stroke="#2a5a8c" stroke-width="2"/>
+  <text x="514" y="161" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="14" font-weight="700" fill="#1c2430">read 4</text>
+  <text x="320" y="202" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="13" fill="#1c2430">A good order: neighbours overlap. A bad order: they do not.</text>
+</svg>

@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 184" width="640" height="184">
+  <rect width="640" height="184" fill="#ffffff"/>
+  <text x="320" y="18" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="14" fill="#6b7380">Assembly teaser. Fragments of ACAAT. Visit every read once.</text>
+  <defs><marker id="ot" markerWidth="9" markerHeight="9" refX="8" refY="4.5" orient="auto"><path d="M0,0 L9,4.5 L0,9 Z" fill="#b56a3a"/></marker></defs>
+  <rect x="40" y="70" width="120" height="48" rx="8" fill="#eef3f8" stroke="#2a5a8c" stroke-width="2"/>
+  <text x="100" y="102" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="18" font-weight="700" fill="#1c2430">ACA</text>
+  <rect x="260" y="70" width="120" height="48" rx="8" fill="#eef3f8" stroke="#2a5a8c" stroke-width="2"/>
+  <text x="320" y="102" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="18" font-weight="700" fill="#1c2430">CAA</text>
+  <rect x="480" y="70" width="120" height="48" rx="8" fill="#eef3f8" stroke="#2a5a8c" stroke-width="2"/>
+  <text x="540" y="102" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="18" font-weight="700" fill="#1c2430">AAT</text>
+  <line x1="164" y1="94" x2="252" y2="94" stroke="#b56a3a" stroke-width="2" marker-end="url(#ot)"/>
+  <line x1="384" y1="94" x2="472" y2="94" stroke="#b56a3a" stroke-width="2" marker-end="url(#ot)"/>
+  <text x="208" y="84" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="12" font-weight="700" fill="#6b7380">CA</text>
+  <text x="428" y="84" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="12" font-weight="700" fill="#6b7380">AA</text>
+  <text x="320" y="148" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="13" fill="#6b7380">ACA then CAA then AAT spells ACAAT. Every read used once.</text>
+  <text x="320" y="168" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="13" fill="#6b7380">Other orders of the three reads do not reconstruct the string.</text>
+
+</svg>

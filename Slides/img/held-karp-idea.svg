@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 300" width="720" height="300">
+  <rect width="720" height="300" fill="#ffffff"/>
+  <text x="360" y="22" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="14" fill="#6b7380">HeldKarp idea on 4 cities. Start at A. A cell = best path through a set, ending at one city.</text>
+
+  <!-- small table -->
+  <text x="40" y="58" text-anchor="start" font-family="Helvetica,Arial,sans-serif" font-size="13" font-weight="700" fill="#1c2430">Example cells (distances from the lab matrix)</text>
+
+  <rect x="40" y="72" width="640" height="44" rx="6" fill="#eef3f8" stroke="#2a5a8c" stroke-width="1.5"/>
+  <text x="56" y="92" text-anchor="start" font-family="ui-monospace,Menlo,monospace" font-size="13" font-weight="700" fill="#2a5a8c">S = {B}, end at B</text>
+  <text x="56" y="108" text-anchor="start" font-family="Helvetica,Arial,sans-serif" font-size="13" fill="#1c2430">Only path: A ’ B. Cost 2. Store it.</text>
+
+  <rect x="40" y="126" width="640" height="44" rx="6" fill="#eef3f8" stroke="#2a5a8c" stroke-width="1.5"/>
+  <text x="56" y="146" text-anchor="start" font-family="ui-monospace,Menlo,monospace" font-size="13" font-weight="700" fill="#2a5a8c">S = {B, D}, end at D</text>
+  <text x="56" y="162" text-anchor="start" font-family="Helvetica,Arial,sans-serif" font-size="13" fill="#1c2430">Candidates: (A ’ B ’ D) = 2+1 = 3, or (A ’ D ’ B) ending at D  illegal for this cell. Best = 3.</text>
+
+  <rect x="40" y="180" width="640" height="58" rx="6" fill="#f7f3ee" stroke="#b56a3a" stroke-width="1.5"/>
+  <text x="56" y="200" text-anchor="start" font-family="ui-monospace,Menlo,monospace" font-size="13" font-weight="700" fill="#b56a3a">S = {B, C, D}, end at C</text>
+  <text x="56" y="218" text-anchor="start" font-family="Helvetica,Arial,sans-serif" font-size="13" fill="#1c2430">Reuse stored answers for the smaller sets {B,D} and {B,C}: try last hop ’ C from B or from D.</text>
+  <text x="56" y="234" text-anchor="start" font-family="Helvetica,Arial,sans-serif" font-size="13" fill="#1c2430">Take the min. Do not re-list every order of three cities.</text>
+
+  <text x="360" y="272" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="13" fill="#1c2430">Number of cells H n · 2^n  (choose end city × choose visited set). Far fewer than n! tours.</text>
+  <text x="360" y="290" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="13" fill="#6b7380">Week 3: the same idea on a grid  when subproblems overlap, store them.</text>
+</svg>

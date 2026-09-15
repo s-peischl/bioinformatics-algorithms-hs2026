@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 740 326" width="740" height="326">
+  <rect width="740" height="326" fill="#ffffff"/>
+  <text x="370" y="20" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="14" fill="#6b7380">Sampling sites around a lake. Distance is a straight line (crow or boat).</text>
+  <path d="M0.0,123.0 L50.0,68.0 L95.0,106.0 L150.0,50.0 L210.0,98.0 L270.0,46.0 L340.0,90.0 L400.0,38.0 L470.0,86.0 L530.0,56.0 L600.0,100.0 L660.0,58.0 L740.0,108.0 L740.0,138.0 L0.0,138.0 Z" fill="#c5ccd6"/>
+  <path d="M150.0,50.0 L180.0,76.0 L210.0,98.0 Z" fill="#8a93a0"/>
+  <path d="M270.0,46.0 L310.0,78.0 L340.0,90.0 Z" fill="#8a93a0"/>
+  <path d="M400.0,38.0 L430.0,70.0 L470.0,86.0 Z" fill="#1c2430" opacity="0.35"/>
+  <path d="M0.0,278.0 C 180.0,258.0 400.0,296.0 740.0,270.0 L740.0,308.0 L0.0,308.0 Z" fill="#d8dce3"/>
+  <ellipse cx="370.0" cy="183.0" rx="270.0" ry="52.0" fill="#c5d6e8" stroke="#2a5a8c" stroke-width="2"/>
+  <ellipse cx="320.0" cy="170.0" rx="90.0" ry="10.0" fill="#eef3f8" opacity="0.45"/>
+  <circle cx="120.0" cy="276.0" r="7.0" fill="#6b7380"/>
+  <circle cx="135.0" cy="280.0" r="5.0" fill="#6b7380"/>
+  <circle cx="108.0" cy="282.0" r="5.0" fill="#6b7380"/>
+  <circle cx="600.0" cy="278.0" r="6.0" fill="#6b7380"/>
+  <circle cx="618.0" cy="282.0" r="5.0" fill="#6b7380"/>
+  <circle cx="70.0" cy="183.0" r="7" fill="#1c2430" stroke="#f4f5f7" stroke-width="1.5"/>
+  <text x="58.0" y="188.0" text-anchor="end" font-family="Helvetica,Arial,sans-serif" font-size="11" font-weight="700" fill="#1c2430">Thun</text>
+  <circle cx="280.0" cy="116.0" r="7" fill="#1c2430" stroke="#f4f5f7" stroke-width="1.5"/>
+  <text x="280.0" y="102.0" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="11" font-weight="700" fill="#1c2430">Gunten</text>
+  <circle cx="480.0" cy="116.0" r="7" fill="#1c2430" stroke="#f4f5f7" stroke-width="1.5"/>
+  <text x="480.0" y="102.0" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="11" font-weight="700" fill="#1c2430">Merligen</text>
+  <circle cx="680.0" cy="183.0" r="7" fill="#1c2430" stroke="#f4f5f7" stroke-width="1.5"/>
+  <text x="692.0" y="188.0" text-anchor="start" font-family="Helvetica,Arial,sans-serif" font-size="11" font-weight="700" fill="#1c2430">Interlaken</text>
+  <circle cx="480.0" cy="250.0" r="7" fill="#1c2430" stroke="#f4f5f7" stroke-width="1.5"/>
+  <text x="480.0" y="270.0" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="11" font-weight="700" fill="#1c2430">Spiez</text>
+  <circle cx="280.0" cy="250.0" r="7" fill="#1c2430" stroke="#f4f5f7" stroke-width="1.5"/>
+  <text x="280.0" y="270.0" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="11" font-weight="700" fill="#1c2430">Faulensee</text>
+  <text x="370" y="312" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="13" fill="#6b7380">A tour visits every site once and returns. A hop across the water is allowed -- and tempting.</text>
+
+</svg>

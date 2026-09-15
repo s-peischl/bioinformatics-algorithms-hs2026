@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 260" width="720" height="260">
+  <rect width="720" height="260" fill="#ffffff"/>
+  <text x="360" y="22" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="14" fill="#6b7380">One room. Talks have start and finish times. Overlaps cannot both be chosen.</text>
+
+  <!-- room label -->
+  <rect x="40" y="48" width="120" height="160" rx="8" fill="#f4f5f7" stroke="#8a93a0" stroke-width="1.5"/>
+  <text x="100" y="130" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="14" font-weight="700" fill="#6b7380">seminar</text>
+  <text x="100" y="150" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="14" font-weight="700" fill="#6b7380">room</text>
+
+  <!-- timeline -->
+  <line x1="200" y1="200" x2="680" y2="200" stroke="#1c2430" stroke-width="2"/>
+  <text x="200" y="220" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="12" fill="#6b7380">0</text>
+  <text x="320" y="220" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="12" fill="#6b7380">3</text>
+  <text x="360" y="220" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="12" fill="#6b7380">4</text>
+  <text x="400" y="220" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="12" fill="#6b7380">5</text>
+  <text x="560" y="220" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="12" fill="#6b7380">8</text>
+
+  <rect x="200" y="60" width="160" height="32" rx="4" fill="#eef3f8" stroke="#2a5a8c" stroke-width="2"/>
+  <text x="280" y="81" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="14" font-weight="700" fill="#1c2430">A  [0, 4]</text>
+
+  <rect x="320" y="104" width="80" height="32" rx="4" fill="#f7f3ee" stroke="#b56a3a" stroke-width="2"/>
+  <text x="360" y="125" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="14" font-weight="700" fill="#1c2430">B  [3, 5]</text>
+
+  <rect x="360" y="148" width="200" height="32" rx="4" fill="#eef3f8" stroke="#2a5a8c" stroke-width="2"/>
+  <text x="460" y="169" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="14" font-weight="700" fill="#1c2430">C  [4, 8]</text>
+
+  <text x="360" y="248" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="13" fill="#1c2430">Goal: as many talks as possible. A and C fit together; B overlaps both.</text>
+</svg>
