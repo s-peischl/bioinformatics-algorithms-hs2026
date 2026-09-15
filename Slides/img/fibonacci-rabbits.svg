@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 220" width="640" height="220">
+  <rect width="640" height="220" fill="#ffffff"/>
+  <text x="20" y="28" font-family="Helvetica, Arial, sans-serif" font-size="15" fill="#6b7380">Fibonacci rabbits (Leonardo of Pisa): mature in one month, then one new pair each month</text>
+  <g font-family="Helvetica, Arial, sans-serif" font-size="13" text-anchor="middle">
+    <g transform="translate(40,50)">
+      <rect width="70" height="50" rx="6" fill="#eef3f8" stroke="#2a5a8c"/>
+      <text x="35" y="22" fill="#1c2430">month 0</text>
+      <text x="35" y="40" fill="#2a5a8c" font-weight="700">1 pair</text>
+    </g>
+    <g transform="translate(160,50)">
+      <rect width="70" height="50" rx="6" fill="#eef3f8" stroke="#2a5a8c"/>
+      <text x="35" y="22" fill="#1c2430">month 1</text>
+      <text x="35" y="40" fill="#2a5a8c" font-weight="700">1 pair</text>
+    </g>
+    <g transform="translate(280,50)">
+      <rect width="70" height="50" rx="6" fill="#eef3f8" stroke="#2a5a8c"/>
+      <text x="35" y="22" fill="#1c2430">month 2</text>
+      <text x="35" y="40" fill="#2a5a8c" font-weight="700">2 pairs</text>
+    </g>
+    <g transform="translate(400,50)">
+      <rect width="70" height="50" rx="6" fill="#eef3f8" stroke="#2a5a8c"/>
+      <text x="35" y="22" fill="#1c2430">month 3</text>
+      <text x="35" y="40" fill="#2a5a8c" font-weight="700">3 pairs</text>
+    </g>
+    <g transform="translate(520,50)">
+      <rect width="70" height="50" rx="6" fill="#eef3f8" stroke="#2a5a8c"/>
+      <text x="35" y="22" fill="#1c2430">month 4</text>
+      <text x="35" y="40" fill="#2a5a8c" font-weight="700">5 pairs</text>
+    </g>
+  </g>
+  <path d="M110 75 L160 75" stroke="#8a93a0" stroke-width="2"/>
+  <path d="M230 75 L280 75" stroke="#8a93a0" stroke-width="2"/>
+  <path d="M350 75 L400 75" stroke="#8a93a0" stroke-width="2"/>
+  <path d="M470 75 L520 75" stroke="#8a93a0" stroke-width="2"/>
+  <text x="320" y="150" text-anchor="middle" font-family="ui-monospace, Menlo, monospace" font-size="20" fill="#1c2430">F_n = F_{n-1} + F_{n-2}</text>
+  <text x="320" y="186" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="14" fill="#6b7380">Input: n (months). Output: F_n (pairs). Today's toy: n = 5 gives 5.</text>
+</svg>

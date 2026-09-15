@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 280" width="640" height="280">
+  <rect width="640" height="280" fill="#f4f5f7"/>
+  <text x="24" y="36" font-family="Helvetica, Arial, sans-serif" font-size="16" fill="#6b7380">A genome is a long string. What we measure are short pieces.</text>
+  <rect x="24" y="64" width="592" height="36" rx="4" fill="#1c2430"/>
+  <text x="36" y="88" font-family="ui-monospace, Menlo, monospace" font-size="14" fill="#f4f5f7">ATCGTTGACCGGAA   |   ~ 3 x 10^9 letters (human)</text>
+  <g font-family="ui-monospace, Menlo, monospace" font-size="13">
+    <rect x="48" y="130" width="150" height="28" rx="3" fill="#2a5a8c"/>
+    <text x="60" y="149" fill="#f4f5f7">TTGACCGG</text>
+    <rect x="220" y="148" width="150" height="28" rx="3" fill="#2a5a8c"/>
+    <text x="232" y="167" fill="#f4f5f7">ACCGGAAT</text>
+    <rect x="400" y="130" width="150" height="28" rx="3" fill="#2a5a8c"/>
+    <text x="412" y="149" fill="#f4f5f7">GAATCGTT</text>
+  </g>
+  <text x="24" y="210" font-family="Helvetica, Arial, sans-serif" font-size="15" fill="#1c2430">Questions this course turns into algorithms</text>
+  <text x="24" y="236" font-family="Helvetica, Arial, sans-serif" font-size="14" fill="#6b7380">How similar are two strings? How do we assemble fragments? How do we search 3 x 10^9 letters?</text>
+  <text x="24" y="262" font-family="Helvetica, Arial, sans-serif" font-size="14" fill="#6b7380">A procedure that is exponential in n is already dead at genome scale.</text>
+</svg>

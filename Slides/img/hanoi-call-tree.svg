@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 340" width="720" height="340">
+  <rect width="720" height="340" fill="#ffffff"/>
+  <text x="360" y="22" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="14" fill="#6b7380">Call tree for hanoi(3): each internal node is a recursive call; each orange leaf is one printed move.</text>
+
+  <!-- level 0 -->
+  <rect x="300" y="40" width="120" height="36" rx="6" fill="#eef3f8" stroke="#2a5a8c" stroke-width="2"/>
+  <text x="360" y="62" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="13" font-weight="700" fill="#1c2430">hanoi(3)</text>
+
+  <!-- edges to level 1 -->
+  <line x1="330" y1="76" x2="150" y2="110" stroke="#8a93a0" stroke-width="1.5"/>
+  <line x1="360" y1="76" x2="360" y2="110" stroke="#8a93a0" stroke-width="1.5"/>
+  <line x1="390" y1="76" x2="570" y2="110" stroke="#8a93a0" stroke-width="1.5"/>
+
+  <!-- level 1 -->
+  <rect x="90" y="112" width="120" height="36" rx="6" fill="#eef3f8" stroke="#2a5a8c" stroke-width="2"/>
+  <text x="150" y="134" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="13" font-weight="700" fill="#1c2430">hanoi(2)</text>
+
+  <rect x="310" y="112" width="100" height="36" rx="6" fill="#f7f3ee" stroke="#b56a3a" stroke-width="2"/>
+  <text x="360" y="134" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="12" font-weight="700" fill="#b56a3a">1 move</text>
+
+  <rect x="510" y="112" width="120" height="36" rx="6" fill="#eef3f8" stroke="#2a5a8c" stroke-width="2"/>
+  <text x="570" y="134" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="13" font-weight="700" fill="#1c2430">hanoi(2)</text>
+
+  <!-- edges left hanoi(2) -->
+  <line x1="120" y1="148" x2="50" y2="180" stroke="#8a93a0" stroke-width="1.5"/>
+  <line x1="150" y1="148" x2="150" y2="180" stroke="#8a93a0" stroke-width="1.5"/>
+  <line x1="180" y1="148" x2="250" y2="180" stroke="#8a93a0" stroke-width="1.5"/>
+
+  <!-- edges right hanoi(2) -->
+  <line x1="540" y1="148" x2="470" y2="180" stroke="#8a93a0" stroke-width="1.5"/>
+  <line x1="570" y1="148" x2="570" y2="180" stroke="#8a93a0" stroke-width="1.5"/>
+  <line x1="600" y1="148" x2="670" y2="180" stroke="#8a93a0" stroke-width="1.5"/>
+
+  <!-- level 2 left -->
+  <rect x="10" y="182" width="80" height="32" rx="5" fill="#eef3f8" stroke="#2a5a8c" stroke-width="1.5"/>
+  <text x="50" y="202" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="12" font-weight="700" fill="#1c2430">h(1)</text>
+  <rect x="110" y="182" width="80" height="32" rx="5" fill="#f7f3ee" stroke="#b56a3a" stroke-width="1.5"/>
+  <text x="150" y="202" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="11" font-weight="700" fill="#b56a3a">move</text>
+  <rect x="210" y="182" width="80" height="32" rx="5" fill="#eef3f8" stroke="#2a5a8c" stroke-width="1.5"/>
+  <text x="250" y="202" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="12" font-weight="700" fill="#1c2430">h(1)</text>
+
+  <!-- level 2 right -->
+  <rect x="430" y="182" width="80" height="32" rx="5" fill="#eef3f8" stroke="#2a5a8c" stroke-width="1.5"/>
+  <text x="470" y="202" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="12" font-weight="700" fill="#1c2430">h(1)</text>
+  <rect x="530" y="182" width="80" height="32" rx="5" fill="#f7f3ee" stroke="#b56a3a" stroke-width="1.5"/>
+  <text x="570" y="202" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="11" font-weight="700" fill="#b56a3a">move</text>
+  <rect x="630" y="182" width="80" height="32" rx="5" fill="#eef3f8" stroke="#2a5a8c" stroke-width="1.5"/>
+  <text x="670" y="202" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="12" font-weight="700" fill="#1c2430">h(1)</text>
+
+  <!-- edges to leaf moves from h(1) -->
+  <line x1="50" y1="214" x2="50" y2="244" stroke="#8a93a0" stroke-width="1.5"/>
+  <line x1="250" y1="214" x2="250" y2="244" stroke="#8a93a0" stroke-width="1.5"/>
+  <line x1="470" y1="214" x2="470" y2="244" stroke="#8a93a0" stroke-width="1.5"/>
+  <line x1="670" y1="214" x2="670" y2="244" stroke="#8a93a0" stroke-width="1.5"/>
+
+  <!-- leaf moves -->
+  <rect x="20" y="246" width="60" height="28" rx="5" fill="#f7f3ee" stroke="#b56a3a" stroke-width="1.5"/>
+  <text x="50" y="264" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="11" font-weight="700" fill="#b56a3a">move</text>
+  <rect x="220" y="246" width="60" height="28" rx="5" fill="#f7f3ee" stroke="#b56a3a" stroke-width="1.5"/>
+  <text x="250" y="264" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="11" font-weight="700" fill="#b56a3a">move</text>
+  <rect x="440" y="246" width="60" height="28" rx="5" fill="#f7f3ee" stroke="#b56a3a" stroke-width="1.5"/>
+  <text x="470" y="264" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="11" font-weight="700" fill="#b56a3a">move</text>
+  <rect x="640" y="246" width="60" height="28" rx="5" fill="#f7f3ee" stroke="#b56a3a" stroke-width="1.5"/>
+  <text x="670" y="264" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="11" font-weight="700" fill="#b56a3a">move</text>
+
+  <text x="360" y="310" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="13" fill="#1c2430">Seven orange boxes = seven printed moves. Each hanoi(k) makes two smaller calls. That is why the tree doubles at every level.</text>
+  <text x="360" y="330" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="13" fill="#6b7380">T(n) = 2 T(n1) + 1, T(1) = 1  ’  T(n) = 2^n  1.</text>
+</svg>

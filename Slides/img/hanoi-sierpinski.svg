@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 300" width="560" height="300">
+  <rect width="560" height="300" fill="#ffffff"/>
+  <text x="280" y="22" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="14" fill="#6b7380">Legal boards for n disks: 3^n states. Drawn carefully, the graph is a SierpiDski triangle.</text>
+
+  <!-- outer triangle outline (subtle) -->
+  <polygon points="280,48 520,260 40,260" fill="none" stroke="#d8dce3" stroke-width="2"/>
+
+  <!-- three mid-size triangles (n=2 pattern) -->
+  <!-- top -->
+  <polygon points="280,48 360,140 200,140" fill="#eef3f8" stroke="#2a5a8c" stroke-width="1.5"/>
+  <!-- bottom left -->
+  <polygon points="200,140 280,232 120,232" fill="#eef3f8" stroke="#2a5a8c" stroke-width="1.5"/>
+  <!-- bottom right -->
+  <polygon points="360,140 440,232 280,232" fill="#eef3f8" stroke="#2a5a8c" stroke-width="1.5"/>
+
+  <!-- connectors between the three big corners (the n=3 joins) -->
+  <line x1="200" y1="140" x2="360" y2="140" stroke="#b56a3a" stroke-width="2.5"/>
+  <line x1="280" y1="232" x2="200" y2="140" stroke="#b56a3a" stroke-width="2.5"/>
+  <line x1="280" y1="232" x2="360" y2="140" stroke="#b56a3a" stroke-width="2.5"/>
+
+  <!-- tiny nodes at corners of each mid triangle -->
+  <g fill="#1c2430">
+    <circle cx="280" cy="48" r="5"/>
+    <circle cx="200" cy="140" r="5"/>
+    <circle cx="360" cy="140" r="5"/>
+    <circle cx="120" cy="232" r="5"/>
+    <circle cx="280" cy="232" r="5"/>
+    <circle cx="440" cy="232" r="5"/>
+  </g>
+
+  <!-- labels -->
+  <text x="280" y="38" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="12" font-weight="700" fill="#2a5a8c">all on aux</text>
+  <text x="95" y="252" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="12" font-weight="700" fill="#2a5a8c">all on start</text>
+  <text x="465" y="252" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="12" font-weight="700" fill="#2a5a8c">all on goal</text>
+
+  <text x="280" y="282" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="13" fill="#1c2430">A shortest solution is a path of length 2^n  1 between two corners.</text>
+</svg>

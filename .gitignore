@@ -1,0 +1,6 @@
+.DS_Store
+*.html
+.quarto/
+*_files/
+.Rproj.user/
+.ipynb_checkpoints/
