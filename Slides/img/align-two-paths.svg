@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 400" width="760" height="400">
+  <rect width="760" height="400" fill="#ffffff"/>
+  <text x="380" y="26" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="15" fill="#6b7380">Same sequences. Different walks. Different alignments.</text>
+
+  <!-- ========== PATH A ========== -->
+  <rect x="20" y="44" width="350" height="340" rx="14" fill="#fafbfc" stroke="#d8dce3" stroke-width="2"/>
+  <text x="195" y="70" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="16" font-weight="700" fill="#b56a3a">path A</text>
+
+  <g font-family="ui-monospace,Menlo,monospace" font-size="14" fill="#2a5a8c" text-anchor="middle">
+    <text x="90" y="98">-</text><text x="140" y="98">G</text><text x="190" y="98">C</text><text x="240" y="98">A</text><text x="290" y="98">T</text>
+    <text x="50" y="130">-</text><text x="50" y="180">G</text><text x="50" y="230">C</text><text x="50" y="280">T</text>
+  </g>
+
+  <g fill="#eef3f8" stroke="#d8dce3" stroke-width="1.5">
+    <rect x="65" y="108" width="50" height="50" rx="4"/><rect x="115" y="108" width="50" height="50" rx="4"/><rect x="165" y="108" width="50" height="50" rx="4"/><rect x="215" y="108" width="50" height="50" rx="4"/><rect x="265" y="108" width="50" height="50" rx="4"/>
+    <rect x="65" y="158" width="50" height="50" rx="4"/><rect x="115" y="158" width="50" height="50" rx="4"/><rect x="165" y="158" width="50" height="50" rx="4"/><rect x="215" y="158" width="50" height="50" rx="4"/><rect x="265" y="158" width="50" height="50" rx="4"/>
+    <rect x="65" y="208" width="50" height="50" rx="4"/><rect x="115" y="208" width="50" height="50" rx="4"/><rect x="165" y="208" width="50" height="50" rx="4"/><rect x="215" y="208" width="50" height="50" rx="4"/><rect x="265" y="208" width="50" height="50" rx="4"/>
+    <rect x="65" y="258" width="50" height="50" rx="4"/><rect x="115" y="258" width="50" height="50" rx="4"/><rect x="165" y="258" width="50" height="50" rx="4"/><rect x="215" y="258" width="50" height="50" rx="4"/><rect x="265" y="258" width="50" height="50" rx="4"/>
+  </g>
+  <g fill="#f7f3ee" stroke="#b56a3a" stroke-width="2.5">
+    <rect x="65" y="108" width="50" height="50" rx="4"/>
+    <rect x="115" y="158" width="50" height="50" rx="4"/>
+    <rect x="165" y="208" width="50" height="50" rx="4"/>
+    <rect x="215" y="208" width="50" height="50" rx="4"/>
+    <rect x="265" y="258" width="50" height="50" rx="4"/>
+  </g>
+  <polyline points="90,133 140,183 190,233 240,233 290,283" fill="none" stroke="#b56a3a" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <g fill="#b56a3a">
+    <circle cx="90" cy="133" r="5"/><circle cx="140" cy="183" r="5"/><circle cx="190" cy="233" r="5"/><circle cx="240" cy="233" r="5"/><circle cx="290" cy="283" r="5"/>
+  </g>
+
+  <text x="195" y="340" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="20" fill="#1c2430">G C <tspan fill="#b56a3a">-</tspan> T</text>
+  <text x="195" y="365" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="20" fill="#1c2430">G C <tspan fill="#2a5a8c">A</tspan> T</text>
+
+  <!-- ========== PATH B ========== -->
+  <rect x="390" y="44" width="350" height="340" rx="14" fill="#fafbfc" stroke="#d8dce3" stroke-width="2"/>
+  <text x="565" y="70" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="16" font-weight="700" fill="#2a5a8c">path B</text>
+
+  <g font-family="ui-monospace,Menlo,monospace" font-size="14" fill="#2a5a8c" text-anchor="middle">
+    <text x="460" y="98">-</text><text x="510" y="98">G</text><text x="560" y="98">C</text><text x="610" y="98">A</text><text x="660" y="98">T</text>
+    <text x="420" y="130">-</text><text x="420" y="180">G</text><text x="420" y="230">C</text><text x="420" y="280">T</text>
+  </g>
+
+  <g fill="#eef3f8" stroke="#d8dce3" stroke-width="1.5">
+    <rect x="435" y="108" width="50" height="50" rx="4"/><rect x="485" y="108" width="50" height="50" rx="4"/><rect x="535" y="108" width="50" height="50" rx="4"/><rect x="585" y="108" width="50" height="50" rx="4"/><rect x="635" y="108" width="50" height="50" rx="4"/>
+    <rect x="435" y="158" width="50" height="50" rx="4"/><rect x="485" y="158" width="50" height="50" rx="4"/><rect x="535" y="158" width="50" height="50" rx="4"/><rect x="585" y="158" width="50" height="50" rx="4"/><rect x="635" y="158" width="50" height="50" rx="4"/>
+    <rect x="435" y="208" width="50" height="50" rx="4"/><rect x="485" y="208" width="50" height="50" rx="4"/><rect x="535" y="208" width="50" height="50" rx="4"/><rect x="585" y="208" width="50" height="50" rx="4"/><rect x="635" y="208" width="50" height="50" rx="4"/>
+    <rect x="435" y="258" width="50" height="50" rx="4"/><rect x="485" y="258" width="50" height="50" rx="4"/><rect x="535" y="258" width="50" height="50" rx="4"/><rect x="585" y="258" width="50" height="50" rx="4"/><rect x="635" y="258" width="50" height="50" rx="4"/>
+  </g>
+  <g fill="#e8eef5" stroke="#2a5a8c" stroke-width="2.5">
+    <rect x="435" y="108" width="50" height="50" rx="4"/>
+    <rect x="485" y="158" width="50" height="50" rx="4"/>
+    <rect x="535" y="208" width="50" height="50" rx="4"/>
+    <rect x="585" y="258" width="50" height="50" rx="4"/>
+    <rect x="635" y="258" width="50" height="50" rx="4"/>
+  </g>
+  <polyline points="460,133 510,183 560,233 610,283 660,283" fill="none" stroke="#2a5a8c" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <g fill="#2a5a8c">
+    <circle cx="460" cy="133" r="5"/><circle cx="510" cy="183" r="5"/><circle cx="560" cy="233" r="5"/><circle cx="610" cy="283" r="5"/><circle cx="660" cy="283" r="5"/>
+  </g>
+
+  <text x="565" y="340" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="20" fill="#1c2430">G C T <tspan fill="#b56a3a">-</tspan></text>
+  <text x="565" y="365" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="20" fill="#1c2430">G C A T</text>
+</svg>

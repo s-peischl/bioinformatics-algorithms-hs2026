@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 250" width="720" height="250">
+  <rect width="720" height="250" fill="#ffffff"/>
+  <text x="360" y="28" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="15" fill="#1c2430">The same protein, from the first amino acid to the last.</text>
+
+  <text x="36" y="92" font-family="Helvetica,Arial,sans-serif" font-size="14" fill="#6b7380">human</text>
+  <rect x="130" y="68" width="540" height="36" rx="7" fill="#f7f3ee" stroke="#b56a3a" stroke-width="2.2"/>
+  <text x="400" y="92" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="14" fill="#b56a3a">cytochrome c, about 104 amino acids</text>
+
+  <text x="36" y="162" font-family="Helvetica,Arial,sans-serif" font-size="14" fill="#6b7380">yeast</text>
+  <rect x="130" y="138" width="540" height="36" rx="7" fill="#eef3f8" stroke="#2a5a8c" stroke-width="2.2"/>
+  <text x="400" y="162" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="14" fill="#2a5a8c">cytochrome c, same job, drifted letters</text>
+
+  <text x="360" y="214" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="14" fill="#6b7380">Count differences along the whole chain.</text>
+  <text x="360" y="236" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="14" fill="#1c2430">That count needs a global alignment.</text>
+</svg>

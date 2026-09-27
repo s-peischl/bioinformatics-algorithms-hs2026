@@ -578,14 +578,14 @@ Next week adds a third option: dynamic programming — still exact, much less wo
 After the lab. Do not start NP reductions.
 :::
 
-## What you must be able to say
+## Takeaway / Questions
 
 ::: {.qs}
 ::: {.q}
 [Q1]{.tag} How many distinct TSP tours on $n$ cities, and why is that not $n!$?
 :::
 ::: {.q}
-[Q2]{.tag} Nearest neighbor from two starts can disagree, and neither need be shortest. Say that on the toy.
+[Q2]{.tag} Nearest neighbor from two starts can disagree, and neither need be shortest.
 :::
 ::: {.q .q3}
 [Q3]{.tag} One room. As many talks as possible; two talks cannot overlap. A talk may start when the previous one finishes.
@@ -633,9 +633,9 @@ Earliest-finish on intervals *is* optimal. Greedy is a method; the rule needs a 
 
 ## Next week
 
-**Dynamic programming — the idea.**
+**Dynamic programming — tourist + alignment.**
 
-A tourist on a grid may only walk south and east. Listing every path is hopeless. The same cell is reached by many paths — so we will **fill a table** instead of recomputing.
+A tourist on a grid may only walk south and east. Listing every path is hopeless. The same cell is reached by many paths — so we will **fill a table** instead of recomputing, then put letters on the edges (Needleman–Wunsch).
 
 ## To read
 

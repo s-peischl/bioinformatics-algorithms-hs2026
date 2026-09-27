@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 300" width="640" height="300">
+  <rect width="640" height="300" fill="#ffffff"/>
+  <text x="320" y="28" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="15" fill="#6b7380">Three rows of BLOSUM62. The diagonal of the alignment adds the entry.</text>
+
+  <g font-family="Helvetica,Arial,sans-serif" font-size="18">
+    <text x="180" y="78" text-anchor="middle" fill="#2a5a8c" font-weight="700">A</text>
+    <text x="270" y="78" text-anchor="middle" fill="#2a5a8c" font-weight="700">L</text>
+    <text x="360" y="78" text-anchor="middle" fill="#2a5a8c" font-weight="700">I</text>
+    <text x="100" y="128" text-anchor="middle" fill="#2a5a8c" font-weight="700">A</text>
+    <text x="100" y="188" text-anchor="middle" fill="#2a5a8c" font-weight="700">L</text>
+    <text x="100" y="248" text-anchor="middle" fill="#2a5a8c" font-weight="700">I</text>
+
+    <rect x="140" y="96" width="80" height="48" rx="6" fill="#f7f3ee" stroke="#b56a3a" stroke-width="2"/>
+    <text x="180" y="126" text-anchor="middle" fill="#1c2430" font-weight="700">4</text>
+    <rect x="230" y="96" width="80" height="48" rx="6" fill="#eef3f8" stroke="#d8dce3" stroke-width="2"/>
+    <text x="270" y="126" text-anchor="middle" fill="#1c2430">-1</text>
+    <rect x="320" y="96" width="80" height="48" rx="6" fill="#eef3f8" stroke="#d8dce3" stroke-width="2"/>
+    <text x="360" y="126" text-anchor="middle" fill="#1c2430">-1</text>
+
+    <rect x="140" y="156" width="80" height="48" rx="6" fill="#eef3f8" stroke="#d8dce3" stroke-width="2"/>
+    <text x="180" y="186" text-anchor="middle" fill="#1c2430">-1</text>
+    <rect x="230" y="156" width="80" height="48" rx="6" fill="#f7f3ee" stroke="#b56a3a" stroke-width="2"/>
+    <text x="270" y="186" text-anchor="middle" fill="#1c2430" font-weight="700">4</text>
+    <rect x="320" y="156" width="80" height="48" rx="6" fill="#e8f0e8" stroke="#2a5a8c" stroke-width="2"/>
+    <text x="360" y="186" text-anchor="middle" fill="#1c2430" font-weight="700">2</text>
+
+    <rect x="140" y="216" width="80" height="48" rx="6" fill="#eef3f8" stroke="#d8dce3" stroke-width="2"/>
+    <text x="180" y="246" text-anchor="middle" fill="#1c2430">-1</text>
+    <rect x="230" y="216" width="80" height="48" rx="6" fill="#e8f0e8" stroke="#2a5a8c" stroke-width="2"/>
+    <text x="270" y="246" text-anchor="middle" fill="#1c2430" font-weight="700">2</text>
+    <rect x="320" y="216" width="80" height="48" rx="6" fill="#f7f3ee" stroke="#b56a3a" stroke-width="2"/>
+    <text x="360" y="246" text-anchor="middle" fill="#1c2430" font-weight="700">4</text>
+  </g>
+
+  <text x="470" y="140" font-family="Helvetica,Arial,sans-serif" font-size="15" fill="#1c2430">Leu with Ile: +2</text>
+  <text x="470" y="168" font-family="Helvetica,Arial,sans-serif" font-size="15" fill="#2a5a8c">similar side chains</text>
+  <text x="470" y="210" font-family="Helvetica,Arial,sans-serif" font-size="15" fill="#1c2430">Leu with Ala: -1</text>
+  <text x="470" y="238" font-family="Helvetica,Arial,sans-serif" font-size="15" fill="#b56a3a">different side chains</text>
+</svg>

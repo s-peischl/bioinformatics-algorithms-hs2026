@@ -271,15 +271,39 @@ section.has-dark-background a {
   display: block;
   margin: 0.4em auto;
   max-height: 420px;
+  max-width: 100%;
+  height: auto;
+  width: auto;
   background: transparent;
+}
+
+/* Reveal stretch sets an inline height. On a full slide that height
+   becomes 0 and the figure disappears. Keep the sketch's own size. */
+.reveal img.sketch.r-stretch,
+.reveal img.plot.r-stretch {
+  height: auto !important;
+  width: auto !important;
+  max-width: 100% !important;
+  max-height: 420px !important;
 }
 
 .reveal img.photo {
   display: block;
   margin: 0.35em auto;
-  max-height: 340px;
+  max-height: 400px;
+  max-width: 100%;
+  height: auto;
   width: auto;
+  object-fit: contain;
   background: transparent;
+}
+
+.reveal img.photo.r-stretch {
+  height: auto !important;
+  width: auto !important;
+  max-width: 100% !important;
+  max-height: 400px !important;
+  object-fit: contain !important;
 }
 
 section.has-dark-background p,

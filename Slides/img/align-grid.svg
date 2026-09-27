@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 360" width="700" height="360">
+  <rect width="700" height="360" fill="#ffffff"/>
+  <text x="350" y="26" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="15" fill="#6b7380">One sequence on each axis. A walk from S to E is an alignment.</text>
+
+  <!-- column headers -->
+  <text x="280" y="52" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="13" fill="#6b7380">sequence 2 (GCAT)</text>
+  <g font-family="ui-monospace,Menlo,monospace" font-size="18" fill="#2a5a8c" text-anchor="middle">
+    <text x="140" y="82">-</text>
+    <text x="210" y="82">G</text>
+    <text x="280" y="82">C</text>
+    <text x="350" y="82">A</text>
+    <text x="420" y="82">T</text>
+  </g>
+
+  <!-- row headers -->
+  <text x="36" y="200" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="13" fill="#6b7380" transform="rotate(-90 36 200)">seq 1 (GCT)</text>
+  <g font-family="ui-monospace,Menlo,monospace" font-size="18" fill="#2a5a8c" text-anchor="middle">
+    <text x="80" y="120">-</text>
+    <text x="80" y="180">G</text>
+    <text x="80" y="240">C</text>
+    <text x="80" y="300">T</text>
+  </g>
+
+  <!-- grid -->
+  <g fill="#eef3f8" stroke="#c5ccd6" stroke-width="2">
+    <rect x="105" y="90" width="70" height="60" rx="5"/><rect x="175" y="90" width="70" height="60" rx="5"/><rect x="245" y="90" width="70" height="60" rx="5"/><rect x="315" y="90" width="70" height="60" rx="5"/><rect x="385" y="90" width="70" height="60" rx="5"/>
+    <rect x="105" y="150" width="70" height="60" rx="5"/><rect x="175" y="150" width="70" height="60" rx="5"/><rect x="245" y="150" width="70" height="60" rx="5"/><rect x="315" y="150" width="70" height="60" rx="5"/><rect x="385" y="150" width="70" height="60" rx="5"/>
+    <rect x="105" y="210" width="70" height="60" rx="5"/><rect x="175" y="210" width="70" height="60" rx="5"/><rect x="245" y="210" width="70" height="60" rx="5"/><rect x="315" y="210" width="70" height="60" rx="5"/><rect x="385" y="210" width="70" height="60" rx="5"/>
+    <rect x="105" y="270" width="70" height="60" rx="5"/><rect x="175" y="270" width="70" height="60" rx="5"/><rect x="245" y="270" width="70" height="60" rx="5"/><rect x="315" y="270" width="70" height="60" rx="5"/><rect x="385" y="270" width="70" height="60" rx="5"/>
+  </g>
+
+  <!-- S and E -->
+  <circle cx="140" cy="120" r="14" fill="#b56a3a"/>
+  <text x="140" y="125" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="13" font-weight="700" fill="#ffffff">S</text>
+  <circle cx="420" cy="300" r="14" fill="#b56a3a"/>
+  <text x="420" y="305" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="13" font-weight="700" fill="#ffffff">E</text>
+
+  <!-- example move arrows drawn ON the grid from S -->
+  <defs>
+    <marker id="arrB" markerWidth="8" markerHeight="8" refX="6" refY="4" orient="auto"><path d="M0,0 L8,4 L0,8 Z" fill="#2a5a8c"/></marker>
+    <marker id="arrW" markerWidth="8" markerHeight="8" refX="6" refY="4" orient="auto"><path d="M0,0 L8,4 L0,8 Z" fill="#b56a3a"/></marker>
+  </defs>
+  <!-- diagonal from S -->
+  <line x1="155" y1="135" x2="195" y2="170" stroke="#2a5a8c" stroke-width="3" marker-end="url(#arrB)"/>
+  <!-- east from S -->
+  <line x1="155" y1="120" x2="200" y2="120" stroke="#b56a3a" stroke-width="3" marker-end="url(#arrW)"/>
+  <!-- south from S -->
+  <line x1="140" y1="135" x2="140" y2="175" stroke="#b56a3a" stroke-width="3" marker-end="url(#arrW)"/>
+
+  <!-- legend panel -->
+  <rect x="490" y="90" width="190" height="240" rx="12" fill="#fafbfc" stroke="#d8dce3" stroke-width="2"/>
+  <text x="585" y="120" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="15" font-weight="700" fill="#1c2430">Three moves</text>
+
+  <line x1="520" y1="150" x2="548" y2="178" stroke="#2a5a8c" stroke-width="3" marker-end="url(#arrB)"/>
+  <text x="560" y="160" font-family="Helvetica,Arial,sans-serif" font-size="14" fill="#1c2430">diagonal</text>
+  <text x="560" y="178" font-family="Helvetica,Arial,sans-serif" font-size="12" fill="#6b7380">pair two letters</text>
+
+  <line x1="520" y1="210" x2="555" y2="210" stroke="#b56a3a" stroke-width="3" marker-end="url(#arrW)"/>
+  <text x="570" y="206" font-family="Helvetica,Arial,sans-serif" font-size="14" fill="#1c2430">east</text>
+  <text x="570" y="224" font-family="Helvetica,Arial,sans-serif" font-size="12" fill="#6b7380">gap in seq 1</text>
+
+  <line x1="538" y1="255" x2="538" y2="290" stroke="#b56a3a" stroke-width="3" marker-end="url(#arrW)"/>
+  <text x="560" y="270" font-family="Helvetica,Arial,sans-serif" font-size="14" fill="#1c2430">south</text>
+  <text x="560" y="288" font-family="Helvetica,Arial,sans-serif" font-size="12" fill="#6b7380">gap in seq 2</text>
+
+  <text x="585" y="318" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="12" fill="#6b7380">only these three</text>
+</svg>

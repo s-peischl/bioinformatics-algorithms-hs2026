@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 240" width="640" height="240">
+  <rect width="640" height="240" fill="#ffffff"/>
+  <text x="320" y="32" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="15" fill="#6b7380">Some DNA letter changes are common. Score those more gently.</text>
+
+  <rect x="40" y="70" width="270" height="130" rx="10" fill="#eef3f8" stroke="#2a5a8c" stroke-width="2"/>
+  <text x="175" y="110" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="18" fill="#1c2430">C to T</text>
+  <text x="175" y="140" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="16" fill="#2a5a8c">a transition, common</text>
+  <text x="175" y="172" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="18" font-weight="700" fill="#2a5a8c">score 0</text>
+
+  <rect x="330" y="70" width="270" height="130" rx="10" fill="#f7f3ee" stroke="#b56a3a" stroke-width="2"/>
+  <text x="465" y="110" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="18" fill="#1c2430">C to A</text>
+  <text x="465" y="140" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="16" fill="#b56a3a">a transversion, rarer</text>
+  <text x="465" y="172" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="18" font-weight="700" fill="#b56a3a">score -2</text>
+</svg>

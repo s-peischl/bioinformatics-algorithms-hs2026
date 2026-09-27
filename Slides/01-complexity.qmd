@@ -698,7 +698,7 @@ The code already runs. The questions are yours to answer.
 
 ::: {.tools}
 - Every compiler and interpreter: you ask the same three questions of generated code — including code from a language model.
-- Genome-scale tools exist because someone changed the *idea*, not the laptop. **BLAST** (week 4) indexes short words, then extends a local match. **minimap2** and **BWA** (weeks 8–9) index the genome so a query does not scan all $3 \times 10^9$ letters. **IQ-TREE** (week 10) scores trees by pruning, not by unfolding an exponential recurrence.
+- Genome-scale tools exist because someone changed the *idea*, not the laptop. **BLAST** (week 3) indexes short words, then extends a local match. **minimap2** and **BWA** (weeks 8–9) index the genome so a query does not scan all $3 \times 10^9$ letters. **IQ-TREE** (week 10) scores trees by pruning, not by unfolding an exponential recurrence.
 - [Python Tutor](https://pythontutor.com) — watch `fib(5)` allocate a tree of calls.
 :::
 
