@@ -6,11 +6,11 @@ This repository is meant for **students**: clone it, open the Quarto slides, and
 
 ## Currently available
 
-- **Week 1** — Algorithms, recursion, complexity (`Slides/01-complexity.qmd`)
+- **Week 1** — Algorithms, recursion, complexity (`Slides/01-complexity.qmd`, [PDF](Slides/01-complexity.pdf))
   - Lab: `Slides/labs/01-fib.ipynb`
-- **Week 2** — Hard problems and greedy ideas (`Slides/02-hard-problems.qmd`)
+- **Week 2** — Hard problems and greedy ideas (`Slides/02-hard-problems.qmd`, [PDF](Slides/02-hard-problems.pdf))
   - Lab: `Slides/labs/02-tsp.ipynb` (TSP + genetic algorithm + interval scheduling)
-- **Week 3** — Dynamic programming: tourist + alignment (`Slides/03-dynamic-programming.qmd`)
+- **Week 3** — Dynamic programming: tourist + alignment (`Slides/03-dynamic-programming.qmd`, [PDF](Slides/03-dynamic-programming.pdf))
   - Labs: `Slides/labs/03-tourist.ipynb`, `Slides/labs/04-nw.ipynb`
 
 Later weeks will be added as the course progresses.
