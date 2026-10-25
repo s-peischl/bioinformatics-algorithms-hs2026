@@ -123,21 +123,28 @@ The algorithm text stays short. The tree of calls — and the list of moves — 
 
 You can solve Hanoi **without recursion**. Same $2^n-1$ moves; a loop instead of a call stack.
 
+:::: {.split}
+::: {.pane}
 **Rule (odd $n$).** Repeat until done:
 
 1. Move the **smallest** disk one step in the cycle `start → goal → aux → start`.
 2. Make the **only other legal move** (the move that does not touch the smallest disk).
 
 For even $n$, reverse the cycle: `start → aux → goal → start`.
-
+:::
+::: {.pane}
 ```python
-# Pseudocode — same output length as the recursive version
-for step in range(1, 2**n):          # 2^n - 1 moves
+# Pseudocode: same output length
+# as the recursive version.
+# 2^n - 1 moves:
+for step in range(1, 2**n):
     if step % 2 == 1:
         move_smallest_along_cycle()
     else:
         make_only_other_legal_move()
 ```
+:::
+::::
 
 ::: {.takeaway}
 Recursive or iterative: the **idea** can be short. Emitting every move still costs $2^n-1$ lines.
@@ -169,7 +176,7 @@ Describing the algorithm is not the same job as emitting every move. The list ha
 
 Each disk can sit on any of three pegs, with the size rule. That gives $3^n$ **legal boards**. Draw a vertex for each board and an edge for each legal one-disk move: for small $n$ the picture is a **Sierpiński triangle**.
 
-![](img/hanoi-sierpinski.svg){.sketch}
+![](img/hanoi-sierpinski.svg){.sketch .shorter}
 
 A shortest solution is a path of length $2^n-1$ from “all on start” to “all on goal.” The three-line recurrence *compresses* that path; you do not need to search the graph.
 
@@ -181,7 +188,7 @@ Week 7 draws Hanoi as a graph properly (nodes, edges, walks). Today: the state s
 
 Shojaee et al. (2025) asked frontier models for Hanoi **move lists** as $n$ grew. The same models could often **state** the three jobs — and still fail to carry them out.
 
-![](img/shojaee-hanoi-acc.png){.paperfig .nostretch}
+![](img/shojaee-hanoi-acc.png){.paperfig .nostretch .short}
 
 ::: {.takeaway}
 Accuracy is already gone by $n \approx 8$, where $2^{8}-1 = 255$ lines still fit. That is not “they ran out of words.”
@@ -233,7 +240,7 @@ An **algorithm** is a finite list of well-defined instructions that starts from 
 Hanoi’s three jobs are an algorithm. A random mix of moves that might never finish is not.
 :::
 ::: {.pane}
-::: {.card .warm}
+::: {.card .warm .small}
 **Not a recipe**
 
 1. Take ingredients.
@@ -291,12 +298,14 @@ Every meeting has a **lab notebook**: the lecture example, already filled in. Ru
 
 Biology gives us the data (strings, graphs, trees). This course is about **how to organise that data** so a method becomes feasible — not about memorising software menus.
 
+::: {.small}
 | Weeks | What we do |
 |--:|:---|
 | **1–2** | Learn to judge a method (correct? $T(n)$? better?). Meet problems where listing every answer fails. |
 | **3–6** | Find **similarity** between sequences (alignment as a filled table). Search smarter by **pruning** hopeless branches (motifs, branch-and-bound). Ask when a greedy step is good enough. |
 | **7–9** | **Combine pieces** into one genome (assembly: change the graph). **Search** a long string without scanning it all (suffix trees, BWT / an index). |
 | **10–12** | **Reconstruct hidden structure**: trees (phylogenetics), groups or axes (clustering / PCA), a classifying line (SVM). |
+:::
 
 ::: {.takeaway}
 Change how the data are organised — a table, a tree of partial answers, a graph, an index — and the algorithm changes with them.
@@ -310,9 +319,14 @@ This is the map, not a syllabus reading. One breath per row. Naming BWT or assem
 
 ## Why size forces a choice
 
+:::: {.split}
+::: {.pane}
 ![](img/genome-scale.svg){.sketch}
-
+:::
+::: {.pane}
 A human genome is about $3 \times 10^9$ letters. Sequencing gives **short fragments**. Alignment, assembly, and search are procedures on strings of this size — that is weeks 4, 7, and 8–9, not a different subject.
+:::
+::::
 
 All-vs-all character comparisons on that $n$ would be $n^2 \approx 9 \times 10^{18}$ operations. At a nanosecond each, that is not “a slow laptop” — it is **centuries**. Later we will change how the letters are organised (an index, a graph), not buy a faster CPU.
 
@@ -472,7 +486,7 @@ fib1(5)    # same toy, linear work
 Same input/output, two algorithms. The difference is an **idea** (reuse), not a faster computer.
 :::
 
-![](img/plot-fib-time.png){.plot}
+![](img/plot-fib-time.png){.plot .shorter}
 
 ::: {.muted}
 Measured on a linear axis. Recursive `fib` is already slow by $n \approx 30$. The stored-value version sits on the axis.
@@ -505,7 +519,7 @@ $O(n^2)$ covers both $0.0005\,n^2$ and $10^7 n^2 + 3n + 2$.
 Only the **leading term** matters. Constant factors do not.
 :::
 
-![](img/plot-bigo.png){.plot}
+![](img/plot-bigo.png){.plot .short}
 
 ## Formally
 

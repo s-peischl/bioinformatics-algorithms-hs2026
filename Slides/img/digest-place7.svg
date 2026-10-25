@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 320" width="760" height="320" preserveAspectRatio="xMidYMid meet">
+  <rect width="760" height="320" fill="#ffffff"/>
+  <defs><marker id="aw" markerUnits="userSpaceOnUse" markerWidth="12" markerHeight="12" refX="11" refY="6" orient="auto"><path d="M0,0 L12,6 L0,12 Z" fill="#b56a3a"/></marker><marker id="ab" markerUnits="userSpaceOnUse" markerWidth="12" markerHeight="12" refX="11" refY="6" orient="auto"><path d="M0,0 L12,6 L0,12 Z" fill="#2a5a8c"/></marker><marker id="ak" markerUnits="userSpaceOnUse" markerWidth="12" markerHeight="12" refX="11" refY="6" orient="auto"><path d="M0,0 L12,6 L0,12 Z" fill="#1c2430"/></marker><marker id="af" markerUnits="userSpaceOnUse" markerWidth="12" markerHeight="12" refX="11" refY="6" orient="auto"><path d="M0,0 L12,6 L0,12 Z" fill="#c5ccd6"/></marker></defs>
+  <line x1="48.0" y1="100.0" x2="712.0" y2="100.0" stroke="#1c2430" stroke-width="3"/>
+  <circle cx="60.0" cy="100" r="10" fill="#eef3f8" stroke="#2a5a8c" stroke-width="2.6"/>
+  <text x="60.0" y="132" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="16" font-weight="700" fill="#1c2430">0</text>
+  <circle cx="508.0" cy="100" r="10" fill="#f7f3ee" stroke="#b56a3a" stroke-width="2.6"/>
+  <text x="508.0" y="132" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="16" font-weight="700" fill="#b56a3a">7?</text>
+  <circle cx="572.0" cy="100" r="10" fill="#eef3f8" stroke="#2a5a8c" stroke-width="2.6"/>
+  <text x="572.0" y="132" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="16" font-weight="700" fill="#1c2430">8</text>
+  <circle cx="700.0" cy="100" r="10" fill="#eef3f8" stroke="#2a5a8c" stroke-width="2.6"/>
+  <text x="700.0" y="132" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="16" font-weight="700" fill="#1c2430">10</text>
+  <line x1="60.0" y1="64.0" x2="508.0" y2="64.0" stroke="#b56a3a" stroke-width="2.0"/>
+  <text x="284.0" y="50" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="14" font-weight="700" fill="#b56a3a">7  in L</text>
+  <line x1="508.0" y1="150.0" x2="572.0" y2="150.0" stroke="#b56a3a" stroke-width="2.6"/>
+  <text x="540.0" y="174" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="16" font-weight="700" fill="#b56a3a">1  not in L</text>
+  <line x1="508.0" y1="90.0" x2="700.0" y2="36.0" stroke="#6b7380" stroke-width="1.6" stroke-dasharray="5 4"/>
+  <text x="648.8" y="24" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="14" font-weight="normal" fill="#6b7380">3  in L</text>
+  <rect x="180" y="210" width="400" height="70" rx="6" fill="#f7f3ee" stroke="#b56a3a" stroke-width="2.2"/>
+  <text x="380" y="240" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="17" font-weight="700" fill="#b56a3a">place 7 from 0 needs distance 1</text>
+  <text x="380" y="266" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="15" font-weight="normal" fill="#1c2430">1 is not in L. This branch is dead.</text>
+</svg>

@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 820 200" width="1148" height="280" preserveAspectRatio="xMidYMid meet">
+  <rect width="820" height="200" fill="#ffffff"/>
+  <defs><marker id="ah-2a5a8c" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#2a5a8c"/></marker><marker id="ah-b56a3a" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#b56a3a"/></marker><marker id="ah-6b7380" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#6b7380"/></marker><marker id="ah-1c2430" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#1c2430"/></marker></defs>
+  <rect x="110.0" y="40.0" width="62.0" height="52.0" rx="8" fill="#f4f5f7" stroke="#6b7380" stroke-width="1.6" stroke-dasharray="5 4"/>
+  <text x="141.0" y="74.0" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="22" font-weight="700" fill="#6b7380">0</text>
+  <rect x="184.0" y="40.0" width="62.0" height="52.0" rx="8" fill="#eef3f8" stroke="#2a5a8c" stroke-width="2.2"/>
+  <text x="215.0" y="74.0" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="24" font-weight="700" fill="#1c2430">6</text>
+  <rect x="258.0" y="40.0" width="62.0" height="52.0" rx="8" fill="#eef3f8" stroke="#2a5a8c" stroke-width="2.2"/>
+  <text x="289.0" y="74.0" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="24" font-weight="700" fill="#1c2430">1</text>
+  <rect x="332.0" y="40.0" width="62.0" height="52.0" rx="8" fill="#eef3f8" stroke="#2a5a8c" stroke-width="2.2"/>
+  <text x="363.0" y="74.0" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="24" font-weight="700" fill="#1c2430">2</text>
+  <rect x="406.0" y="40.0" width="62.0" height="52.0" rx="8" fill="#eef3f8" stroke="#2a5a8c" stroke-width="2.2"/>
+  <text x="437.0" y="74.0" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="24" font-weight="700" fill="#1c2430">3</text>
+  <rect x="480.0" y="40.0" width="62.0" height="52.0" rx="8" fill="#eef3f8" stroke="#2a5a8c" stroke-width="2.2"/>
+  <text x="511.0" y="74.0" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="24" font-weight="700" fill="#1c2430">4</text>
+  <rect x="554.0" y="40.0" width="62.0" height="52.0" rx="8" fill="#eef3f8" stroke="#2a5a8c" stroke-width="2.2"/>
+  <text x="585.0" y="74.0" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="24" font-weight="700" fill="#1c2430">5</text>
+  <rect x="628.0" y="40.0" width="62.0" height="52.0" rx="8" fill="#f4f5f7" stroke="#6b7380" stroke-width="1.6" stroke-dasharray="5 4"/>
+  <text x="659.0" y="74.0" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="22" font-weight="700" fill="#6b7380">7</text>
+  <rect x="174.5" y="31.0" width="7.0" height="70.0" rx="2" fill="#b56a3a" stroke="#b56a3a" stroke-width="0"/>
+  <rect x="248.5" y="31.0" width="7.0" height="70.0" rx="2" fill="#b56a3a" stroke="#b56a3a" stroke-width="0"/>
+  <rect x="618.5" y="31.0" width="7.0" height="70.0" rx="2" fill="#b56a3a" stroke="#b56a3a" stroke-width="0"/>
+  <text x="178.0" y="136.0" text-anchor="middle" font-family="'Source Sans 3','Source Sans Pro','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="18" font-weight="700" fill="#b56a3a">0–6</text>
+  <text x="252.0" y="136.0" text-anchor="middle" font-family="'Source Sans 3','Source Sans Pro','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="18" font-weight="700" fill="#b56a3a">6–1</text>
+  <text x="622.0" y="136.0" text-anchor="middle" font-family="'Source Sans 3','Source Sans Pro','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="18" font-weight="700" fill="#b56a3a">5–7</text>
+  <text x="400.0" y="136.0" text-anchor="middle" font-family="'Source Sans 3','Source Sans Pro','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="17" font-weight="normal" fill="#6b7380">1–2, 2–3, 3–4, 4–5: consecutive</text>
+</svg>

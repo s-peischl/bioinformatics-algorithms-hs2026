@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 216" width="640" height="216">
+  <rect width="640" height="216" fill="#ffffff"/>
+  <text x="320" y="18" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="14" fill="#6b7380">TSP as a tree. Edges = unused cities. Bound = length so far.</text>
+  <rect x="250" y="36" width="140" height="32" rx="6" fill="#eef3f8" stroke="#2a5a8c"/>
+  <text x="320" y="58" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="13" font-weight="700" fill="#1c2430">start A</text>
+  <defs><marker id="tt" markerWidth="9" markerHeight="9" refX="8" refY="4.5" orient="auto"><path d="M0,0 L9,4.5 L0,9 Z" fill="#1c2430"/></marker></defs>
+  <defs><marker id="ttd" markerWidth="9" markerHeight="9" refX="8" refY="4.5" orient="auto"><path d="M0,0 L9,4.5 L0,9 Z" fill="#b56a3a"/></marker></defs>
+  <line x1="300" y1="70" x2="140" y2="100" stroke="#1c2430" stroke-width="2" marker-end="url(#tt)"/>
+  <line x1="340" y1="70" x2="500" y2="100" stroke="#1c2430" stroke-width="2" marker-end="url(#tt)"/>
+  <rect x="40" y="108" width="200" height="40" rx="6" fill="#eef3f8" stroke="#2a5a8c"/>
+  <text x="140" y="134" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="13" font-weight="700" fill="#1c2430">A-B   so far 2</text>
+  <rect x="400" y="108" width="200" height="40" rx="6" fill="#f7f3ee" stroke="#b56a3a"/>
+  <text x="500" y="134" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="13" font-weight="700" fill="#b56a3a">partial 40 > 35</text>
+  <text x="500" y="168" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="14" font-weight="700" fill="#b56a3a">PRUNE</text>
+  <text x="320" y="198" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="13" fill="#6b7380">Best complete tour is 35. This branch cannot win. Still exact.</text>
+
+</svg>

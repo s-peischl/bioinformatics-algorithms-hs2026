@@ -104,7 +104,9 @@ Cities. Distance = kilometres (or the lab matrix). A **tour** visits every city 
 :::
 :::
 
-![](img/tsp-landscape.svg){.sketch}
+![](img/tsp-landscape.svg){.sketch .short}
+
+## The formulated problem
 
 ::: {.io}
 ::: {.in}
@@ -232,6 +234,8 @@ The numbers in the lab matrix are pairwise costs, **not** distances on a geograp
 
 **Method:** generate every tour, keep the shortest.
 
+:::: {.split}
+::: {.pane}
 ```python
 best = float("inf")
 for tour in all_tours(cities):
@@ -241,12 +245,15 @@ for tour in all_tours(cities):
 ```
 
 Correct. Cost: $\Theta(n!)$ tours, each $O(n)$ to score.
+:::
+::: {.pane}
+![](img/plot-tsp-growth.png){.plot}
+:::
+::::
 
 ::: {.takeaway}
 `fib` was exponential. Exhaustive TSP is **factorial** — worse. Listing every order of $n$ reads is the same count.
 :::
-
-![](img/plot-tsp-growth.png){.plot}
 
 ## How far does exact search go?
 
@@ -272,11 +279,13 @@ Held–Karp (1962) does **not** list every tour. It fills a table.
 
 When you grow $S$, you reuse the answers already stored for smaller sets — the same diagnosis as Fibonacci.
 
-![](img/held-karp-idea.svg){.sketch}
-
 ::: {.idea}
 That method — fill a table of overlapping subproblems — is **dynamic programming**. It is the topic of **next week**.
 :::
+
+## Held–Karp on four cities
+
+![](img/held-karp-idea.svg){.sketch}
 
 ::: {.takeaway}
 About $n \cdot 2^n$ cells, not $n!$ tours. For $n=20$: roughly $20 \cdot 10^6$ cells vs $6 \times 10^{16}$ tours — better, still not something we fill by hand.
@@ -336,7 +345,7 @@ def nn_tour(dist, start):
 
 Always the closest unused city. Same lab matrix as before. On reads, this was “glue the largest unused overlap.”
 
-![](img/tsp-nn.svg){.sketch}
+![](img/tsp-nn.svg){.sketch .short}
 
 ::: {.fragment}
 **Start at $A$:** $A \to B$ ($2$), $B \to D$ ($1$), $D \to C$ ($4$), home $C \to A$ ($6$). Tour $A$-$B$-$D$-$C$-$A$, length **$13$**.
@@ -381,11 +390,16 @@ Greedy is $O(n^2)$ and useful. A locally nearest hop can be a globally stupid to
 
 Nearest neighbor is a **first guess**: a legal tour, built quickly. On the lab matrix it gave length $13$, but we already listed a tour of length $12$. So the guess can be improved without starting over.
 
+:::: {.split}
+::: {.pane}
 **Idea.** Keep the same cities. Try a small change: drop two edges, reconnect their four endpoints the other way. If the new tour is shorter, keep the swap. That is **2-opt**.
 
 On the toy, NN from $A$ uses the two **diagonals**. Swap them for the two sides of the square: length $13$ becomes $12$.
-
+:::
+::: {.pane}
 ![](img/tsp-2opt.svg){.sketch}
+:::
+::::
 
 ::: {.takeaway}
 Use NN (or any construction) as a starting tour, then search for improving swaps. Still no proof you have the shortest tour — only that this change helped.
@@ -409,11 +423,16 @@ In practice people run 2-opt (or 3-opt) after nearest neighbor. A genetic algori
 
 A **population** of tours. Fitness = shortness (shorter is better). Make children; keep the short ones. Repeat for several generations.
 
+:::: {.split}
+::: {.pane}
 1. **Select** two parents (prefer short tours).
 2. **Crossover** that respects permutations — **order crossover**: copy a block from one parent; fill the rest in the other parent’s order, skipping cities already used.
 3. **Mutate** (swap two cities, or reverse a segment — a random 2-opt).
-
+:::
+::: {.pane}
 ![](img/ga-ox.svg){.sketch}
+:::
+::::
 
 You choose the **parameters**: population size, number of generations, mutation rate. Different choices, different tours.
 
@@ -580,7 +599,7 @@ After the lab. Do not start NP reductions.
 
 ## Takeaway / Questions
 
-::: {.qs}
+::: {.qs .small}
 ::: {.q}
 [Q1]{.tag} How many distinct TSP tours on $n$ cities, and why is that not $n!$?
 :::
@@ -590,7 +609,8 @@ After the lab. Do not start NP reductions.
 ::: {.q .q3}
 [Q3]{.tag} One room. As many talks as possible; two talks cannot overlap. A talk may start when the previous one finishes.
 
-::: {.small}
+:::: {.split}
+::: {.pane}
 | Talk | Start | Finish |
 |:-----|:------|:-------|
 | $A$ | 09:00 | 13:00 |
@@ -598,7 +618,7 @@ After the lab. Do not start NP reductions.
 | $C$ | 13:00 | 17:00 |
 | $D$ | 17:00 | 18:00 |
 :::
-
+::: {.pane}
 (a) Listing every subset: how many subsets of 4 talks? Does that method give a largest possible set?
 
 (b) Repeatedly take the remaining talk that **finishes first**. Which talks?
@@ -607,10 +627,12 @@ After the lab. Do not start NP reductions.
 
 (d) Which of (a)–(c) is guaranteed a largest set? Which can return too few?
 :::
+::::
+:::
 :::
 
 ::: {.takeaway}
-Leave Q3 open for now. In the lab notebook, both greedy rules are implemented — run them on this table and decide. Answers are at the **end** of these slides.
+Leave Q3 open and run both rules in the lab. Answers are at the **end** of these slides.
 :::
 
 ::: notes
@@ -659,6 +681,7 @@ After you have tried both rules in the lab.
 | $D$ | 17:00 | 18:00 | 1 h |
 :::
 
+::: {.small}
 **(a)** There are $2^4 = 16$ subsets. Checking every feasible subset and keeping the largest **is** exact — it finds a largest possible set. Cost grows as $2^n$ talks.
 
 **(b) Earliest finish:** sort by finish time $A,B,C,D$. Take $A$ (ends 13:00), skip $B$ (overlaps), take $C$ (starts 13:00), take $D$ (starts 17:00). Talks: **$A$, $C$, $D$** (three).
@@ -666,3 +689,4 @@ After you have tried both rules in the lab.
 **(c) Shortest first:** sort by duration $D$ (1 h), $B$ (2 h), then $A$ or $C$. Take $D$, then $B$ (no overlap with $D$). $A$ and $C$ both overlap $B$. Talks: **$B$, $D$** (only two).
 
 **(d)** Exact listing **(a)** and earliest finish **(b)** both give a largest set (size 3). Shortest first **(c)** can return too few (size 2 here). Same moral as the lecture toy: greedy is a method; **this** rule needs a proof.
+:::

@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 214" width="560" height="214">
+  <rect width="560" height="214" fill="#ffffff"/>
+  <text x="280" y="18" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="14" fill="#6b7380">Points on a line. Input: all pairwise distances. Output: the positions.</text>
+  <line x1="24" y1="90" x2="536" y2="90" stroke="#1c2430" stroke-width="3" stroke-linecap="round"/>
+  <circle cx="40" cy="90" r="8" fill="#2a5a8c"/>
+  <text x="40" y="118" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="14" font-weight="700" fill="#1c2430">0</text>
+  <circle cx="136" cy="90" r="8" fill="#2a5a8c"/>
+  <text x="136" y="118" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="14" font-weight="700" fill="#1c2430">2</text>
+  <circle cx="232" cy="90" r="8" fill="#2a5a8c"/>
+  <text x="232" y="118" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="14" font-weight="700" fill="#1c2430">4</text>
+  <circle cx="376" cy="90" r="8" fill="#2a5a8c"/>
+  <text x="376" y="118" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="14" font-weight="700" fill="#1c2430">7</text>
+  <circle cx="520" cy="90" r="8" fill="#2a5a8c"/>
+  <text x="520" y="118" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="14" font-weight="700" fill="#1c2430">10</text>
+  <text x="88.0" y="72" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="13" font-weight="700" fill="#2a5a8c">2</text>
+  <text x="184.0" y="72" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="13" font-weight="700" fill="#2a5a8c">2</text>
+  <text x="304.0" y="72" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="13" font-weight="700" fill="#2a5a8c">3</text>
+  <text x="448.0" y="72" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="13" font-weight="700" fill="#2a5a8c">3</text>
+  <line x1="40" y1="148" x2="520" y2="148" stroke="#b56a3a" stroke-width="1.5"/>
+  <text x="280" y="172" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="13" fill="#b56a3a">largest distance = 10  =>  the ends are 0 and 10</text>
+  <text x="280" y="196" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="13" fill="#6b7380">L = {2, 2, 3, 3, 4, 5, 6, 7, 8, 10}     X = {0, 2, 4, 7, 10}</text>
+
+</svg>

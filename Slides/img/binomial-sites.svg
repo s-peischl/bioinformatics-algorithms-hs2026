@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 280" width="760" height="280" preserveAspectRatio="xMidYMid meet">
+  <rect width="760" height="280" fill="#ffffff"/>
+  <defs><marker id="aw" markerUnits="userSpaceOnUse" markerWidth="12" markerHeight="12" refX="11" refY="6" orient="auto"><path d="M0,0 L12,6 L0,12 Z" fill="#b56a3a"/></marker><marker id="ab" markerUnits="userSpaceOnUse" markerWidth="12" markerHeight="12" refX="11" refY="6" orient="auto"><path d="M0,0 L12,6 L0,12 Z" fill="#2a5a8c"/></marker><marker id="ak" markerUnits="userSpaceOnUse" markerWidth="12" markerHeight="12" refX="11" refY="6" orient="auto"><path d="M0,0 L12,6 L0,12 Z" fill="#1c2430"/></marker><marker id="af" markerUnits="userSpaceOnUse" markerWidth="12" markerHeight="12" refX="11" refY="6" orient="auto"><path d="M0,0 L12,6 L0,12 Z" fill="#c5ccd6"/></marker></defs>
+  <text x="240" y="28" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="14" font-weight="normal" fill="#6b7380">distance between site i and site j</text>
+  <text x="126.0" y="68" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="15" font-weight="700" fill="#6b7380">2</text>
+  <text x="198.0" y="68" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="15" font-weight="700" fill="#6b7380">4</text>
+  <text x="270.0" y="68" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="15" font-weight="700" fill="#6b7380">7</text>
+  <text x="342.0" y="68" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="15" font-weight="700" fill="#6b7380">10</text>
+  <text x="76" y="124.4" text-anchor="end" font-family="ui-monospace,Menlo,monospace" font-size="15" font-weight="700" fill="#6b7380">0</text>
+  <rect x="108" y="98" width="36" height="32" rx="4" fill="#f7f3ee" stroke="#b56a3a" stroke-width="1.6"/>
+  <text x="126" y="120" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="16" font-weight="700" fill="#b56a3a">2</text>
+  <rect x="180" y="98" width="36" height="32" rx="4" fill="#f7f3ee" stroke="#b56a3a" stroke-width="1.6"/>
+  <text x="198" y="120" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="16" font-weight="700" fill="#b56a3a">4</text>
+  <rect x="252" y="98" width="36" height="32" rx="4" fill="#f7f3ee" stroke="#b56a3a" stroke-width="1.6"/>
+  <text x="270" y="120" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="16" font-weight="700" fill="#b56a3a">7</text>
+  <rect x="324" y="98" width="36" height="32" rx="4" fill="#f7f3ee" stroke="#b56a3a" stroke-width="1.6"/>
+  <text x="342" y="120" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="16" font-weight="700" fill="#b56a3a">10</text>
+  <text x="76" y="172.39999999999998" text-anchor="end" font-family="ui-monospace,Menlo,monospace" font-size="15" font-weight="700" fill="#6b7380">2</text>
+  <rect x="180" y="146" width="36" height="32" rx="4" fill="#f7f3ee" stroke="#b56a3a" stroke-width="1.6"/>
+  <text x="198" y="168" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="16" font-weight="700" fill="#b56a3a">2</text>
+  <rect x="252" y="146" width="36" height="32" rx="4" fill="#f7f3ee" stroke="#b56a3a" stroke-width="1.6"/>
+  <text x="270" y="168" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="16" font-weight="700" fill="#b56a3a">5</text>
+  <rect x="324" y="146" width="36" height="32" rx="4" fill="#f7f3ee" stroke="#b56a3a" stroke-width="1.6"/>
+  <text x="342" y="168" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="16" font-weight="700" fill="#b56a3a">8</text>
+  <text x="76" y="220.39999999999998" text-anchor="end" font-family="ui-monospace,Menlo,monospace" font-size="15" font-weight="700" fill="#6b7380">4</text>
+  <rect x="252" y="194" width="36" height="32" rx="4" fill="#f7f3ee" stroke="#b56a3a" stroke-width="1.6"/>
+  <text x="270" y="216" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="16" font-weight="700" fill="#b56a3a">3</text>
+  <rect x="324" y="194" width="36" height="32" rx="4" fill="#f7f3ee" stroke="#b56a3a" stroke-width="1.6"/>
+  <text x="342" y="216" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="16" font-weight="700" fill="#b56a3a">6</text>
+  <text x="76" y="268.4" text-anchor="end" font-family="ui-monospace,Menlo,monospace" font-size="15" font-weight="700" fill="#6b7380">7</text>
+  <rect x="324" y="242" width="36" height="32" rx="4" fill="#f7f3ee" stroke="#b56a3a" stroke-width="1.6"/>
+  <text x="342" y="264" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="16" font-weight="700" fill="#b56a3a">3</text>
+  <text x="560" y="110" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="18" font-weight="700" fill="#2a5a8c">10 pairs</text>
+  <text x="560" y="148" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="16" font-weight="700" fill="#1c2430">n(n−1)/2 = |L|</text>
+  <text x="560" y="182" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="16" font-weight="normal" fill="#6b7380">10 = 5·4/2</text>
+  <text x="560" y="220" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="16" font-weight="700" fill="#1c2430">so n = 5 sites</text>
+</svg>

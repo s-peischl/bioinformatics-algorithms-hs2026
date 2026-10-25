@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 300" width="760" height="300" preserveAspectRatio="xMidYMid meet">
+  <rect width="760" height="300" fill="#ffffff"/>
+  <defs><marker id="aw" markerUnits="userSpaceOnUse" markerWidth="12" markerHeight="12" refX="11" refY="6" orient="auto"><path d="M0,0 L12,6 L0,12 Z" fill="#b56a3a"/></marker><marker id="ab" markerUnits="userSpaceOnUse" markerWidth="12" markerHeight="12" refX="11" refY="6" orient="auto"><path d="M0,0 L12,6 L0,12 Z" fill="#2a5a8c"/></marker><marker id="ak" markerUnits="userSpaceOnUse" markerWidth="12" markerHeight="12" refX="11" refY="6" orient="auto"><path d="M0,0 L12,6 L0,12 Z" fill="#1c2430"/></marker><marker id="af" markerUnits="userSpaceOnUse" markerWidth="12" markerHeight="12" refX="11" refY="6" orient="auto"><path d="M0,0 L12,6 L0,12 Z" fill="#c5ccd6"/></marker></defs>
+  <text x="28" y="28" text-anchor="start" font-family="Helvetica,Arial,sans-serif" font-size="14" font-weight="normal" fill="#6b7380">d = 3 rows, k = 4 columns</text>
+  <text x="36" y="68" text-anchor="start" font-family="ui-monospace,Menlo,monospace" font-size="14" font-weight="700" fill="#6b7380">s1</text>
+  <rect x="90" y="44" width="62" height="32" rx="4" fill="#eef3f8" stroke="#2a5a8c" stroke-width="1.8"/>
+  <text x="121" y="66" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="16" font-weight="700" fill="#1c2430">A</text>
+  <rect x="160" y="44" width="62" height="32" rx="4" fill="#eef3f8" stroke="#2a5a8c" stroke-width="1.8"/>
+  <text x="191" y="66" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="16" font-weight="700" fill="#1c2430">C</text>
+  <rect x="230" y="44" width="62" height="32" rx="4" fill="#eef3f8" stroke="#2a5a8c" stroke-width="1.8"/>
+  <text x="261" y="66" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="16" font-weight="700" fill="#1c2430">G</text>
+  <rect x="300" y="44" width="62" height="32" rx="4" fill="#eef3f8" stroke="#2a5a8c" stroke-width="1.8"/>
+  <text x="331" y="66" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="16" font-weight="700" fill="#1c2430">T</text>
+  <text x="36" y="106" text-anchor="start" font-family="ui-monospace,Menlo,monospace" font-size="14" font-weight="700" fill="#6b7380">s2</text>
+  <rect x="90" y="82" width="62" height="32" rx="4" fill="#eef3f8" stroke="#2a5a8c" stroke-width="1.8"/>
+  <text x="121" y="104" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="16" font-weight="700" fill="#1c2430">A</text>
+  <rect x="160" y="82" width="62" height="32" rx="4" fill="#eef3f8" stroke="#2a5a8c" stroke-width="1.8"/>
+  <text x="191" y="104" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="16" font-weight="700" fill="#1c2430">C</text>
+  <rect x="230" y="82" width="62" height="32" rx="4" fill="#eef3f8" stroke="#2a5a8c" stroke-width="1.8"/>
+  <text x="261" y="104" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="16" font-weight="700" fill="#1c2430">G</text>
+  <rect x="300" y="82" width="62" height="32" rx="4" fill="#f7f3ee" stroke="#b56a3a" stroke-width="1.8"/>
+  <text x="331" y="104" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="16" font-weight="700" fill="#b56a3a">A</text>
+  <text x="36" y="144" text-anchor="start" font-family="ui-monospace,Menlo,monospace" font-size="14" font-weight="700" fill="#6b7380">s3</text>
+  <rect x="90" y="120" width="62" height="32" rx="4" fill="#eef3f8" stroke="#2a5a8c" stroke-width="1.8"/>
+  <text x="121" y="142" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="16" font-weight="700" fill="#1c2430">A</text>
+  <rect x="160" y="120" width="62" height="32" rx="4" fill="#eef3f8" stroke="#2a5a8c" stroke-width="1.8"/>
+  <text x="191" y="142" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="16" font-weight="700" fill="#1c2430">C</text>
+  <rect x="230" y="120" width="62" height="32" rx="4" fill="#eef3f8" stroke="#2a5a8c" stroke-width="1.8"/>
+  <text x="261" y="142" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="16" font-weight="700" fill="#1c2430">G</text>
+  <rect x="300" y="120" width="62" height="32" rx="4" fill="#eef3f8" stroke="#2a5a8c" stroke-width="1.8"/>
+  <text x="331" y="142" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="16" font-weight="700" fill="#1c2430">T</text>
+  <text x="36" y="174" text-anchor="start" font-family="ui-monospace,Menlo,monospace" font-size="13" font-weight="normal" fill="#6b7380">counts</text>
+  <text x="36" y="210" text-anchor="start" font-family="ui-monospace,Menlo,monospace" font-size="13" font-weight="normal" fill="#2a5a8c">max</text>
+  <text x="36" y="246" text-anchor="start" font-family="ui-monospace,Menlo,monospace" font-size="13" font-weight="normal" fill="#b56a3a">d − max</text>
+  <text x="121" y="174" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="13" font-weight="normal" fill="#6b7380">A:3</text>
+  <text x="121" y="210" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="15" font-weight="700" fill="#2a5a8c">3</text>
+  <text x="121" y="246" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="16" font-weight="700" fill="#6b7380">0</text>
+  <text x="191" y="174" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="13" font-weight="normal" fill="#6b7380">C:3</text>
+  <text x="191" y="210" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="15" font-weight="700" fill="#2a5a8c">3</text>
+  <text x="191" y="246" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="16" font-weight="700" fill="#6b7380">0</text>
+  <text x="261" y="174" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="13" font-weight="normal" fill="#6b7380">G:3</text>
+  <text x="261" y="210" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="15" font-weight="700" fill="#2a5a8c">3</text>
+  <text x="261" y="246" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="16" font-weight="700" fill="#6b7380">0</text>
+  <text x="331" y="174" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="13" font-weight="normal" fill="#6b7380">T:2  A:1</text>
+  <text x="331" y="210" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="15" font-weight="700" fill="#2a5a8c">2</text>
+  <text x="331" y="246" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="16" font-weight="700" fill="#b56a3a">1</text>
+  <text x="380" y="282" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="18" font-weight="700" fill="#b56a3a">Score  =  0 + 0 + 0 + 1  =  1</text>
+</svg>

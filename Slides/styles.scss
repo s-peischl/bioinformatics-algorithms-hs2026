@@ -1,6 +1,9 @@
 /*-- scss:defaults --*/
 
-$font-family-sans-serif: "Source Sans 3", "Source Sans Pro", "Helvetica Neue", Helvetica, Arial, sans-serif !default;
+// Sass drops the quotes on this list, and an unquoted name that contains a
+// word starting with a digit ("Source Sans 3") invalidates the whole list.
+// Source Sans Pro is embedded by the reveal theme, so name it first.
+$font-family-sans-serif: "Source Sans Pro", "Helvetica Neue", Helvetica, Arial, sans-serif !default;
 $presentation-heading-font: $font-family-sans-serif !default;
 
 $presentation-heading-color: #1c2430 !default;
@@ -298,6 +301,11 @@ section.has-dark-background a {
   background: transparent;
 }
 
+/* Tall multi-panel paper figures (e.g. sex-chromosome strata). */
+.reveal img.photo.tallfig {
+  max-height: 520px;
+}
+
 .reveal img.photo.r-stretch {
   height: auto !important;
   width: auto !important;
@@ -479,4 +487,17 @@ section.has-dark-background .cite a {
 
 .q.q3 .tag {
   color: #b56a3a;
+}
+
+/* A figure that shares the slide with text: cap its height so the slide
+   does not run into the footer. Later in the file than the r-stretch rules,
+   so these win. */
+.reveal img.short,
+.reveal img.short.r-stretch {
+  max-height: 300px !important;
+}
+
+.reveal img.shorter,
+.reveal img.shorter.r-stretch {
+  max-height: 230px !important;
 }

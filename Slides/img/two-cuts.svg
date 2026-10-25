@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 300" width="1260" height="420" preserveAspectRatio="xMidYMid meet">
+  <rect width="900" height="300" fill="#ffffff"/>
+  <defs><marker id="ah-2a5a8c" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#2a5a8c"/></marker><marker id="ah-b56a3a" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#b56a3a"/></marker><marker id="ah-6b7380" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#6b7380"/></marker><marker id="ah-1c2430" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#1c2430"/></marker></defs>
+  <text x="158.0" y="83.0" text-anchor="end" font-family="'Source Sans 3','Source Sans Pro','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="18" font-weight="normal" fill="#6b7380" font-style="italic">before</text>
+  <rect x="180.0" y="50.0" width="62.0" height="52.0" rx="8" fill="#f4f5f7" stroke="#6b7380" stroke-width="1.6" stroke-dasharray="5 4"/>
+  <text x="211.0" y="84.0" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="22" font-weight="700" fill="#6b7380">0</text>
+  <rect x="254.0" y="50.0" width="62.0" height="52.0" rx="8" fill="#eef3f8" stroke="#2a5a8c" stroke-width="2.2"/>
+  <text x="285.0" y="84.0" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="24" font-weight="700" fill="#1c2430">6</text>
+  <rect x="328.0" y="50.0" width="62.0" height="52.0" rx="8" fill="#eef3f8" stroke="#2a5a8c" stroke-width="2.2"/>
+  <text x="359.0" y="84.0" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="24" font-weight="700" fill="#1c2430">1</text>
+  <rect x="402.0" y="50.0" width="62.0" height="52.0" rx="8" fill="#eef3f8" stroke="#2a5a8c" stroke-width="2.2"/>
+  <text x="433.0" y="84.0" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="24" font-weight="700" fill="#1c2430">2</text>
+  <rect x="476.0" y="50.0" width="62.0" height="52.0" rx="8" fill="#eef3f8" stroke="#2a5a8c" stroke-width="2.2"/>
+  <text x="507.0" y="84.0" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="24" font-weight="700" fill="#1c2430">3</text>
+  <rect x="550.0" y="50.0" width="62.0" height="52.0" rx="8" fill="#eef3f8" stroke="#2a5a8c" stroke-width="2.2"/>
+  <text x="581.0" y="84.0" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="24" font-weight="700" fill="#1c2430">4</text>
+  <rect x="624.0" y="50.0" width="62.0" height="52.0" rx="8" fill="#eef3f8" stroke="#2a5a8c" stroke-width="2.2"/>
+  <text x="655.0" y="84.0" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="24" font-weight="700" fill="#1c2430">5</text>
+  <rect x="698.0" y="50.0" width="62.0" height="52.0" rx="8" fill="#f4f5f7" stroke="#6b7380" stroke-width="1.6" stroke-dasharray="5 4"/>
+  <text x="729.0" y="84.0" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="22" font-weight="700" fill="#6b7380">7</text>
+  <rect x="244.5" y="41.0" width="7.0" height="70.0" rx="2" fill="#b56a3a" stroke="#b56a3a" stroke-width="0"/>
+  <rect x="318.5" y="41.0" width="7.0" height="70.0" rx="2" fill="#b56a3a" stroke="#b56a3a" stroke-width="0"/>
+  <rect x="688.5" y="41.0" width="7.0" height="70.0" rx="2" fill="#b56a3a" stroke="#b56a3a" stroke-width="0"/>
+  <text x="778.0" y="83.0" text-anchor="start" font-family="'Source Sans 3','Source Sans Pro','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="19" font-weight="700" fill="#b56a3a">3 bars</text>
+  <path d="M 328 36 L 328 26 L 686 26 L 686 36" stroke="#1c2430" stroke-width="2" fill="none" opacity="1.0"/>
+  <text x="507.0" y="18.0" text-anchor="middle" font-family="'Source Sans 3','Source Sans Pro','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="17" font-weight="normal" fill="#1c2430">reverse this strip</text>
+  <text x="158.0" y="233.0" text-anchor="end" font-family="'Source Sans 3','Source Sans Pro','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="18" font-weight="normal" fill="#6b7380" font-style="italic">after</text>
+  <rect x="180.0" y="200.0" width="62.0" height="52.0" rx="8" fill="#f4f5f7" stroke="#6b7380" stroke-width="1.6" stroke-dasharray="5 4"/>
+  <text x="211.0" y="234.0" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="22" font-weight="700" fill="#6b7380">0</text>
+  <rect x="254.0" y="200.0" width="62.0" height="52.0" rx="8" fill="#eef3f8" stroke="#2a5a8c" stroke-width="2.2"/>
+  <text x="285.0" y="234.0" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="24" font-weight="700" fill="#1c2430">6</text>
+  <rect x="328.0" y="200.0" width="62.0" height="52.0" rx="8" fill="#eef3f8" stroke="#2a5a8c" stroke-width="2.2"/>
+  <text x="359.0" y="234.0" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="24" font-weight="700" fill="#1c2430">5</text>
+  <rect x="402.0" y="200.0" width="62.0" height="52.0" rx="8" fill="#eef3f8" stroke="#2a5a8c" stroke-width="2.2"/>
+  <text x="433.0" y="234.0" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="24" font-weight="700" fill="#1c2430">4</text>
+  <rect x="476.0" y="200.0" width="62.0" height="52.0" rx="8" fill="#eef3f8" stroke="#2a5a8c" stroke-width="2.2"/>
+  <text x="507.0" y="234.0" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="24" font-weight="700" fill="#1c2430">3</text>
+  <rect x="550.0" y="200.0" width="62.0" height="52.0" rx="8" fill="#eef3f8" stroke="#2a5a8c" stroke-width="2.2"/>
+  <text x="581.0" y="234.0" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="24" font-weight="700" fill="#1c2430">2</text>
+  <rect x="624.0" y="200.0" width="62.0" height="52.0" rx="8" fill="#eef3f8" stroke="#2a5a8c" stroke-width="2.2"/>
+  <text x="655.0" y="234.0" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="24" font-weight="700" fill="#1c2430">1</text>
+  <rect x="698.0" y="200.0" width="62.0" height="52.0" rx="8" fill="#f4f5f7" stroke="#6b7380" stroke-width="1.6" stroke-dasharray="5 4"/>
+  <text x="729.0" y="234.0" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="22" font-weight="700" fill="#6b7380">7</text>
+  <rect x="244.5" y="191.0" width="7.0" height="70.0" rx="2" fill="#b56a3a" stroke="#b56a3a" stroke-width="0"/>
+  <rect x="688.5" y="191.0" width="7.0" height="70.0" rx="2" fill="#b56a3a" stroke="#b56a3a" stroke-width="0"/>
+  <text x="778.0" y="233.0" text-anchor="start" font-family="'Source Sans 3','Source Sans Pro','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="19" font-weight="700" fill="#b56a3a">2 bars</text>
+  <line x1="322.0" y1="112.0" x2="322.0" y2="190.0" stroke="#b56a3a" stroke-width="2" stroke-dasharray="4 4"/>
+  <line x1="692.0" y1="112.0" x2="692.0" y2="190.0" stroke="#b56a3a" stroke-width="2" stroke-dasharray="4 4"/>
+  <text x="322.0" y="160.0" text-anchor="middle" font-family="'Source Sans 3','Source Sans Pro','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="16" font-weight="700" fill="#b56a3a">cut 1</text>
+  <text x="692.0" y="160.0" text-anchor="middle" font-family="'Source Sans 3','Source Sans Pro','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="16" font-weight="700" fill="#b56a3a">cut 2</text>
+  <text x="507.0" y="158.0" text-anchor="middle" font-family="'Source Sans 3','Source Sans Pro','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="17" font-weight="normal" fill="#2a5a8c">inside: same neighbours</text>
+</svg>

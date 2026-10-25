@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 300" width="760" height="300" preserveAspectRatio="xMidYMid meet">
+  <rect width="760" height="300" fill="#ffffff"/>
+  <defs><marker id="aw" markerUnits="userSpaceOnUse" markerWidth="12" markerHeight="12" refX="11" refY="6" orient="auto"><path d="M0,0 L12,6 L0,12 Z" fill="#b56a3a"/></marker><marker id="ab" markerUnits="userSpaceOnUse" markerWidth="12" markerHeight="12" refX="11" refY="6" orient="auto"><path d="M0,0 L12,6 L0,12 Z" fill="#2a5a8c"/></marker><marker id="ak" markerUnits="userSpaceOnUse" markerWidth="12" markerHeight="12" refX="11" refY="6" orient="auto"><path d="M0,0 L12,6 L0,12 Z" fill="#1c2430"/></marker><marker id="af" markerUnits="userSpaceOnUse" markerWidth="12" markerHeight="12" refX="11" refY="6" orient="auto"><path d="M0,0 L12,6 L0,12 Z" fill="#c5ccd6"/></marker></defs>
+  <rect x="300" y="10" width="160" height="32" rx="6" fill="#eef3f8" stroke="#2a5a8c" stroke-width="2"/>
+  <text x="380" y="32" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="13" font-weight="normal" fill="#6b7380">pick a start in s1</text>
+  <line x1="380.0" y1="44.0" x2="130.0" y2="78.0" stroke="#1c2430" stroke-width="2" marker-end="url(#ak)"/>
+  <rect x="60" y="82" width="140" height="36" rx="6" fill="#eef3f8" stroke="#2a5a8c" stroke-width="2"/>
+  <text x="130" y="106" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="13" font-weight="700" fill="#1c2430">start 3  ACGT</text>
+  <line x1="380.0" y1="44.0" x2="380.0" y2="78.0" stroke="#1c2430" stroke-width="2" marker-end="url(#ak)"/>
+  <rect x="310" y="82" width="140" height="36" rx="6" fill="#eef3f8" stroke="#2a5a8c" stroke-width="2"/>
+  <text x="380" y="106" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="13" font-weight="700" fill="#1c2430">start 1  TGAC</text>
+  <line x1="380.0" y1="44.0" x2="630.0" y2="78.0" stroke="#1c2430" stroke-width="2" marker-end="url(#ak)"/>
+  <rect x="560" y="82" width="140" height="36" rx="6" fill="#eef3f8" stroke="#2a5a8c" stroke-width="2"/>
+  <text x="630" y="106" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="13" font-weight="700" fill="#1c2430">start 5  CGTT</text>
+  <line x1="130.0" y1="120.0" x2="70.0" y2="158.0" stroke="#1c2430" stroke-width="1.8" marker-end="url(#ak)"/>
+  <line x1="130.0" y1="120.0" x2="190.0" y2="158.0" stroke="#1c2430" stroke-width="1.8" marker-end="url(#ak)"/>
+  <rect x="8" y="164" width="124" height="44" rx="5" fill="#f7f3ee" stroke="#b56a3a" stroke-width="2"/>
+  <text x="70" y="182" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="12" font-weight="700" fill="#b56a3a">s2 start 1</text>
+  <text x="70" y="200" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="14" font-weight="700" fill="#b56a3a">ACGA</text>
+  <rect x="132" y="164" width="124" height="44" rx="5" fill="#eef3f8" stroke="#2a5a8c" stroke-width="1.6"/>
+  <text x="194" y="182" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="12" font-weight="700" fill="#6b7380">s2 start 0</text>
+  <text x="194" y="200" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="14" font-weight="700" fill="#1c2430">CACG</text>
+  <line x1="70.0" y1="210.0" x2="70.0" y2="228.0" stroke="#b56a3a" stroke-width="1.8" marker-end="url(#aw)"/>
+  <rect x="8" y="232" width="124" height="50" rx="5" fill="#f7f3ee" stroke="#b56a3a" stroke-width="2"/>
+  <text x="70" y="252" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="12" font-weight="700" fill="#b56a3a">s3 start 2</text>
+  <text x="70" y="272" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="14" font-weight="700" fill="#b56a3a">ACGT</text>
+  <text x="430" y="180" text-anchor="start" font-family="Helvetica,Arial,sans-serif" font-size="16" font-weight="700" fill="#1c2430">a leaf is three windows</text>
+  <text x="430" y="206" text-anchor="start" font-family="Helvetica,Arial,sans-serif" font-size="15" font-weight="700" fill="#b56a3a">already an alignment</text>
+  <text x="430" y="232" text-anchor="start" font-family="Helvetica,Arial,sans-serif" font-size="15" font-weight="normal" fill="#6b7380">score it — no extra search</text>
+</svg>

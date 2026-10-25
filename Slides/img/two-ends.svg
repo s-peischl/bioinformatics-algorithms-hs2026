@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 230" width="1260" height="322" preserveAspectRatio="xMidYMid meet">
+  <rect width="900" height="230" fill="#ffffff"/>
+  <defs><marker id="ah-2a5a8c" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#2a5a8c"/></marker><marker id="ah-b56a3a" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#b56a3a"/></marker><marker id="ah-6b7380" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#6b7380"/></marker><marker id="ah-1c2430" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#1c2430"/></marker></defs>
+  <rect x="200" y="60.0" width="460" height="10" rx="5" fill="#c9ced6"/>
+  <polygon points="230.0,40.0 332.0,40.0 350.0,65.0 332.0,90.0 230.0,90.0" fill="#e0904a" stroke="#ffffff" stroke-width="1.5"/>
+  <text x="286.0" y="72.0" text-anchor="middle" font-family="'Source Sans 3','Source Sans Pro','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="20" font-weight="700" fill="#ffffff">2</text>
+  <polygon points="388.0,40.0 490.0,40.0 490.0,90.0 388.0,90.0 370.0,65.0" fill="#4e79a7" stroke="#ffffff" stroke-width="1.5"/>
+  <text x="434.0" y="72.0" text-anchor="middle" font-family="'Source Sans 3','Source Sans Pro','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="20" font-weight="700" fill="#ffffff">1</text>
+  <polygon points="510.0,40.0 612.0,40.0 630.0,65.0 612.0,90.0 510.0,90.0" fill="#59a14f" stroke="#ffffff" stroke-width="1.5"/>
+  <text x="566.0" y="72.0" text-anchor="middle" font-family="'Source Sans 3','Source Sans Pro','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="20" font-weight="700" fill="#ffffff">3</text>
+  <text x="184.0" y="72.0" text-anchor="end" font-family="'Source Sans 3','Source Sans Pro','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="19" font-weight="normal" fill="#6b7380" font-style="italic">blocks</text>
+  <text x="184.0" y="160.0" text-anchor="end" font-family="'Source Sans 3','Source Sans Pro','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="19" font-weight="normal" fill="#6b7380" font-style="italic">ends</text>
+  <text x="182.0" y="200.0" text-anchor="end" font-family="ui-monospace,Menlo,monospace" font-size="24" font-weight="700" fill="#6b7380">0</text>
+  <text x="678.0" y="200.0" text-anchor="start" font-family="ui-monospace,Menlo,monospace" font-size="24" font-weight="700" fill="#6b7380">7</text>
+  <line x1="254.0" y1="96.0" x2="254.0" y2="172.0" stroke="#e0904a" stroke-width="2" stroke-dasharray="3 3"/>
+  <circle cx="254" cy="194" r="19" fill="#eef3f8" stroke="#e0904a" stroke-width="2.5"/>
+  <text x="254.0" y="202.0" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="22" font-weight="700" fill="#1c2430">3</text>
+  <line x1="326.0" y1="96.0" x2="326.0" y2="172.0" stroke="#e0904a" stroke-width="2" stroke-dasharray="3 3"/>
+  <circle cx="326" cy="194" r="19" fill="#eef3f8" stroke="#e0904a" stroke-width="2.5"/>
+  <text x="326.0" y="202.0" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="22" font-weight="700" fill="#1c2430">4</text>
+  <line x1="394.0" y1="96.0" x2="394.0" y2="172.0" stroke="#4e79a7" stroke-width="2" stroke-dasharray="3 3"/>
+  <circle cx="394" cy="194" r="19" fill="#eef3f8" stroke="#4e79a7" stroke-width="2.5"/>
+  <text x="394.0" y="202.0" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="22" font-weight="700" fill="#1c2430">2</text>
+  <line x1="466.0" y1="96.0" x2="466.0" y2="172.0" stroke="#4e79a7" stroke-width="2" stroke-dasharray="3 3"/>
+  <circle cx="466" cy="194" r="19" fill="#eef3f8" stroke="#4e79a7" stroke-width="2.5"/>
+  <text x="466.0" y="202.0" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="22" font-weight="700" fill="#1c2430">1</text>
+  <line x1="534.0" y1="96.0" x2="534.0" y2="172.0" stroke="#59a14f" stroke-width="2" stroke-dasharray="3 3"/>
+  <circle cx="534" cy="194" r="19" fill="#eef3f8" stroke="#59a14f" stroke-width="2.5"/>
+  <text x="534.0" y="202.0" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="22" font-weight="700" fill="#1c2430">5</text>
+  <line x1="606.0" y1="96.0" x2="606.0" y2="172.0" stroke="#59a14f" stroke-width="2" stroke-dasharray="3 3"/>
+  <circle cx="606" cy="194" r="19" fill="#eef3f8" stroke="#59a14f" stroke-width="2.5"/>
+  <text x="606.0" y="202.0" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="22" font-weight="700" fill="#1c2430">6</text>
+</svg>

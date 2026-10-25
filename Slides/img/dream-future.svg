@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 340" width="760" height="340" preserveAspectRatio="xMidYMid meet">
+  <rect width="760" height="340" fill="#ffffff"/>
+  <defs><marker id="aw" markerUnits="userSpaceOnUse" markerWidth="12" markerHeight="12" refX="11" refY="6" orient="auto"><path d="M0,0 L12,6 L0,12 Z" fill="#b56a3a"/></marker><marker id="ab" markerUnits="userSpaceOnUse" markerWidth="12" markerHeight="12" refX="11" refY="6" orient="auto"><path d="M0,0 L12,6 L0,12 Z" fill="#2a5a8c"/></marker><marker id="ak" markerUnits="userSpaceOnUse" markerWidth="12" markerHeight="12" refX="11" refY="6" orient="auto"><path d="M0,0 L12,6 L0,12 Z" fill="#1c2430"/></marker><marker id="af" markerUnits="userSpaceOnUse" markerWidth="12" markerHeight="12" refX="11" refY="6" orient="auto"><path d="M0,0 L12,6 L0,12 Z" fill="#c5ccd6"/></marker></defs>
+  <rect x="12" y="10" width="368" height="200" rx="10" fill="#f4f5f7" stroke="#d8dce3" stroke-width="1.4"/>
+  <text x="196" y="34" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="15" font-weight="700" fill="#1c2430">subalignment now</text>
+  <text x="28" y="70" text-anchor="start" font-family="ui-monospace,Menlo,monospace" font-size="13" font-weight="700" fill="#6b7380">s1</text>
+  <rect x="72" y="48" width="34" height="30" rx="4" fill="#f7f3ee" stroke="#b56a3a" stroke-width="1.8"/>
+  <text x="89" y="69" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="14" font-weight="700" fill="#b56a3a">A</text>
+  <rect x="110" y="48" width="34" height="30" rx="4" fill="#f7f3ee" stroke="#b56a3a" stroke-width="1.8"/>
+  <text x="127" y="69" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="14" font-weight="700" fill="#b56a3a">C</text>
+  <rect x="148" y="48" width="34" height="30" rx="4" fill="#f7f3ee" stroke="#b56a3a" stroke-width="1.8"/>
+  <text x="165" y="69" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="14" font-weight="700" fill="#b56a3a">G</text>
+  <rect x="186" y="48" width="34" height="30" rx="4" fill="#f7f3ee" stroke="#b56a3a" stroke-width="1.8"/>
+  <text x="203" y="69" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="14" font-weight="700" fill="#b56a3a">T</text>
+  <text x="28" y="106" text-anchor="start" font-family="ui-monospace,Menlo,monospace" font-size="13" font-weight="700" fill="#6b7380">s2</text>
+  <rect x="72" y="84" width="34" height="30" rx="4" fill="#f7f3ee" stroke="#b56a3a" stroke-width="1.8"/>
+  <text x="89" y="105" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="14" font-weight="700" fill="#b56a3a">C</text>
+  <rect x="110" y="84" width="34" height="30" rx="4" fill="#f7f3ee" stroke="#b56a3a" stroke-width="1.8"/>
+  <text x="127" y="105" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="14" font-weight="700" fill="#b56a3a">A</text>
+  <rect x="148" y="84" width="34" height="30" rx="4" fill="#f7f3ee" stroke="#b56a3a" stroke-width="1.8"/>
+  <text x="165" y="105" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="14" font-weight="700" fill="#b56a3a">C</text>
+  <rect x="186" y="84" width="34" height="30" rx="4" fill="#f7f3ee" stroke="#b56a3a" stroke-width="1.8"/>
+  <text x="203" y="105" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="14" font-weight="700" fill="#b56a3a">G</text>
+  <text x="89" y="132" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="13" font-weight="700" fill="#b56a3a">+1</text>
+  <text x="127" y="132" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="13" font-weight="700" fill="#b56a3a">+1</text>
+  <text x="165" y="132" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="13" font-weight="700" fill="#b56a3a">+1</text>
+  <text x="203" y="132" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="13" font-weight="700" fill="#b56a3a">+1</text>
+  <text x="196" y="162" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="16" font-weight="700" fill="#b56a3a">Score already  4</text>
+  <text x="196" y="188" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="13" font-weight="normal" fill="#6b7380">s3 is not chosen yet</text>
+  <rect x="392" y="10" width="356" height="200" rx="10" fill="#f4f5f7" stroke="#d8dce3" stroke-width="1.4"/>
+  <text x="570" y="34" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="14" font-weight="700" fill="#1c2430">if the rest matches perfectly</text>
+  <text x="404" y="70" text-anchor="start" font-family="ui-monospace,Menlo,monospace" font-size="13" font-weight="700" fill="#6b7380">s1</text>
+  <rect x="448" y="48" width="34" height="30" rx="4" fill="#f7f3ee" stroke="#b56a3a" stroke-width="1.8"/>
+  <text x="465" y="69" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="14" font-weight="700" fill="#b56a3a">A</text>
+  <rect x="486" y="48" width="34" height="30" rx="4" fill="#f7f3ee" stroke="#b56a3a" stroke-width="1.8"/>
+  <text x="503" y="69" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="14" font-weight="700" fill="#b56a3a">C</text>
+  <rect x="524" y="48" width="34" height="30" rx="4" fill="#f7f3ee" stroke="#b56a3a" stroke-width="1.8"/>
+  <text x="541" y="69" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="14" font-weight="700" fill="#b56a3a">G</text>
+  <rect x="562" y="48" width="34" height="30" rx="4" fill="#f7f3ee" stroke="#b56a3a" stroke-width="1.8"/>
+  <text x="579" y="69" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="14" font-weight="700" fill="#b56a3a">T</text>
+  <text x="404" y="106" text-anchor="start" font-family="ui-monospace,Menlo,monospace" font-size="13" font-weight="700" fill="#6b7380">s2</text>
+  <rect x="448" y="84" width="34" height="30" rx="4" fill="#f7f3ee" stroke="#b56a3a" stroke-width="1.8"/>
+  <text x="465" y="105" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="14" font-weight="700" fill="#b56a3a">C</text>
+  <rect x="486" y="84" width="34" height="30" rx="4" fill="#f7f3ee" stroke="#b56a3a" stroke-width="1.8"/>
+  <text x="503" y="105" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="14" font-weight="700" fill="#b56a3a">A</text>
+  <rect x="524" y="84" width="34" height="30" rx="4" fill="#f7f3ee" stroke="#b56a3a" stroke-width="1.8"/>
+  <text x="541" y="105" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="14" font-weight="700" fill="#b56a3a">C</text>
+  <rect x="562" y="84" width="34" height="30" rx="4" fill="#f7f3ee" stroke="#b56a3a" stroke-width="1.8"/>
+  <text x="579" y="105" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="14" font-weight="700" fill="#b56a3a">G</text>
+  <text x="404" y="142" text-anchor="start" font-family="ui-monospace,Menlo,monospace" font-size="13" font-weight="700" fill="#6b7380">s3</text>
+  <rect x="448" y="120" width="34" height="30" rx="4" fill="#ffffff" stroke="#c5ccd6" stroke-width="1.5"/>
+  <text x="465" y="141" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="14" font-weight="700" fill="#6b7380">A</text>
+  <rect x="486" y="120" width="34" height="30" rx="4" fill="#ffffff" stroke="#c5ccd6" stroke-width="1.5"/>
+  <text x="503" y="141" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="14" font-weight="700" fill="#6b7380">C</text>
+  <rect x="524" y="120" width="34" height="30" rx="4" fill="#ffffff" stroke="#c5ccd6" stroke-width="1.5"/>
+  <text x="541" y="141" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="14" font-weight="700" fill="#6b7380">G</text>
+  <rect x="562" y="120" width="34" height="30" rx="4" fill="#ffffff" stroke="#c5ccd6" stroke-width="1.5"/>
+  <text x="579" y="141" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="14" font-weight="700" fill="#6b7380">T</text>
+  <text x="606" y="141" text-anchor="start" font-family="Helvetica,Arial,sans-serif" font-size="12" font-weight="normal" fill="#6b7380">copies s1  ·  extra 0</text>
+  <text x="465" y="168" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="13" font-weight="700" fill="#6b7380">+0</text>
+  <text x="503" y="168" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="13" font-weight="700" fill="#6b7380">+0</text>
+  <text x="541" y="168" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="13" font-weight="700" fill="#6b7380">+0</text>
+  <text x="579" y="168" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="13" font-weight="700" fill="#6b7380">+0</text>
+  <text x="570" y="192" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="16" font-weight="700" fill="#b56a3a">U  =  4 + 0  =  4</text>
+  <rect x="12" y="222" width="736" height="104" rx="10" fill="#f4f5f7" stroke="#d8dce3" stroke-width="1.4"/>
+  <text x="36" y="252" text-anchor="start" font-family="Helvetica,Arial,sans-serif" font-size="14" font-weight="normal" fill="#6b7380">best leaf we hold</text>
+  <rect x="220" y="236" width="40" height="24" rx="4" fill="#eef3f8" stroke="#2a5a8c" stroke-width="1.8"/>
+  <text x="240" y="253" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="13" font-weight="700" fill="#2a5a8c">B = 1</text>
+  <text x="36" y="292" text-anchor="start" font-family="Helvetica,Arial,sans-serif" font-size="14" font-weight="normal" fill="#6b7380">best this node can still reach</text>
+  <rect x="220" y="276" width="160" height="24" rx="4" fill="#f7f3ee" stroke="#b56a3a" stroke-width="1.8"/>
+  <text x="300" y="293" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="13" font-weight="700" fill="#b56a3a">U = 4</text>
+  <text x="520" y="268" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="18" font-weight="700" fill="#b56a3a">U > B   →   do not go deeper</text>
+  <text x="520" y="300" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="14" font-weight="normal" fill="#6b7380">no real s3 can beat a perfect s3</text>
+</svg>

@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 300" width="760" height="300" preserveAspectRatio="xMidYMid meet">
+  <rect width="760" height="300" fill="#ffffff"/>
+  <defs><marker id="aw" markerUnits="userSpaceOnUse" markerWidth="12" markerHeight="12" refX="11" refY="6" orient="auto"><path d="M0,0 L12,6 L0,12 Z" fill="#b56a3a"/></marker><marker id="ab" markerUnits="userSpaceOnUse" markerWidth="12" markerHeight="12" refX="11" refY="6" orient="auto"><path d="M0,0 L12,6 L0,12 Z" fill="#2a5a8c"/></marker><marker id="ak" markerUnits="userSpaceOnUse" markerWidth="12" markerHeight="12" refX="11" refY="6" orient="auto"><path d="M0,0 L12,6 L0,12 Z" fill="#1c2430"/></marker><marker id="af" markerUnits="userSpaceOnUse" markerWidth="12" markerHeight="12" refX="11" refY="6" orient="auto"><path d="M0,0 L12,6 L0,12 Z" fill="#c5ccd6"/></marker></defs>
+  <rect x="16" y="16" width="300" height="268" rx="10" fill="#f4f5f7" stroke="#d8dce3" stroke-width="1.4"/>
+  <text x="166" y="44" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="15" font-weight="700" fill="#2a5a8c">bag L</text>
+  <rect x="32" y="66" width="50" height="42" rx="4" fill="#f7f3ee" stroke="#b56a3a" stroke-width="1.8"/>
+  <text x="57" y="94" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="16" font-weight="700" fill="#b56a3a">2</text>
+  <rect x="88" y="66" width="50" height="42" rx="4" fill="#f7f3ee" stroke="#b56a3a" stroke-width="1.8"/>
+  <text x="113" y="94" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="16" font-weight="700" fill="#b56a3a">2</text>
+  <rect x="144" y="66" width="50" height="42" rx="4" fill="#f7f3ee" stroke="#b56a3a" stroke-width="1.8"/>
+  <text x="169" y="94" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="16" font-weight="700" fill="#b56a3a">3</text>
+  <rect x="200" y="66" width="50" height="42" rx="4" fill="#f7f3ee" stroke="#b56a3a" stroke-width="1.8"/>
+  <text x="225" y="94" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="16" font-weight="700" fill="#b56a3a">3</text>
+  <rect x="256" y="66" width="50" height="42" rx="4" fill="#ffffff" stroke="#c5ccd6" stroke-width="1.8"/>
+  <text x="281" y="94" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="16" font-weight="700" fill="#6b7380">4</text>
+  <rect x="32" y="128" width="50" height="42" rx="4" fill="#ffffff" stroke="#c5ccd6" stroke-width="1.8"/>
+  <text x="57" y="156" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="16" font-weight="700" fill="#6b7380">5</text>
+  <rect x="88" y="128" width="50" height="42" rx="4" fill="#ffffff" stroke="#c5ccd6" stroke-width="1.8"/>
+  <text x="113" y="156" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="16" font-weight="700" fill="#6b7380">6</text>
+  <rect x="144" y="128" width="50" height="42" rx="4" fill="#ffffff" stroke="#c5ccd6" stroke-width="1.8"/>
+  <text x="169" y="156" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="16" font-weight="700" fill="#6b7380">7</text>
+  <rect x="200" y="128" width="50" height="42" rx="4" fill="#ffffff" stroke="#c5ccd6" stroke-width="1.8"/>
+  <text x="225" y="156" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="16" font-weight="700" fill="#6b7380">8</text>
+  <rect x="256" y="128" width="50" height="42" rx="4" fill="#ffffff" stroke="#c5ccd6" stroke-width="1.8"/>
+  <text x="281" y="156" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="16" font-weight="700" fill="#6b7380">10</text>
+  <text x="166" y="210" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="14" font-weight="700" fill="#b56a3a">four smallest:  2, 2, 3, 3</text>
+  <text x="166" y="240" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="13" font-weight="normal" fill="#6b7380">every longer pair is ≥ 4</text>
+  <rect x="332" y="16" width="412" height="268" rx="10" fill="#f4f5f7" stroke="#d8dce3" stroke-width="1.4"/>
+  <text x="538" y="44" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="15" font-weight="700" fill="#2a5a8c">5 sites  →  4 neighbouring gaps</text>
+  <line x1="360.0" y1="150.0" x2="700.0" y2="150.0" stroke="#1c2430" stroke-width="3"/>
+  <circle cx="370" cy="150" r="8" fill="#2a5a8c" stroke="#2a5a8c" stroke-width="2.2"/>
+  <text x="370" y="178" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="15" font-weight="700" fill="#1c2430">0</text>
+  <circle cx="450" cy="150" r="8" fill="#ffffff" stroke="#1c2430" stroke-width="2.2"/>
+  <text x="450" y="178" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="15" font-weight="700" fill="#1c2430">·</text>
+  <circle cx="530" cy="150" r="8" fill="#ffffff" stroke="#1c2430" stroke-width="2.2"/>
+  <text x="530" y="178" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="15" font-weight="700" fill="#1c2430">·</text>
+  <circle cx="610" cy="150" r="8" fill="#ffffff" stroke="#1c2430" stroke-width="2.2"/>
+  <text x="610" y="178" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="15" font-weight="700" fill="#1c2430">·</text>
+  <circle cx="690" cy="150" r="8" fill="#2a5a8c" stroke="#2a5a8c" stroke-width="2.2"/>
+  <text x="690" y="178" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="15" font-weight="700" fill="#1c2430">10</text>
+  <line x1="370.0" y1="138.0" x2="370.0" y2="114.0" stroke="#b56a3a" stroke-width="1.6"/>
+  <line x1="370.0" y1="114.0" x2="450.0" y2="114.0" stroke="#b56a3a" stroke-width="1.6"/>
+  <line x1="450.0" y1="114.0" x2="450.0" y2="138.0" stroke="#b56a3a" stroke-width="1.6"/>
+  <text x="410.0" y="98" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="13" font-weight="700" fill="#b56a3a">gap</text>
+  <line x1="450.0" y1="138.0" x2="450.0" y2="114.0" stroke="#b56a3a" stroke-width="1.6"/>
+  <line x1="450.0" y1="114.0" x2="530.0" y2="114.0" stroke="#b56a3a" stroke-width="1.6"/>
+  <line x1="530.0" y1="114.0" x2="530.0" y2="138.0" stroke="#b56a3a" stroke-width="1.6"/>
+  <text x="490.0" y="98" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="13" font-weight="700" fill="#b56a3a">gap</text>
+  <line x1="530.0" y1="138.0" x2="530.0" y2="114.0" stroke="#b56a3a" stroke-width="1.6"/>
+  <line x1="530.0" y1="114.0" x2="610.0" y2="114.0" stroke="#b56a3a" stroke-width="1.6"/>
+  <line x1="610.0" y1="114.0" x2="610.0" y2="138.0" stroke="#b56a3a" stroke-width="1.6"/>
+  <text x="570.0" y="98" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="13" font-weight="700" fill="#b56a3a">gap</text>
+  <line x1="610.0" y1="138.0" x2="610.0" y2="114.0" stroke="#b56a3a" stroke-width="1.6"/>
+  <line x1="610.0" y1="114.0" x2="690.0" y2="114.0" stroke="#b56a3a" stroke-width="1.6"/>
+  <line x1="690.0" y1="114.0" x2="690.0" y2="138.0" stroke="#b56a3a" stroke-width="1.6"/>
+  <text x="650.0" y="98" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="13" font-weight="700" fill="#b56a3a">gap</text>
+  <text x="538" y="230" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="14" font-weight="normal" fill="#6b7380">a skip is a sum of two gaps</text>
+  <text x="538" y="258" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="15" font-weight="700" fill="#b56a3a">at least  2 + 2 = 4</text>
+</svg>

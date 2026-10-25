@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 220" width="640" height="220">
+  <rect width="640" height="220" fill="#ffffff"/>
+  <text x="40" y="28" text-anchor="start" font-family="Helvetica,Arial,sans-serif" font-size="13" font-weight="700" fill="#6b7380">gene 1</text>
+  <line x1="40" y1="70" x2="600" y2="70" stroke="#1c2430" stroke-width="4" stroke-linecap="round"/>
+  <rect x="200" y="50" width="120" height="40" rx="6" fill="#f7f3ee" stroke="#b56a3a" stroke-width="2"/>
+  <text x="260" y="76" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="16" font-weight="700" fill="#b56a3a">ACGT</text>
+  <rect x="200" y="8" width="120" height="32" rx="14" fill="#eef3f8" stroke="#2a5a8c" stroke-width="2"/>
+  <text x="260" y="30" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="13" font-weight="700" fill="#1c2430">protein</text>
+  <line x1="260" y1="40" x2="260" y2="50" stroke="#2a5a8c" stroke-width="2"/>
+  <rect x="400" y="46" width="140" height="48" rx="6" fill="#eef3f8" stroke="#1c2430" stroke-width="2"/>
+  <text x="470" y="76" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="16" font-weight="700" fill="#1c2430">gene</text>
+  <text x="80" y="76" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="12" font-weight="700" fill="#6b7380">promoter</text>
+  <text x="40" y="128" text-anchor="start" font-family="Helvetica,Arial,sans-serif" font-size="13" font-weight="700" fill="#6b7380">gene 2</text>
+  <line x1="40" y1="170" x2="600" y2="170" stroke="#1c2430" stroke-width="4" stroke-linecap="round"/>
+  <rect x="248" y="150" width="120" height="40" rx="6" fill="#f7f3ee" stroke="#b56a3a" stroke-width="2"/>
+  <text x="308" y="176" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="16" font-weight="700" fill="#b56a3a">ACGA</text>
+  <rect x="248" y="108" width="120" height="32" rx="14" fill="#eef3f8" stroke="#2a5a8c" stroke-width="2"/>
+  <text x="308" y="130" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="13" font-weight="700" fill="#1c2430">protein</text>
+  <line x1="308" y1="140" x2="308" y2="150" stroke="#2a5a8c" stroke-width="2"/>
+  <rect x="430" y="146" width="140" height="48" rx="6" fill="#eef3f8" stroke="#1c2430" stroke-width="2"/>
+  <text x="500" y="176" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="16" font-weight="700" fill="#1c2430">gene</text>
+  <text x="80" y="176" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="12" font-weight="700" fill="#6b7380">promoter</text>
+  <text x="320" y="210" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="13" fill="#6b7380">same protein, almost the same word</text>
+</svg>

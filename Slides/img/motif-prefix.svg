@@ -1,0 +1,99 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 350" width="760" height="350" preserveAspectRatio="xMidYMid meet">
+  <rect width="760" height="350" fill="#ffffff"/>
+  <defs><marker id="aw" markerUnits="userSpaceOnUse" markerWidth="12" markerHeight="12" refX="11" refY="6" orient="auto"><path d="M0,0 L12,6 L0,12 Z" fill="#b56a3a"/></marker><marker id="ab" markerUnits="userSpaceOnUse" markerWidth="12" markerHeight="12" refX="11" refY="6" orient="auto"><path d="M0,0 L12,6 L0,12 Z" fill="#2a5a8c"/></marker><marker id="ak" markerUnits="userSpaceOnUse" markerWidth="12" markerHeight="12" refX="11" refY="6" orient="auto"><path d="M0,0 L12,6 L0,12 Z" fill="#1c2430"/></marker><marker id="af" markerUnits="userSpaceOnUse" markerWidth="12" markerHeight="12" refX="11" refY="6" orient="auto"><path d="M0,0 L12,6 L0,12 Z" fill="#c5ccd6"/></marker></defs>
+  <rect x="12" y="8" width="736" height="168" rx="10" fill="#f4f5f7" stroke="#d8dce3" stroke-width="1.4"/>
+  <text x="28" y="30" text-anchor="start" font-family="Helvetica,Arial,sans-serif" font-size="13" font-weight="700" fill="#2a5a8c">only two starts chosen</text>
+  <text x="732" y="30" text-anchor="end" font-family="ui-monospace,Menlo,monospace" font-size="14" font-weight="700" fill="#b56a3a">s1 = 3,  s2 = 0,  s3 still free</text>
+  <text x="76.0" y="50" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="11" font-weight="normal" fill="#6b7380">0</text>
+  <text x="100.0" y="50" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="11" font-weight="normal" fill="#6b7380">1</text>
+  <text x="124.0" y="50" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="11" font-weight="normal" fill="#6b7380">2</text>
+  <text x="148.0" y="50" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="11" font-weight="normal" fill="#6b7380">3</text>
+  <text x="172.0" y="50" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="11" font-weight="normal" fill="#6b7380">4</text>
+  <text x="196.0" y="50" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="11" font-weight="normal" fill="#6b7380">5</text>
+  <text x="220.0" y="50" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="11" font-weight="normal" fill="#6b7380">6</text>
+  <text x="244.0" y="50" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="11" font-weight="normal" fill="#6b7380">7</text>
+  <text x="268.0" y="50" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="11" font-weight="normal" fill="#6b7380">8</text>
+  <text x="292.0" y="50" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="11" font-weight="normal" fill="#6b7380">9</text>
+  <text x="28" y="76" text-anchor="start" font-family="ui-monospace,Menlo,monospace" font-size="13" font-weight="700" fill="#6b7380">s1</text>
+  <rect x="64" y="58" width="24" height="26" rx="4" fill="#ffffff" stroke="#c5ccd6" stroke-width="1.2"/>
+  <text x="76.0" y="75.68" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="15" font-weight="700" fill="#1c2430">A</text>
+  <rect x="88" y="58" width="24" height="26" rx="4" fill="#ffffff" stroke="#c5ccd6" stroke-width="1.2"/>
+  <text x="100.0" y="75.68" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="15" font-weight="700" fill="#1c2430">T</text>
+  <rect x="112" y="58" width="24" height="26" rx="4" fill="#ffffff" stroke="#c5ccd6" stroke-width="1.2"/>
+  <text x="124.0" y="75.68" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="15" font-weight="700" fill="#1c2430">G</text>
+  <rect x="136" y="58" width="24" height="26" rx="4" fill="#f7f3ee" stroke="#b56a3a" stroke-width="2.2"/>
+  <text x="148.0" y="75.68" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="15" font-weight="700" fill="#b56a3a">A</text>
+  <rect x="160" y="58" width="24" height="26" rx="4" fill="#f7f3ee" stroke="#b56a3a" stroke-width="2.2"/>
+  <text x="172.0" y="75.68" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="15" font-weight="700" fill="#b56a3a">C</text>
+  <rect x="184" y="58" width="24" height="26" rx="4" fill="#f7f3ee" stroke="#b56a3a" stroke-width="2.2"/>
+  <text x="196.0" y="75.68" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="15" font-weight="700" fill="#b56a3a">G</text>
+  <rect x="208" y="58" width="24" height="26" rx="4" fill="#f7f3ee" stroke="#b56a3a" stroke-width="2.2"/>
+  <text x="220.0" y="75.68" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="15" font-weight="700" fill="#b56a3a">T</text>
+  <rect x="232" y="58" width="24" height="26" rx="4" fill="#ffffff" stroke="#c5ccd6" stroke-width="1.2"/>
+  <text x="244.0" y="75.68" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="15" font-weight="700" fill="#1c2430">T</text>
+  <rect x="256" y="58" width="24" height="26" rx="4" fill="#ffffff" stroke="#c5ccd6" stroke-width="1.2"/>
+  <text x="268.0" y="75.68" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="15" font-weight="700" fill="#1c2430">T</text>
+  <rect x="280" y="58" width="24" height="26" rx="4" fill="#ffffff" stroke="#c5ccd6" stroke-width="1.2"/>
+  <text x="292.0" y="75.68" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="15" font-weight="700" fill="#1c2430">A</text>
+  <text x="28" y="112" text-anchor="start" font-family="ui-monospace,Menlo,monospace" font-size="13" font-weight="700" fill="#6b7380">s2</text>
+  <rect x="64" y="94" width="24" height="26" rx="4" fill="#f7f3ee" stroke="#b56a3a" stroke-width="2.2"/>
+  <text x="76.0" y="111.68" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="15" font-weight="700" fill="#b56a3a">C</text>
+  <rect x="88" y="94" width="24" height="26" rx="4" fill="#f7f3ee" stroke="#b56a3a" stroke-width="2.2"/>
+  <text x="100.0" y="111.68" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="15" font-weight="700" fill="#b56a3a">A</text>
+  <rect x="112" y="94" width="24" height="26" rx="4" fill="#f7f3ee" stroke="#b56a3a" stroke-width="2.2"/>
+  <text x="124.0" y="111.68" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="15" font-weight="700" fill="#b56a3a">C</text>
+  <rect x="136" y="94" width="24" height="26" rx="4" fill="#f7f3ee" stroke="#b56a3a" stroke-width="2.2"/>
+  <text x="148.0" y="111.68" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="15" font-weight="700" fill="#b56a3a">G</text>
+  <rect x="160" y="94" width="24" height="26" rx="4" fill="#ffffff" stroke="#c5ccd6" stroke-width="1.2"/>
+  <text x="172.0" y="111.68" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="15" font-weight="700" fill="#1c2430">A</text>
+  <rect x="184" y="94" width="24" height="26" rx="4" fill="#ffffff" stroke="#c5ccd6" stroke-width="1.2"/>
+  <text x="196.0" y="111.68" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="15" font-weight="700" fill="#1c2430">G</text>
+  <rect x="208" y="94" width="24" height="26" rx="4" fill="#ffffff" stroke="#c5ccd6" stroke-width="1.2"/>
+  <text x="220.0" y="111.68" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="15" font-weight="700" fill="#1c2430">G</text>
+  <rect x="232" y="94" width="24" height="26" rx="4" fill="#ffffff" stroke="#c5ccd6" stroke-width="1.2"/>
+  <text x="244.0" y="111.68" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="15" font-weight="700" fill="#1c2430">C</text>
+  <rect x="256" y="94" width="24" height="26" rx="4" fill="#ffffff" stroke="#c5ccd6" stroke-width="1.2"/>
+  <text x="268.0" y="111.68" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="15" font-weight="700" fill="#1c2430">T</text>
+  <text x="28" y="148" text-anchor="start" font-family="ui-monospace,Menlo,monospace" font-size="13" font-weight="700" fill="#6b7380">s3</text>
+  <rect x="64" y="130" width="24" height="26" rx="4" fill="#ffffff" stroke="#c5ccd6" stroke-width="1.2"/>
+  <text x="76.0" y="147.68" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="15" font-weight="700" fill="#1c2430">T</text>
+  <rect x="88" y="130" width="24" height="26" rx="4" fill="#ffffff" stroke="#c5ccd6" stroke-width="1.2"/>
+  <text x="100.0" y="147.68" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="15" font-weight="700" fill="#1c2430">T</text>
+  <rect x="112" y="130" width="24" height="26" rx="4" fill="#ffffff" stroke="#c5ccd6" stroke-width="1.2"/>
+  <text x="124.0" y="147.68" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="15" font-weight="700" fill="#1c2430">A</text>
+  <rect x="136" y="130" width="24" height="26" rx="4" fill="#ffffff" stroke="#c5ccd6" stroke-width="1.2"/>
+  <text x="148.0" y="147.68" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="15" font-weight="700" fill="#1c2430">C</text>
+  <rect x="160" y="130" width="24" height="26" rx="4" fill="#ffffff" stroke="#c5ccd6" stroke-width="1.2"/>
+  <text x="172.0" y="147.68" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="15" font-weight="700" fill="#1c2430">G</text>
+  <rect x="184" y="130" width="24" height="26" rx="4" fill="#ffffff" stroke="#c5ccd6" stroke-width="1.2"/>
+  <text x="196.0" y="147.68" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="15" font-weight="700" fill="#1c2430">T</text>
+  <rect x="208" y="130" width="24" height="26" rx="4" fill="#ffffff" stroke="#c5ccd6" stroke-width="1.2"/>
+  <text x="220.0" y="147.68" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="15" font-weight="700" fill="#1c2430">A</text>
+  <text x="28" y="196" text-anchor="start" font-family="Helvetica,Arial,sans-serif" font-size="13" font-weight="normal" fill="#6b7380">subalignment  ·  d = 2 rows</text>
+  <text x="36" y="232" text-anchor="start" font-family="ui-monospace,Menlo,monospace" font-size="14" font-weight="700" fill="#6b7380">s1</text>
+  <rect x="90" y="210" width="42" height="34" rx="4" fill="#f7f3ee" stroke="#b56a3a" stroke-width="1.8"/>
+  <text x="111.0" y="233" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="17" font-weight="700" fill="#b56a3a">A</text>
+  <rect x="138" y="210" width="42" height="34" rx="4" fill="#f7f3ee" stroke="#b56a3a" stroke-width="1.8"/>
+  <text x="159.0" y="233" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="17" font-weight="700" fill="#b56a3a">C</text>
+  <rect x="186" y="210" width="42" height="34" rx="4" fill="#f7f3ee" stroke="#b56a3a" stroke-width="1.8"/>
+  <text x="207.0" y="233" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="17" font-weight="700" fill="#b56a3a">G</text>
+  <rect x="234" y="210" width="42" height="34" rx="4" fill="#f7f3ee" stroke="#b56a3a" stroke-width="1.8"/>
+  <text x="255.0" y="233" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="17" font-weight="700" fill="#b56a3a">T</text>
+  <text x="36" y="272" text-anchor="start" font-family="ui-monospace,Menlo,monospace" font-size="14" font-weight="700" fill="#6b7380">s2</text>
+  <rect x="90" y="250" width="42" height="34" rx="4" fill="#f7f3ee" stroke="#b56a3a" stroke-width="1.8"/>
+  <text x="111.0" y="273" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="17" font-weight="700" fill="#b56a3a">C</text>
+  <rect x="138" y="250" width="42" height="34" rx="4" fill="#f7f3ee" stroke="#b56a3a" stroke-width="1.8"/>
+  <text x="159.0" y="273" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="17" font-weight="700" fill="#b56a3a">A</text>
+  <rect x="186" y="250" width="42" height="34" rx="4" fill="#f7f3ee" stroke="#b56a3a" stroke-width="1.8"/>
+  <text x="207.0" y="273" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="17" font-weight="700" fill="#b56a3a">C</text>
+  <rect x="234" y="250" width="42" height="34" rx="4" fill="#f7f3ee" stroke="#b56a3a" stroke-width="1.8"/>
+  <text x="255.0" y="273" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="17" font-weight="700" fill="#b56a3a">G</text>
+  <text x="111.0" y="298" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="14" font-weight="700" fill="#b56a3a">+1</text>
+  <text x="159.0" y="298" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="14" font-weight="700" fill="#b56a3a">+1</text>
+  <text x="207.0" y="298" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="14" font-weight="700" fill="#b56a3a">+1</text>
+  <text x="255.0" y="298" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="14" font-weight="700" fill="#b56a3a">+1</text>
+  <rect x="430" y="196" width="310" height="132" rx="8" fill="#f4f5f7" stroke="#d8dce3" stroke-width="1.4"/>
+  <text x="585" y="232" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="14" font-weight="normal" fill="#6b7380">each column disagrees</text>
+  <text x="585" y="268" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="18" font-weight="700" fill="#b56a3a">1 + 1 + 1 + 1  =  4</text>
+  <text x="585" y="304" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="15" font-weight="700" fill="#1c2430">Score of this node  =  4</text>
+</svg>

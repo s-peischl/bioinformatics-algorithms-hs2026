@@ -12,6 +12,12 @@ This repository is meant for **students**: clone it, open the Quarto slides, and
   - Lab: `Slides/labs/02-tsp.ipynb` (TSP + genetic algorithm + interval scheduling)
 - **Week 3** — Dynamic programming: tourist + alignment (`Slides/03-dynamic-programming.qmd`, [PDF](Slides/03-dynamic-programming.pdf))
   - Labs: `Slides/labs/03-tourist.ipynb`, `Slides/labs/04-nw.ipynb`
+- **Week 4** — DP variants: linear memory, RNA folding, HMMs (`Slides/04-dp-variants.qmd`, [PDF](Slides/04-dp-variants.pdf))
+  - Lab: `Slides/labs/04-dp-variants.ipynb`
+- **Week 5** — Exhaustive search and branch-and-bound (`Slides/05-search-trees.qmd`, [PDF](Slides/05-search-trees.pdf))
+  - Lab: `Slides/labs/05-search.ipynb`
+- **Week 6** — Greedy algorithms and approximation (`Slides/06-greedy.qmd`, [PDF](Slides/06-greedy.pdf))
+  - Lab: `Slides/labs/06-greedy.ipynb` (needs `matplotlib`)
 
 Later weeks will be added as the course progresses.
 
@@ -40,6 +46,9 @@ Later weeks will be added as the course progresses.
    - Week 1: `Slides/labs/01-fib.ipynb`
    - Week 2: `Slides/labs/02-tsp.ipynb` (needs `matplotlib` for the genetic-algorithm animation)
    - Week 3: `Slides/labs/03-tourist.ipynb` and `Slides/labs/04-nw.ipynb`
+   - Week 4: `Slides/labs/04-dp-variants.ipynb`
+   - Week 5: `Slides/labs/05-search.ipynb`
+   - Week 6: `Slides/labs/06-greedy.ipynb` (needs `matplotlib`)
 
 ## Course
 

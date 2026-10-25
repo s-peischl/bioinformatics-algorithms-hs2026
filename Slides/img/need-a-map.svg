@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 280" width="760" height="280" preserveAspectRatio="xMidYMid meet">
+  <rect width="760" height="280" fill="#ffffff"/>
+  <defs><marker id="aw" markerUnits="userSpaceOnUse" markerWidth="12" markerHeight="12" refX="11" refY="6" orient="auto"><path d="M0,0 L12,6 L0,12 Z" fill="#b56a3a"/></marker><marker id="ab" markerUnits="userSpaceOnUse" markerWidth="12" markerHeight="12" refX="11" refY="6" orient="auto"><path d="M0,0 L12,6 L0,12 Z" fill="#2a5a8c"/></marker><marker id="ak" markerUnits="userSpaceOnUse" markerWidth="12" markerHeight="12" refX="11" refY="6" orient="auto"><path d="M0,0 L12,6 L0,12 Z" fill="#1c2430"/></marker><marker id="af" markerUnits="userSpaceOnUse" markerWidth="12" markerHeight="12" refX="11" refY="6" orient="auto"><path d="M0,0 L12,6 L0,12 Z" fill="#c5ccd6"/></marker></defs>
+  <rect x="24" y="36" width="340" height="210" rx="10" fill="#f4f5f7" stroke="#d8dce3" stroke-width="1.4"/>
+  <text x="194" y="68" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="15" font-weight="normal" fill="#6b7380">unread</text>
+  <line x1="54.0" y1="140.0" x2="334.0" y2="140.0" stroke="#1c2430" stroke-width="10"/>
+  <text x="194" y="188" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="14" font-weight="700" fill="#2a5a8c">phage λ  ·  48.5 kb</text>
+  <text x="194" y="222" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="13" font-weight="normal" fill="#6b7380">a genome with no picture</text>
+  <rect x="396" y="36" width="340" height="210" rx="10" fill="#f4f5f7" stroke="#d8dce3" stroke-width="1.4"/>
+  <text x="566" y="68" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="15" font-weight="700" fill="#2a5a8c">restriction map</text>
+  <line x1="426.0" y1="140.0" x2="706.0" y2="140.0" stroke="#1c2430" stroke-width="10"/>
+  <line x1="426.0" y1="126.0" x2="426.0" y2="154.0" stroke="#b56a3a" stroke-width="2.8"/>
+  <circle cx="426.0" cy="140" r="5" fill="#b56a3a" stroke="#b56a3a" stroke-width="0"/>
+  <line x1="548.4" y1="126.0" x2="548.4" y2="154.0" stroke="#b56a3a" stroke-width="2.8"/>
+  <circle cx="548.3917525773196" cy="140" r="5" fill="#b56a3a" stroke="#b56a3a" stroke-width="0"/>
+  <line x1="576.7" y1="126.0" x2="576.7" y2="154.0" stroke="#b56a3a" stroke-width="2.8"/>
+  <circle cx="576.680412371134" cy="140" r="5" fill="#b56a3a" stroke="#b56a3a" stroke-width="0"/>
+  <line x1="609.0" y1="126.0" x2="609.0" y2="154.0" stroke="#b56a3a" stroke-width="2.8"/>
+  <circle cx="609.0103092783505" cy="140" r="5" fill="#b56a3a" stroke="#b56a3a" stroke-width="0"/>
+  <line x1="652.3" y1="126.0" x2="652.3" y2="154.0" stroke="#b56a3a" stroke-width="2.8"/>
+  <circle cx="652.3092783505155" cy="140" r="5" fill="#b56a3a" stroke="#b56a3a" stroke-width="0"/>
+  <line x1="685.8" y1="126.0" x2="685.8" y2="154.0" stroke="#b56a3a" stroke-width="2.8"/>
+  <circle cx="685.7938144329896" cy="140" r="5" fill="#b56a3a" stroke="#b56a3a" stroke-width="0"/>
+  <line x1="706.0" y1="126.0" x2="706.0" y2="154.0" stroke="#b56a3a" stroke-width="2.8"/>
+  <circle cx="706.0" cy="140" r="5" fill="#b56a3a" stroke="#b56a3a" stroke-width="0"/>
+  <text x="566" y="188" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="14" font-weight="700" fill="#b56a3a">five EcoRI sites</text>
+  <text x="566" y="222" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="13" font-weight="normal" fill="#6b7380">1975: the cuts are the picture</text>
+</svg>

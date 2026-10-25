@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 400" width="1260" height="560" preserveAspectRatio="xMidYMid meet">
+  <rect width="900" height="400" fill="#ffffff"/>
+  <defs><marker id="ah-2a5a8c" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#2a5a8c"/></marker><marker id="ah-b56a3a" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#b56a3a"/></marker><marker id="ah-6b7380" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#6b7380"/></marker><marker id="ah-1c2430" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#1c2430"/></marker></defs>
+  <rect x="170" y="45.0" width="706" height="10" rx="5" fill="#c9ced6"/>
+  <polygon points="200.0,30.0 278.0,30.0 296.0,50.0 278.0,70.0 200.0,70.0" fill="#4e79a7" stroke="#ffffff" stroke-width="1.5"/>
+  <text x="244.0" y="57.0" text-anchor="middle" font-family="'Source Sans 3','Source Sans Pro','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="20" font-weight="700" fill="#ffffff">1</text>
+  <polygon points="310.0,30.0 388.0,30.0 406.0,50.0 388.0,70.0 310.0,70.0" fill="#e0904a" stroke="#ffffff" stroke-width="1.5"/>
+  <text x="354.0" y="57.0" text-anchor="middle" font-family="'Source Sans 3','Source Sans Pro','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="20" font-weight="700" fill="#ffffff">2</text>
+  <polygon points="420.0,30.0 498.0,30.0 516.0,50.0 498.0,70.0 420.0,70.0" fill="#59a14f" stroke="#ffffff" stroke-width="1.5"/>
+  <text x="464.0" y="57.0" text-anchor="middle" font-family="'Source Sans 3','Source Sans Pro','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="20" font-weight="700" fill="#ffffff">3</text>
+  <polygon points="530.0,30.0 608.0,30.0 626.0,50.0 608.0,70.0 530.0,70.0" fill="#b07aa1" stroke="#ffffff" stroke-width="1.5"/>
+  <text x="574.0" y="57.0" text-anchor="middle" font-family="'Source Sans 3','Source Sans Pro','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="20" font-weight="700" fill="#ffffff">4</text>
+  <polygon points="640.0,30.0 718.0,30.0 736.0,50.0 718.0,70.0 640.0,70.0" fill="#d4605a" stroke="#ffffff" stroke-width="1.5"/>
+  <text x="684.0" y="57.0" text-anchor="middle" font-family="'Source Sans 3','Source Sans Pro','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="20" font-weight="700" fill="#ffffff">5</text>
+  <polygon points="750.0,30.0 828.0,30.0 846.0,50.0 828.0,70.0 750.0,70.0" fill="#5fa8a3" stroke="#ffffff" stroke-width="1.5"/>
+  <text x="794.0" y="57.0" text-anchor="middle" font-family="'Source Sans 3','Source Sans Pro','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="20" font-weight="700" fill="#ffffff">6</text>
+  <text x="154.0" y="57.0" text-anchor="end" font-family="'Source Sans 3','Source Sans Pro','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="19" font-weight="normal" fill="#6b7380" font-style="italic">ancestor</text>
+  <rect x="170" y="190.0" width="706" height="10" rx="5" fill="#c9ced6"/>
+  <polygon points="200.0,175.0 278.0,175.0 296.0,195.0 278.0,215.0 200.0,215.0" fill="#ffffff" stroke="#6b7380" stroke-width="2" stroke-dasharray="5 4"/>
+  <text x="248.0" y="202.0" text-anchor="middle" font-family="'Source Sans 3','Source Sans Pro','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="20" font-weight="700" fill="#6b7380">?</text>
+  <polygon points="310.0,175.0 388.0,175.0 406.0,195.0 388.0,215.0 310.0,215.0" fill="#ffffff" stroke="#6b7380" stroke-width="2" stroke-dasharray="5 4"/>
+  <text x="358.0" y="202.0" text-anchor="middle" font-family="'Source Sans 3','Source Sans Pro','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="20" font-weight="700" fill="#6b7380">?</text>
+  <polygon points="420.0,175.0 498.0,175.0 516.0,195.0 498.0,215.0 420.0,215.0" fill="#ffffff" stroke="#6b7380" stroke-width="2" stroke-dasharray="5 4"/>
+  <text x="468.0" y="202.0" text-anchor="middle" font-family="'Source Sans 3','Source Sans Pro','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="20" font-weight="700" fill="#6b7380">?</text>
+  <polygon points="530.0,175.0 608.0,175.0 626.0,195.0 608.0,215.0 530.0,215.0" fill="#ffffff" stroke="#6b7380" stroke-width="2" stroke-dasharray="5 4"/>
+  <text x="578.0" y="202.0" text-anchor="middle" font-family="'Source Sans 3','Source Sans Pro','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="20" font-weight="700" fill="#6b7380">?</text>
+  <polygon points="640.0,175.0 718.0,175.0 736.0,195.0 718.0,215.0 640.0,215.0" fill="#ffffff" stroke="#6b7380" stroke-width="2" stroke-dasharray="5 4"/>
+  <text x="688.0" y="202.0" text-anchor="middle" font-family="'Source Sans 3','Source Sans Pro','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="20" font-weight="700" fill="#6b7380">?</text>
+  <polygon points="750.0,175.0 828.0,175.0 846.0,195.0 828.0,215.0 750.0,215.0" fill="#ffffff" stroke="#6b7380" stroke-width="2" stroke-dasharray="5 4"/>
+  <text x="798.0" y="202.0" text-anchor="middle" font-family="'Source Sans 3','Source Sans Pro','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="20" font-weight="700" fill="#6b7380">?</text>
+  <text x="154.0" y="202.0" text-anchor="end" font-family="'Source Sans 3','Source Sans Pro','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="19" font-weight="normal" fill="#6b7380" font-style="italic"></text>
+  <rect x="170" y="335.0" width="706" height="10" rx="5" fill="#c9ced6"/>
+  <polygon points="200.0,320.0 278.0,320.0 296.0,340.0 278.0,360.0 200.0,360.0" fill="#4e79a7" stroke="#ffffff" stroke-width="1.5"/>
+  <text x="244.0" y="347.0" text-anchor="middle" font-family="'Source Sans 3','Source Sans Pro','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="20" font-weight="700" fill="#ffffff">1</text>
+  <polygon points="328.0,320.0 406.0,320.0 406.0,360.0 328.0,360.0 310.0,340.0" fill="#5fa8a3" stroke="#ffffff" stroke-width="1.5"/>
+  <text x="362.0" y="347.0" text-anchor="middle" font-family="'Source Sans 3','Source Sans Pro','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="20" font-weight="700" fill="#ffffff">6</text>
+  <polygon points="438.0,320.0 516.0,320.0 516.0,360.0 438.0,360.0 420.0,340.0" fill="#d4605a" stroke="#ffffff" stroke-width="1.5"/>
+  <text x="472.0" y="347.0" text-anchor="middle" font-family="'Source Sans 3','Source Sans Pro','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="20" font-weight="700" fill="#ffffff">5</text>
+  <polygon points="530.0,320.0 608.0,320.0 626.0,340.0 608.0,360.0 530.0,360.0" fill="#e0904a" stroke="#ffffff" stroke-width="1.5"/>
+  <text x="574.0" y="347.0" text-anchor="middle" font-family="'Source Sans 3','Source Sans Pro','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="20" font-weight="700" fill="#ffffff">2</text>
+  <polygon points="640.0,320.0 718.0,320.0 736.0,340.0 718.0,360.0 640.0,360.0" fill="#59a14f" stroke="#ffffff" stroke-width="1.5"/>
+  <text x="684.0" y="347.0" text-anchor="middle" font-family="'Source Sans 3','Source Sans Pro','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="20" font-weight="700" fill="#ffffff">3</text>
+  <polygon points="750.0,320.0 828.0,320.0 846.0,340.0 828.0,360.0 750.0,360.0" fill="#b07aa1" stroke="#ffffff" stroke-width="1.5"/>
+  <text x="794.0" y="347.0" text-anchor="middle" font-family="'Source Sans 3','Source Sans Pro','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="20" font-weight="700" fill="#ffffff">4</text>
+  <text x="154.0" y="347.0" text-anchor="end" font-family="'Source Sans 3','Source Sans Pro','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="19" font-weight="normal" fill="#6b7380" font-style="italic">today</text>
+  <text x="154.0" y="202.0" text-anchor="end" font-family="'Source Sans 3','Source Sans Pro','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="24" font-weight="700" fill="#6b7380">?</text>
+  <line x1="130.0" y1="82.0" x2="130.0" y2="165.0" stroke="#6b7380" stroke-width="2.5" marker-end="url(#ah-6b7380)"/>
+  <text x="118.0" y="129.5" text-anchor="end" font-family="'Source Sans 3','Source Sans Pro','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="16" font-weight="normal" fill="#6b7380">inversion</text>
+  <line x1="130.0" y1="227.0" x2="130.0" y2="310.0" stroke="#6b7380" stroke-width="2.5" marker-end="url(#ah-6b7380)"/>
+  <text x="118.0" y="274.5" text-anchor="end" font-family="'Source Sans 3','Source Sans Pro','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="16" font-weight="normal" fill="#6b7380">inversion</text>
+</svg>

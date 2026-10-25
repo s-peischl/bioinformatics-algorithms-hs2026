@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid meet" viewBox="0 0 520 180" width="520" height="180">
+  <rect width="520" height="180" fill="#ffffff"/>
+  <line x1="80" y1="110" x2="440" y2="110" stroke="#1c2430" stroke-width="3" stroke-linecap="round"/>
+  <circle cx="80" cy="110" r="16" fill="#1c2430"/>
+  <text x="80" y="115" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="14" font-weight="700" fill="#f4f5f7">i</text>
+  <circle cx="200" cy="110" r="12" fill="#1c2430"/>
+  <circle cx="280" cy="110" r="12" fill="#1c2430"/>
+  <circle cx="360" cy="110" r="12" fill="#1c2430"/>
+  <circle cx="440" cy="110" r="16" fill="#1c2430"/>
+  <text x="440" y="115" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="14" font-weight="700" fill="#f4f5f7">j</text>
+  <path d="M 80,94 A 180,52 0 0 1 440,94" fill="none" stroke="#b56a3a" stroke-width="2.6"/>
+  <path d="M 200,96 A 40,24 0 0 1 280,96" fill="none" stroke="#2a5a8c" stroke-width="2.2"/>
+  <text x="260" y="160" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="16" fill="#1c2430">score N(i+1, j-1) + 1</text>
+</svg>

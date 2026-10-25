@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 360" width="760" height="360" preserveAspectRatio="xMidYMid meet">
+  <rect width="760" height="360" fill="#ffffff"/>
+  <defs><marker id="aw" markerUnits="userSpaceOnUse" markerWidth="12" markerHeight="12" refX="11" refY="6" orient="auto"><path d="M0,0 L12,6 L0,12 Z" fill="#b56a3a"/></marker><marker id="ab" markerUnits="userSpaceOnUse" markerWidth="12" markerHeight="12" refX="11" refY="6" orient="auto"><path d="M0,0 L12,6 L0,12 Z" fill="#2a5a8c"/></marker><marker id="ak" markerUnits="userSpaceOnUse" markerWidth="12" markerHeight="12" refX="11" refY="6" orient="auto"><path d="M0,0 L12,6 L0,12 Z" fill="#1c2430"/></marker><marker id="af" markerUnits="userSpaceOnUse" markerWidth="12" markerHeight="12" refX="11" refY="6" orient="auto"><path d="M0,0 L12,6 L0,12 Z" fill="#d3d8df"/></marker></defs>
+  <circle cx="220" cy="120" r="56" fill="#f7f3ee" stroke="#b56a3a" stroke-width="2.6"/>
+  <text x="220" y="126" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="17" font-weight="700" fill="#b56a3a">island</text>
+  <path d="M 186,75 A 26,26 0 1 1 254,75" fill="none" stroke="#b56a3a" stroke-width="2" marker-end="url(#aw)"/>
+  <text x="220" y="22" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="14" font-weight="700" fill="#b56a3a">stay: often</text>
+  <rect x="150" y="277.5" width="28" height="22.5" fill="#b56a3a" opacity="0.8"/>
+  <text x="164.0" y="320" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="14" font-weight="700" fill="#1c2430">A</text>
+  <rect x="187" y="210.0" width="28" height="90.0" fill="#b56a3a" opacity="0.8"/>
+  <text x="201.0" y="320" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="14" font-weight="700" fill="#1c2430">C</text>
+  <rect x="224" y="210.0" width="28" height="90.0" fill="#b56a3a" opacity="0.8"/>
+  <text x="238.0" y="320" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="14" font-weight="700" fill="#1c2430">G</text>
+  <rect x="261" y="277.5" width="28" height="22.5" fill="#b56a3a" opacity="0.8"/>
+  <text x="275.0" y="320" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="14" font-weight="700" fill="#1c2430">T</text>
+  <text x="220" y="344" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="13" font-weight="normal" fill="#6b7380">letters it writes</text>
+  <circle cx="540" cy="120" r="56" fill="#eef3f8" stroke="#2a5a8c" stroke-width="2.6"/>
+  <text x="540" y="126" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="17" font-weight="700" fill="#2a5a8c">background</text>
+  <path d="M 506,75 A 26,26 0 1 1 574,75" fill="none" stroke="#2a5a8c" stroke-width="2" marker-end="url(#ab)"/>
+  <text x="540" y="22" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="14" font-weight="700" fill="#2a5a8c">stay: often</text>
+  <rect x="470" y="243.8" width="28" height="56.2" fill="#2a5a8c" opacity="0.8"/>
+  <text x="484.0" y="320" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="14" font-weight="700" fill="#1c2430">A</text>
+  <rect x="507" y="243.8" width="28" height="56.2" fill="#2a5a8c" opacity="0.8"/>
+  <text x="521.0" y="320" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="14" font-weight="700" fill="#1c2430">C</text>
+  <rect x="544" y="243.8" width="28" height="56.2" fill="#2a5a8c" opacity="0.8"/>
+  <text x="558.0" y="320" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="14" font-weight="700" fill="#1c2430">G</text>
+  <rect x="581" y="243.8" width="28" height="56.2" fill="#2a5a8c" opacity="0.8"/>
+  <text x="595.0" y="320" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="14" font-weight="700" fill="#1c2430">T</text>
+  <text x="540" y="344" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="13" font-weight="normal" fill="#6b7380">letters it writes</text>
+  <path d="M 274,100 C 330,62 430,62 486,100" fill="none" stroke="#1c2430" stroke-width="1.8" marker-end="url(#ak)"/>
+  <path d="M 486,140 C 430,178 330,178 274,140" fill="none" stroke="#1c2430" stroke-width="1.8" marker-end="url(#ak)"/>
+  <text x="380" y="58" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="14" font-weight="normal" fill="#1c2430">switch: rarely</text>
+  <text x="380" y="194" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="14" font-weight="normal" fill="#1c2430">switch: rarely</text>
+</svg>

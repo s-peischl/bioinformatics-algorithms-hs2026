@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 236" width="640" height="236">
+  <rect width="640" height="236" fill="#ffffff"/>
+  <text x="320" y="20" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="14" fill="#6b7380">A motif is a short pattern that is almost the same in each sequence.</text>
+  <text x="36" y="64" text-anchor="start" font-family="ui-monospace,Menlo,monospace" font-size="13" font-weight="700" fill="#6b7380">s1</text>
+  <rect x="80" y="38" width="28" height="32" rx="4" fill="#eef3f8" stroke="#d8dce3"/>
+  <text x="94" y="60" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="14" font-weight="700" fill="#1c2430">A</text>
+  <rect x="112" y="38" width="28" height="32" rx="4" fill="#eef3f8" stroke="#d8dce3"/>
+  <text x="126" y="60" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="14" font-weight="700" fill="#1c2430">T</text>
+  <rect x="144" y="38" width="28" height="32" rx="4" fill="#eef3f8" stroke="#d8dce3"/>
+  <text x="158" y="60" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="14" font-weight="700" fill="#1c2430">G</text>
+  <rect x="176" y="38" width="28" height="32" rx="4" fill="#f7f3ee" stroke="#b56a3a" stroke-width="2"/>
+  <text x="190" y="60" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="14" font-weight="700" fill="#b56a3a">A</text>
+  <rect x="208" y="38" width="28" height="32" rx="4" fill="#f7f3ee" stroke="#b56a3a" stroke-width="2"/>
+  <text x="222" y="60" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="14" font-weight="700" fill="#b56a3a">C</text>
+  <rect x="240" y="38" width="28" height="32" rx="4" fill="#f7f3ee" stroke="#b56a3a" stroke-width="2"/>
+  <text x="254" y="60" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="14" font-weight="700" fill="#b56a3a">G</text>
+  <rect x="272" y="38" width="28" height="32" rx="4" fill="#f7f3ee" stroke="#b56a3a" stroke-width="2"/>
+  <text x="286" y="60" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="14" font-weight="700" fill="#b56a3a">T</text>
+  <rect x="304" y="38" width="28" height="32" rx="4" fill="#eef3f8" stroke="#d8dce3"/>
+  <text x="318" y="60" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="14" font-weight="700" fill="#1c2430">T</text>
+  <rect x="336" y="38" width="28" height="32" rx="4" fill="#eef3f8" stroke="#d8dce3"/>
+  <text x="350" y="60" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="14" font-weight="700" fill="#1c2430">T</text>
+  <rect x="368" y="38" width="28" height="32" rx="4" fill="#eef3f8" stroke="#d8dce3"/>
+  <text x="382" y="60" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="14" font-weight="700" fill="#1c2430">A</text>
+  <text x="36" y="116" text-anchor="start" font-family="ui-monospace,Menlo,monospace" font-size="13" font-weight="700" fill="#6b7380">s2</text>
+  <rect x="80" y="90" width="28" height="32" rx="4" fill="#eef3f8" stroke="#d8dce3"/>
+  <text x="94" y="112" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="14" font-weight="700" fill="#1c2430">C</text>
+  <rect x="112" y="90" width="28" height="32" rx="4" fill="#f7f3ee" stroke="#b56a3a" stroke-width="2"/>
+  <text x="126" y="112" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="14" font-weight="700" fill="#b56a3a">A</text>
+  <rect x="144" y="90" width="28" height="32" rx="4" fill="#f7f3ee" stroke="#b56a3a" stroke-width="2"/>
+  <text x="158" y="112" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="14" font-weight="700" fill="#b56a3a">C</text>
+  <rect x="176" y="90" width="28" height="32" rx="4" fill="#f7f3ee" stroke="#b56a3a" stroke-width="2"/>
+  <text x="190" y="112" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="14" font-weight="700" fill="#b56a3a">G</text>
+  <rect x="208" y="90" width="28" height="32" rx="4" fill="#f7f3ee" stroke="#b56a3a" stroke-width="2"/>
+  <text x="222" y="112" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="14" font-weight="700" fill="#b56a3a">A</text>
+  <rect x="240" y="90" width="28" height="32" rx="4" fill="#eef3f8" stroke="#d8dce3"/>
+  <text x="254" y="112" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="14" font-weight="700" fill="#1c2430">G</text>
+  <rect x="272" y="90" width="28" height="32" rx="4" fill="#eef3f8" stroke="#d8dce3"/>
+  <text x="286" y="112" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="14" font-weight="700" fill="#1c2430">G</text>
+  <rect x="304" y="90" width="28" height="32" rx="4" fill="#eef3f8" stroke="#d8dce3"/>
+  <text x="318" y="112" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="14" font-weight="700" fill="#1c2430">C</text>
+  <rect x="336" y="90" width="28" height="32" rx="4" fill="#eef3f8" stroke="#d8dce3"/>
+  <text x="350" y="112" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="14" font-weight="700" fill="#1c2430">T</text>
+  <text x="36" y="168" text-anchor="start" font-family="ui-monospace,Menlo,monospace" font-size="13" font-weight="700" fill="#6b7380">s3</text>
+  <rect x="80" y="142" width="28" height="32" rx="4" fill="#eef3f8" stroke="#d8dce3"/>
+  <text x="94" y="164" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="14" font-weight="700" fill="#1c2430">T</text>
+  <rect x="112" y="142" width="28" height="32" rx="4" fill="#eef3f8" stroke="#d8dce3"/>
+  <text x="126" y="164" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="14" font-weight="700" fill="#1c2430">T</text>
+  <rect x="144" y="142" width="28" height="32" rx="4" fill="#f7f3ee" stroke="#b56a3a" stroke-width="2"/>
+  <text x="158" y="164" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="14" font-weight="700" fill="#b56a3a">A</text>
+  <rect x="176" y="142" width="28" height="32" rx="4" fill="#f7f3ee" stroke="#b56a3a" stroke-width="2"/>
+  <text x="190" y="164" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="14" font-weight="700" fill="#b56a3a">C</text>
+  <rect x="208" y="142" width="28" height="32" rx="4" fill="#f7f3ee" stroke="#b56a3a" stroke-width="2"/>
+  <text x="222" y="164" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="14" font-weight="700" fill="#b56a3a">G</text>
+  <rect x="240" y="142" width="28" height="32" rx="4" fill="#f7f3ee" stroke="#b56a3a" stroke-width="2"/>
+  <text x="254" y="164" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="14" font-weight="700" fill="#b56a3a">T</text>
+  <rect x="272" y="142" width="28" height="32" rx="4" fill="#eef3f8" stroke="#d8dce3"/>
+  <text x="286" y="164" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="14" font-weight="700" fill="#1c2430">A</text>
+  <text x="320" y="220" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="13" fill="#6b7380">Warm window: ACGT / ACGA / ACGT. Same site, one mismatch. That is why we search.</text>
+
+</svg>

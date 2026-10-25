@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 400" width="1260" height="560" preserveAspectRatio="xMidYMid meet">
+  <rect width="900" height="400" fill="#ffffff"/>
+  <defs><marker id="ah-2a5a8c" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#2a5a8c"/></marker><marker id="ah-b56a3a" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#b56a3a"/></marker><marker id="ah-6b7380" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#6b7380"/></marker><marker id="ah-1c2430" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#1c2430"/></marker></defs>
+  <text x="158.0" y="63.0" text-anchor="end" font-family="'Source Sans 3','Source Sans Pro','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="18" font-weight="normal" fill="#6b7380" font-style="italic">start</text>
+  <rect x="180.0" y="30.0" width="62.0" height="52.0" rx="8" fill="#f4f5f7" stroke="#6b7380" stroke-width="1.6" stroke-dasharray="5 4"/>
+  <text x="211.0" y="64.0" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="22" font-weight="700" fill="#6b7380">0</text>
+  <rect x="254.0" y="30.0" width="62.0" height="52.0" rx="8" fill="#eef3f8" stroke="#2a5a8c" stroke-width="2.2"/>
+  <text x="285.0" y="64.0" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="24" font-weight="700" fill="#1c2430">6</text>
+  <rect x="328.0" y="30.0" width="62.0" height="52.0" rx="8" fill="#eef3f8" stroke="#2a5a8c" stroke-width="2.2"/>
+  <text x="359.0" y="64.0" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="24" font-weight="700" fill="#1c2430">1</text>
+  <rect x="402.0" y="30.0" width="62.0" height="52.0" rx="8" fill="#eef3f8" stroke="#2a5a8c" stroke-width="2.2"/>
+  <text x="433.0" y="64.0" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="24" font-weight="700" fill="#1c2430">2</text>
+  <rect x="476.0" y="30.0" width="62.0" height="52.0" rx="8" fill="#eef3f8" stroke="#2a5a8c" stroke-width="2.2"/>
+  <text x="507.0" y="64.0" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="24" font-weight="700" fill="#1c2430">3</text>
+  <rect x="550.0" y="30.0" width="62.0" height="52.0" rx="8" fill="#eef3f8" stroke="#2a5a8c" stroke-width="2.2"/>
+  <text x="581.0" y="64.0" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="24" font-weight="700" fill="#1c2430">4</text>
+  <rect x="624.0" y="30.0" width="62.0" height="52.0" rx="8" fill="#eef3f8" stroke="#2a5a8c" stroke-width="2.2"/>
+  <text x="655.0" y="64.0" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="24" font-weight="700" fill="#1c2430">5</text>
+  <rect x="698.0" y="30.0" width="62.0" height="52.0" rx="8" fill="#f4f5f7" stroke="#6b7380" stroke-width="1.6" stroke-dasharray="5 4"/>
+  <text x="729.0" y="64.0" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="22" font-weight="700" fill="#6b7380">7</text>
+  <rect x="244.5" y="21.0" width="7.0" height="70.0" rx="2" fill="#b56a3a" stroke="#b56a3a" stroke-width="0"/>
+  <rect x="318.5" y="21.0" width="7.0" height="70.0" rx="2" fill="#b56a3a" stroke="#b56a3a" stroke-width="0"/>
+  <rect x="688.5" y="21.0" width="7.0" height="70.0" rx="2" fill="#b56a3a" stroke="#b56a3a" stroke-width="0"/>
+  <text x="778.0" y="63.0" text-anchor="start" font-family="'Source Sans 3','Source Sans Pro','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="19" font-weight="700" fill="#b56a3a">3 bars</text>
+  <text x="180.0" y="128.0" text-anchor="start" font-family="'Source Sans 3','Source Sans Pro','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="18" font-weight="normal" fill="#6b7380">k = 6 goes next to 5: reverse 1 2 3 4 5</text>
+  <text x="158.0" y="193.0" text-anchor="end" font-family="'Source Sans 3','Source Sans Pro','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="18" font-weight="normal" fill="#6b7380" font-style="italic">flip 1</text>
+  <rect x="180.0" y="160.0" width="62.0" height="52.0" rx="8" fill="#f4f5f7" stroke="#6b7380" stroke-width="1.6" stroke-dasharray="5 4"/>
+  <text x="211.0" y="194.0" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="22" font-weight="700" fill="#6b7380">0</text>
+  <rect x="254.0" y="160.0" width="62.0" height="52.0" rx="8" fill="#eef3f8" stroke="#2a5a8c" stroke-width="2.2"/>
+  <text x="285.0" y="194.0" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="24" font-weight="700" fill="#1c2430">6</text>
+  <rect x="328.0" y="160.0" width="62.0" height="52.0" rx="8" fill="#eef3f8" stroke="#2a5a8c" stroke-width="2.2"/>
+  <text x="359.0" y="194.0" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="24" font-weight="700" fill="#1c2430">5</text>
+  <rect x="402.0" y="160.0" width="62.0" height="52.0" rx="8" fill="#eef3f8" stroke="#2a5a8c" stroke-width="2.2"/>
+  <text x="433.0" y="194.0" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="24" font-weight="700" fill="#1c2430">4</text>
+  <rect x="476.0" y="160.0" width="62.0" height="52.0" rx="8" fill="#eef3f8" stroke="#2a5a8c" stroke-width="2.2"/>
+  <text x="507.0" y="194.0" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="24" font-weight="700" fill="#1c2430">3</text>
+  <rect x="550.0" y="160.0" width="62.0" height="52.0" rx="8" fill="#eef3f8" stroke="#2a5a8c" stroke-width="2.2"/>
+  <text x="581.0" y="194.0" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="24" font-weight="700" fill="#1c2430">2</text>
+  <rect x="624.0" y="160.0" width="62.0" height="52.0" rx="8" fill="#eef3f8" stroke="#2a5a8c" stroke-width="2.2"/>
+  <text x="655.0" y="194.0" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="24" font-weight="700" fill="#1c2430">1</text>
+  <rect x="698.0" y="160.0" width="62.0" height="52.0" rx="8" fill="#f4f5f7" stroke="#6b7380" stroke-width="1.6" stroke-dasharray="5 4"/>
+  <text x="729.0" y="194.0" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="22" font-weight="700" fill="#6b7380">7</text>
+  <rect x="244.5" y="151.0" width="7.0" height="70.0" rx="2" fill="#b56a3a" stroke="#b56a3a" stroke-width="0"/>
+  <rect x="688.5" y="151.0" width="7.0" height="70.0" rx="2" fill="#b56a3a" stroke="#b56a3a" stroke-width="0"/>
+  <text x="778.0" y="193.0" text-anchor="start" font-family="'Source Sans 3','Source Sans Pro','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="19" font-weight="700" fill="#b56a3a">2 bars</text>
+  <text x="180.0" y="258.0" text-anchor="start" font-family="'Source Sans 3','Source Sans Pro','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="18" font-weight="normal" fill="#6b7380">k = 1 goes next to 0: reverse 6 5 4 3 2 1</text>
+  <text x="158.0" y="323.0" text-anchor="end" font-family="'Source Sans 3','Source Sans Pro','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="18" font-weight="normal" fill="#6b7380" font-style="italic">flip 2</text>
+  <rect x="180.0" y="290.0" width="62.0" height="52.0" rx="8" fill="#f4f5f7" stroke="#6b7380" stroke-width="1.6" stroke-dasharray="5 4"/>
+  <text x="211.0" y="324.0" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="22" font-weight="700" fill="#6b7380">0</text>
+  <rect x="254.0" y="290.0" width="62.0" height="52.0" rx="8" fill="#eef3f8" stroke="#2a5a8c" stroke-width="2.2"/>
+  <text x="285.0" y="324.0" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="24" font-weight="700" fill="#1c2430">1</text>
+  <rect x="328.0" y="290.0" width="62.0" height="52.0" rx="8" fill="#eef3f8" stroke="#2a5a8c" stroke-width="2.2"/>
+  <text x="359.0" y="324.0" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="24" font-weight="700" fill="#1c2430">2</text>
+  <rect x="402.0" y="290.0" width="62.0" height="52.0" rx="8" fill="#eef3f8" stroke="#2a5a8c" stroke-width="2.2"/>
+  <text x="433.0" y="324.0" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="24" font-weight="700" fill="#1c2430">3</text>
+  <rect x="476.0" y="290.0" width="62.0" height="52.0" rx="8" fill="#eef3f8" stroke="#2a5a8c" stroke-width="2.2"/>
+  <text x="507.0" y="324.0" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="24" font-weight="700" fill="#1c2430">4</text>
+  <rect x="550.0" y="290.0" width="62.0" height="52.0" rx="8" fill="#eef3f8" stroke="#2a5a8c" stroke-width="2.2"/>
+  <text x="581.0" y="324.0" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="24" font-weight="700" fill="#1c2430">5</text>
+  <rect x="624.0" y="290.0" width="62.0" height="52.0" rx="8" fill="#eef3f8" stroke="#2a5a8c" stroke-width="2.2"/>
+  <text x="655.0" y="324.0" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="24" font-weight="700" fill="#1c2430">6</text>
+  <rect x="698.0" y="290.0" width="62.0" height="52.0" rx="8" fill="#f4f5f7" stroke="#6b7380" stroke-width="1.6" stroke-dasharray="5 4"/>
+  <text x="729.0" y="324.0" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="22" font-weight="700" fill="#6b7380">7</text>
+  <text x="778.0" y="323.0" text-anchor="start" font-family="'Source Sans 3','Source Sans Pro','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="19" font-weight="700" fill="#b56a3a">sorted</text>
+</svg>
