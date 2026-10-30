@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 280" width="1260" height="392" preserveAspectRatio="xMidYMid meet">
+  <rect width="900" height="280" fill="#ffffff"/>
+  <defs><marker id="ah-2a5a8c" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#2a5a8c"/></marker><marker id="ah-b56a3a" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#b56a3a"/></marker><marker id="ah-6b7380" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#6b7380"/></marker><marker id="ah-1c2430" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#1c2430"/></marker></defs>
+  <rect x="80.0" y="180.0" width="140.0" height="40.0" rx="8" fill="#eef3f8" stroke="#2a5a8c" stroke-width="2.2"/>
+  <text x="150.0" y="207.0" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="20" font-weight="700" fill="#1c2430">TTCCGG</text>
+  <rect x="395.0" y="180.0" width="110.0" height="40.0" rx="8" fill="#f7f3ee" stroke="#b56a3a" stroke-width="2.2"/>
+  <text x="450.0" y="207.0" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="20" font-weight="700" fill="#1c2430">CGGA</text>
+  <rect x="355.0" y="40.0" width="190.0" height="40.0" rx="8" fill="#eef3f8" stroke="#2a5a8c" stroke-width="2.2"/>
+  <text x="450.0" y="67.0" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="20" font-weight="700" fill="#1c2430">GGACCTCGG</text>
+  <rect x="680.0" y="180.0" width="140.0" height="40.0" rx="8" fill="#eef3f8" stroke="#2a5a8c" stroke-width="2.2"/>
+  <text x="750.0" y="207.0" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="20" font-weight="700" fill="#1c2430">GGATGT</text>
+  <line x1="222.0" y1="200.0" x2="392.0" y2="200.0" stroke="#1c2430" stroke-width="2.6" marker-end="url(#ah-1c2430)"/>
+  <line x1="508.0" y1="200.0" x2="678.0" y2="200.0" stroke="#1c2430" stroke-width="2.6" marker-end="url(#ah-1c2430)"/>
+  <path d="M 420 178 Q 370 130.0 410 84" stroke="#1c2430" stroke-width="2.6" fill="none" opacity="1.0" marker-end="url(#ah-1c2430)"/>
+  <path d="M 490 82 Q 530 130.0 480 176" stroke="#b56a3a" stroke-width="2.6" fill="none" opacity="1.0" marker-end="url(#ah-b56a3a)"/>
+  <text x="542.0" y="136.0" text-anchor="start" font-family="'Source Sans 3','Source Sans Pro','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="15" font-weight="normal" fill="#b56a3a">back into the repeat</text>
+  <text x="450.0" y="266.0" text-anchor="middle" font-family="'Source Sans 3','Source Sans Pro','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="18" font-weight="700" fill="#b56a3a">four contigs; the repeat CGGA is walked twice</text>
+</svg>

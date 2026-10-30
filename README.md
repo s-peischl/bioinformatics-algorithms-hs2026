@@ -18,6 +18,8 @@ This repository is meant for **students**: clone it, open the Quarto slides, and
   - Lab: `Slides/labs/05-search.ipynb`
 - **Week 6** — Greedy algorithms and approximation (`Slides/06-greedy.qmd`, [PDF](Slides/06-greedy.pdf))
   - Lab: `Slides/labs/06-greedy.ipynb` (needs `matplotlib`)
+- **Week 7** — Graphs: genome assembly, Euler vs Hamilton (`Slides/07-graphs.qmd`, [PDF](Slides/07-graphs.pdf))
+  - Lab: `Slides/labs/07-graphs.ipynb` (needs `matplotlib`)
 
 Later weeks will be added as the course progresses.
 
@@ -49,6 +51,7 @@ Later weeks will be added as the course progresses.
    - Week 4: `Slides/labs/04-dp-variants.ipynb`
    - Week 5: `Slides/labs/05-search.ipynb`
    - Week 6: `Slides/labs/06-greedy.ipynb` (needs `matplotlib`)
+   - Week 7: `Slides/labs/07-graphs.ipynb` (needs `matplotlib`)
 
 ## Course
 

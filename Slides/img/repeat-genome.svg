@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 300" width="1260" height="420" preserveAspectRatio="xMidYMid meet">
+  <rect width="900" height="300" fill="#ffffff"/>
+  <defs><marker id="ah-2a5a8c" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#2a5a8c"/></marker><marker id="ah-b56a3a" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#b56a3a"/></marker><marker id="ah-6b7380" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#6b7380"/></marker><marker id="ah-1c2430" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#1c2430"/></marker></defs>
+  <rect x="70.0" y="60.0" width="140.0" height="40.0" rx="4" fill="#f4f5f7" stroke="#c9ced6" stroke-width="2"/>
+  <text x="140.0" y="87.0" text-anchor="middle" font-family="'Source Sans 3','Source Sans Pro','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="20" font-weight="700" fill="#6b7380">X</text>
+  <rect x="210.0" y="60.0" width="140.0" height="40.0" rx="4" fill="#f7f3ee" stroke="#b56a3a" stroke-width="2"/>
+  <text x="280.0" y="87.0" text-anchor="middle" font-family="'Source Sans 3','Source Sans Pro','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="20" font-weight="700" fill="#b56a3a">R</text>
+  <rect x="350.0" y="60.0" width="200.0" height="40.0" rx="4" fill="#f4f5f7" stroke="#c9ced6" stroke-width="2"/>
+  <text x="450.0" y="87.0" text-anchor="middle" font-family="'Source Sans 3','Source Sans Pro','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="20" font-weight="700" fill="#6b7380">Y</text>
+  <rect x="550.0" y="60.0" width="140.0" height="40.0" rx="4" fill="#f7f3ee" stroke="#b56a3a" stroke-width="2"/>
+  <text x="620.0" y="87.0" text-anchor="middle" font-family="'Source Sans 3','Source Sans Pro','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="20" font-weight="700" fill="#b56a3a">R</text>
+  <rect x="690.0" y="60.0" width="140.0" height="40.0" rx="4" fill="#f4f5f7" stroke="#c9ced6" stroke-width="2"/>
+  <text x="760.0" y="87.0" text-anchor="middle" font-family="'Source Sans 3','Source Sans Pro','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="20" font-weight="700" fill="#6b7380">Z</text>
+  <text x="60.0" y="48.0" text-anchor="start" font-family="'Source Sans 3','Source Sans Pro','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="16" font-weight="normal" fill="#6b7380">genome</text>
+  <text x="60.0" y="140.0" text-anchor="start" font-family="'Source Sans 3','Source Sans Pro','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="16" font-weight="normal" fill="#6b7380">short reads</text>
+  <rect x="90.0" y="152.0" width="90.0" height="18.0" rx="4" fill="#eef3f8" stroke="#2a5a8c" stroke-width="1.6"/>
+  <rect x="160.0" y="152.0" width="90.0" height="18.0" rx="4" fill="#eef3f8" stroke="#2a5a8c" stroke-width="1.6"/>
+  <rect x="380.0" y="152.0" width="90.0" height="18.0" rx="4" fill="#eef3f8" stroke="#2a5a8c" stroke-width="1.6"/>
+  <rect x="450.0" y="152.0" width="90.0" height="18.0" rx="4" fill="#eef3f8" stroke="#2a5a8c" stroke-width="1.6"/>
+  <rect x="720.0" y="152.0" width="90.0" height="18.0" rx="4" fill="#eef3f8" stroke="#2a5a8c" stroke-width="1.6"/>
+  <rect x="230.0" y="152.0" width="90.0" height="18.0" rx="4" fill="#f7f3ee" stroke="#b56a3a" stroke-width="1.8"/>
+  <rect x="570.0" y="152.0" width="90.0" height="18.0" rx="4" fill="#f7f3ee" stroke="#b56a3a" stroke-width="1.8"/>
+  <text x="450.0" y="200.0" text-anchor="middle" font-family="'Source Sans 3','Source Sans Pro','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="17" font-weight="700" fill="#b56a3a">a read inside R fits both copies</text>
+  <text x="60.0" y="236.0" text-anchor="start" font-family="'Source Sans 3','Source Sans Pro','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="16" font-weight="normal" fill="#6b7380">long read</text>
+  <rect x="150.0" y="248.0" width="280.0" height="18.0" rx="4" fill="#eef3f8" stroke="#2a5a8c" stroke-width="2"/>
+  <text x="440.0" y="262.0" text-anchor="start" font-family="'Source Sans 3','Source Sans Pro','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="17" font-weight="700" fill="#2a5a8c">spans X–R–Y: places this copy</text>
+</svg>

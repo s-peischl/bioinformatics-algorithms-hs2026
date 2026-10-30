@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 300" width="1260" height="420" preserveAspectRatio="xMidYMid meet">
+  <rect width="900" height="300" fill="#ffffff"/>
+  <defs><marker id="ah-2a5a8c" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#2a5a8c"/></marker><marker id="ah-b56a3a" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#b56a3a"/></marker><marker id="ah-6b7380" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#6b7380"/></marker><marker id="ah-1c2430" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#1c2430"/></marker></defs>
+  <rect x="30.0" y="22.0" width="840.0" height="36.0" rx="6" fill="#f4f5f7" stroke="#6b7380" stroke-width="1.6"/>
+  <text x="450.0" y="48.0" text-anchor="middle" font-family="'Source Sans 3','Source Sans Pro','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="22" font-weight="700" fill="#1c2430">genome: 20,000 random letters</text>
+  <rect x="253.4" y="84.0" width="150.0" height="22.0" rx="4" fill="#eef3f8" stroke="#2a5a8c" stroke-width="1.6"/>
+  <rect x="367.8" y="84" width="6" height="22" fill="#b56a3a"/>
+  <rect x="479.1" y="84.0" width="150.0" height="22.0" rx="4" fill="#eef3f8" stroke="#2a5a8c" stroke-width="1.6"/>
+  <rect x="562.1" y="84" width="6" height="22" fill="#b56a3a"/>
+  <rect x="80.0" y="84.0" width="150.0" height="22.0" rx="4" fill="#eef3f8" stroke="#2a5a8c" stroke-width="1.6"/>
+  <rect x="683.9" y="84.0" width="150.0" height="22.0" rx="4" fill="#eef3f8" stroke="#2a5a8c" stroke-width="1.6"/>
+  <rect x="762.3" y="84" width="6" height="22" fill="#b56a3a"/>
+  <rect x="134.1" y="116.0" width="150.0" height="22.0" rx="4" fill="#eef3f8" stroke="#2a5a8c" stroke-width="1.6"/>
+  <rect x="147.1" y="116" width="6" height="22" fill="#b56a3a"/>
+  <rect x="399.8" y="116.0" width="150.0" height="22.0" rx="4" fill="#eef3f8" stroke="#2a5a8c" stroke-width="1.6"/>
+  <rect x="495.9" y="116" width="6" height="22" fill="#b56a3a"/>
+  <rect x="600.5" y="116.0" width="150.0" height="22.0" rx="4" fill="#eef3f8" stroke="#2a5a8c" stroke-width="1.6"/>
+  <rect x="647.6" y="116" width="6" height="22" fill="#b56a3a"/>
+  <rect x="282.3" y="148.0" width="150.0" height="22.0" rx="4" fill="#eef3f8" stroke="#2a5a8c" stroke-width="1.6"/>
+  <rect x="348.1" y="148" width="6" height="22" fill="#b56a3a"/>
+  <rect x="70.0" y="148.0" width="150.0" height="22.0" rx="4" fill="#eef3f8" stroke="#2a5a8c" stroke-width="1.6"/>
+  <rect x="181.5" y="148" width="6" height="22" fill="#b56a3a"/>
+  <rect x="462.9" y="148.0" width="150.0" height="22.0" rx="4" fill="#eef3f8" stroke="#2a5a8c" stroke-width="1.6"/>
+  <rect x="703.6" y="148.0" width="150.0" height="22.0" rx="4" fill="#eef3f8" stroke="#2a5a8c" stroke-width="1.6"/>
+  <rect x="785.6" y="148" width="6" height="22" fill="#b56a3a"/>
+  <rect x="380.1" y="180.0" width="150.0" height="22.0" rx="4" fill="#eef3f8" stroke="#2a5a8c" stroke-width="1.6"/>
+  <rect x="502.4" y="180" width="6" height="22" fill="#b56a3a"/>
+  <rect x="55.9" y="180.0" width="150.0" height="22.0" rx="4" fill="#eef3f8" stroke="#2a5a8c" stroke-width="1.6"/>
+  <rect x="622.3" y="180.0" width="150.0" height="22.0" rx="4" fill="#eef3f8" stroke="#2a5a8c" stroke-width="1.6"/>
+  <rect x="758.7" y="180" width="6" height="22" fill="#b56a3a"/>
+  <rect x="329.2" y="212.0" width="150.0" height="22.0" rx="4" fill="#eef3f8" stroke="#2a5a8c" stroke-width="1.6"/>
+  <rect x="390.2" y="212" width="6" height="22" fill="#b56a3a"/>
+  <rect x="78.2" y="212.0" width="150.0" height="22.0" rx="4" fill="#eef3f8" stroke="#2a5a8c" stroke-width="1.6"/>
+  <text x="30.0" y="268.0" text-anchor="start" font-family="'Source Sans 3','Source Sans Pro','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="22" font-weight="700" fill="#2a5a8c">reads: 6,000 copies of 100 letters, each from a random place</text>
+  <text x="30.0" y="296.0" text-anchor="start" font-family="'Source Sans 3','Source Sans Pro','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="22" font-weight="700" fill="#b56a3a">orange: a misread letter (probability 1% per letter)</text>
+</svg>

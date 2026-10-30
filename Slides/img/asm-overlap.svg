@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 300" width="1260" height="420" preserveAspectRatio="xMidYMid meet">
+  <rect width="900" height="300" fill="#ffffff"/>
+  <defs><marker id="ah-2a5a8c" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#2a5a8c"/></marker><marker id="ah-b56a3a" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#b56a3a"/></marker><marker id="ah-6b7380" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#6b7380"/></marker><marker id="ah-1c2430" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#1c2430"/></marker></defs>
+  <text x="60.0" y="40.0" text-anchor="start" font-family="'Source Sans 3','Source Sans Pro','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="17" font-weight="normal" fill="#6b7380">reads, placed by their overlaps</text>
+  <rect x="60.0" y="70.0" width="28.0" height="36.0" rx="4" fill="#eef3f8" stroke="#2a5a8c" stroke-width="1.6"/>
+  <text x="74.0" y="95.0" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="19" font-weight="700" fill="#1c2430">A</text>
+  <rect x="90.0" y="70.0" width="28.0" height="36.0" rx="4" fill="#eef3f8" stroke="#2a5a8c" stroke-width="1.6"/>
+  <text x="104.0" y="95.0" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="19" font-weight="700" fill="#1c2430">C</text>
+  <rect x="120.0" y="70.0" width="28.0" height="36.0" rx="4" fill="#eef3f8" stroke="#2a5a8c" stroke-width="1.6"/>
+  <text x="134.0" y="95.0" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="19" font-weight="700" fill="#1c2430">A</text>
+  <rect x="90.0" y="114.0" width="28.0" height="36.0" rx="4" fill="#eef3f8" stroke="#2a5a8c" stroke-width="1.6"/>
+  <text x="104.0" y="139.0" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="19" font-weight="700" fill="#1c2430">C</text>
+  <rect x="120.0" y="114.0" width="28.0" height="36.0" rx="4" fill="#eef3f8" stroke="#2a5a8c" stroke-width="1.6"/>
+  <text x="134.0" y="139.0" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="19" font-weight="700" fill="#1c2430">A</text>
+  <rect x="150.0" y="114.0" width="28.0" height="36.0" rx="4" fill="#eef3f8" stroke="#2a5a8c" stroke-width="1.6"/>
+  <text x="164.0" y="139.0" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="19" font-weight="700" fill="#1c2430">A</text>
+  <rect x="120.0" y="158.0" width="28.0" height="36.0" rx="4" fill="#eef3f8" stroke="#2a5a8c" stroke-width="1.6"/>
+  <text x="134.0" y="183.0" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="19" font-weight="700" fill="#1c2430">A</text>
+  <rect x="150.0" y="158.0" width="28.0" height="36.0" rx="4" fill="#eef3f8" stroke="#2a5a8c" stroke-width="1.6"/>
+  <text x="164.0" y="183.0" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="19" font-weight="700" fill="#1c2430">A</text>
+  <rect x="180.0" y="158.0" width="28.0" height="36.0" rx="4" fill="#eef3f8" stroke="#2a5a8c" stroke-width="1.6"/>
+  <text x="194.0" y="183.0" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="19" font-weight="700" fill="#1c2430">T</text>
+  <line x1="60.0" y1="212.0" x2="210.0" y2="212.0" stroke="#6b7380" stroke-width="1.5"/>
+  <rect x="60.0" y="220.0" width="28.0" height="36.0" rx="4" fill="#f7f3ee" stroke="#b56a3a" stroke-width="1.6"/>
+  <text x="74.0" y="245.0" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="19" font-weight="700" fill="#b56a3a">A</text>
+  <rect x="90.0" y="220.0" width="28.0" height="36.0" rx="4" fill="#f7f3ee" stroke="#b56a3a" stroke-width="1.6"/>
+  <text x="104.0" y="245.0" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="19" font-weight="700" fill="#b56a3a">C</text>
+  <rect x="120.0" y="220.0" width="28.0" height="36.0" rx="4" fill="#f7f3ee" stroke="#b56a3a" stroke-width="1.6"/>
+  <text x="134.0" y="245.0" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="19" font-weight="700" fill="#b56a3a">A</text>
+  <rect x="150.0" y="220.0" width="28.0" height="36.0" rx="4" fill="#f7f3ee" stroke="#b56a3a" stroke-width="1.6"/>
+  <text x="164.0" y="245.0" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="19" font-weight="700" fill="#b56a3a">A</text>
+  <rect x="180.0" y="220.0" width="28.0" height="36.0" rx="4" fill="#f7f3ee" stroke="#b56a3a" stroke-width="1.6"/>
+  <text x="194.0" y="245.0" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="19" font-weight="700" fill="#b56a3a">T</text>
+  <text x="420.0" y="40.0" text-anchor="start" font-family="'Source Sans 3','Source Sans Pro','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="17" font-weight="normal" fill="#6b7380">overlap graph: one vertex per read</text>
+  <rect x="418.0" y="120.0" width="104.0" height="40.0" rx="8" fill="#eef3f8" stroke="#2a5a8c" stroke-width="2.2"/>
+  <text x="470.0" y="147.0" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="20" font-weight="700" fill="#1c2430">ACA</text>
+  <rect x="588.0" y="120.0" width="104.0" height="40.0" rx="8" fill="#eef3f8" stroke="#2a5a8c" stroke-width="2.2"/>
+  <text x="640.0" y="147.0" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="20" font-weight="700" fill="#1c2430">CAA</text>
+  <rect x="758.0" y="120.0" width="104.0" height="40.0" rx="8" fill="#eef3f8" stroke="#2a5a8c" stroke-width="2.2"/>
+  <text x="810.0" y="147.0" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="20" font-weight="700" fill="#1c2430">AAT</text>
+  <line x1="526.0" y1="140.0" x2="582.0" y2="140.0" stroke="#1c2430" stroke-width="2.6" marker-end="url(#ah-1c2430)"/>
+  <text x="555.0" y="108.0" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="16" font-weight="700" fill="#6b7380">CA</text>
+  <line x1="696.0" y1="140.0" x2="752.0" y2="140.0" stroke="#1c2430" stroke-width="2.6" marker-end="url(#ah-1c2430)"/>
+  <text x="725.0" y="108.0" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="16" font-weight="700" fill="#6b7380">AA</text>
+  <text x="640.0" y="200.0" text-anchor="middle" font-family="'Source Sans 3','Source Sans Pro','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="16" font-weight="normal" fill="#6b7380">edge = suffix of one read is a prefix of the next</text>
+  <text x="640.0" y="250.0" text-anchor="middle" font-family="'Source Sans 3','Source Sans Pro','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="18" font-weight="700" fill="#b56a3a">path through every vertex: ACA → CAA → AAT</text>
+</svg>

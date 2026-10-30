@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 820 300" width="1148" height="420" preserveAspectRatio="xMidYMid meet">
+  <rect width="820" height="300" fill="#ffffff"/>
+  <defs><marker id="ah-2a5a8c" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#2a5a8c"/></marker><marker id="ah-b56a3a" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#b56a3a"/></marker><marker id="ah-6b7380" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#6b7380"/></marker><marker id="ah-1c2430" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#1c2430"/></marker></defs>
+  <path d="M 186 174 C 150 100, 250 100, 214 174" stroke="#b56a3a" stroke-width="2.6" fill="none" opacity="1.0" marker-end="url(#ah-b56a3a)"/>
+  <text x="200.0" y="112.0" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="17" font-weight="700" fill="#b56a3a">AAA</text>
+  <path d="M 232.0 188.5 Q 325.0 155.0 418.0 121.5" stroke="#b56a3a" stroke-width="2.6" fill="none" opacity="1.0" marker-end="url(#ah-b56a3a)"/>
+  <text x="318.2" y="142.2" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="17" font-weight="700" fill="#b56a3a">AAC</text>
+  <path d="M 481.0 124.0 Q 550.0 155.0 619.0 186.0" stroke="#1c2430" stroke-width="2.6" fill="none" opacity="1.0" marker-end="url(#ah-1c2430)"/>
+  <text x="558.2" y="142.8" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="17" font-weight="700" fill="#1c2430">ACA</text>
+  <path d="M 616.0 200.0 Q 425.0 200.0 234.0 200.0" stroke="#1c2430" stroke-width="2.6" fill="none" opacity="1.0" marker-end="url(#ah-1c2430)"/>
+  <text x="425.0" y="228.0" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="17" font-weight="700" fill="#1c2430">CAA</text>
+  <circle cx="200" cy="200" r="30" fill="#f7f3ee" stroke="#b56a3a" stroke-width="2.4"/>
+  <text x="200.0" y="207.0" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="20" font-weight="700" fill="#1c2430">AA</text>
+  <circle cx="450" cy="110" r="30" fill="#eef3f8" stroke="#2a5a8c" stroke-width="2.4"/>
+  <text x="450.0" y="117.0" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="20" font-weight="700" fill="#1c2430">AC</text>
+  <circle cx="650" cy="200" r="30" fill="#eef3f8" stroke="#2a5a8c" stroke-width="2.4"/>
+  <text x="650.0" y="207.0" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="20" font-weight="700" fill="#1c2430">CA</text>
+  <text x="200.0" y="262.0" text-anchor="middle" font-family="'Source Sans 3','Source Sans Pro','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="17" font-weight="700" fill="#b56a3a">two ways out</text>
+</svg>
