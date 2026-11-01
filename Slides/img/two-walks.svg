@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 300" width="1260" height="420" preserveAspectRatio="xMidYMid meet">
+  <rect width="900" height="300" fill="#ffffff"/>
+  <defs><marker id="ah-2a5a8c" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#2a5a8c"/></marker><marker id="ah-b56a3a" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#b56a3a"/></marker><marker id="ah-6b7380" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#6b7380"/></marker><marker id="ah-1c2430" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#1c2430"/></marker></defs>
+  <line x1="230.0" y1="50.0" x2="160.0" y2="120.0" stroke="#b56a3a" stroke-width="5"/>
+  <circle cx="195.0" cy="85.0" r="13" fill="#ffffff" stroke="#b56a3a" stroke-width="2"/>
+  <text x="195.0" y="91.0" text-anchor="middle" font-family="'Source Sans 3','Source Sans Pro','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="16" font-weight="700" fill="#b56a3a">2</text>
+  <line x1="230.0" y1="50.0" x2="300.0" y2="120.0" stroke="#b56a3a" stroke-width="5"/>
+  <circle cx="265.0" cy="85.0" r="13" fill="#ffffff" stroke="#b56a3a" stroke-width="2"/>
+  <text x="265.0" y="91.0" text-anchor="middle" font-family="'Source Sans 3','Source Sans Pro','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="16" font-weight="700" fill="#b56a3a">3</text>
+  <line x1="160.0" y1="120.0" x2="300.0" y2="120.0" stroke="#c9ced6" stroke-width="2.4" stroke-dasharray="6 5"/>
+  <line x1="160.0" y1="120.0" x2="160.0" y2="235.0" stroke="#b56a3a" stroke-width="5"/>
+  <circle cx="160.0" cy="177.5" r="13" fill="#ffffff" stroke="#b56a3a" stroke-width="2"/>
+  <text x="160.0" y="183.5" text-anchor="middle" font-family="'Source Sans 3','Source Sans Pro','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="16" font-weight="700" fill="#b56a3a">1</text>
+  <line x1="300.0" y1="120.0" x2="300.0" y2="235.0" stroke="#b56a3a" stroke-width="5"/>
+  <circle cx="300.0" cy="177.5" r="13" fill="#ffffff" stroke="#b56a3a" stroke-width="2"/>
+  <text x="300.0" y="183.5" text-anchor="middle" font-family="'Source Sans 3','Source Sans Pro','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="16" font-weight="700" fill="#b56a3a">4</text>
+  <line x1="160.0" y1="235.0" x2="300.0" y2="235.0" stroke="#c9ced6" stroke-width="2.4" stroke-dasharray="6 5"/>
+  <circle cx="230" cy="50" r="17" fill="#eef3f8" stroke="#2a5a8c" stroke-width="2.4"/>
+  <circle cx="160" cy="120" r="17" fill="#eef3f8" stroke="#2a5a8c" stroke-width="2.4"/>
+  <circle cx="300" cy="120" r="17" fill="#eef3f8" stroke="#2a5a8c" stroke-width="2.4"/>
+  <circle cx="160" cy="235" r="17" fill="#eef3f8" stroke="#2a5a8c" stroke-width="2.4"/>
+  <circle cx="300" cy="235" r="17" fill="#eef3f8" stroke="#2a5a8c" stroke-width="2.4"/>
+  <circle cx="160" cy="235" r="17" fill="#f7f3ee" stroke="#b56a3a" stroke-width="2.4"/>
+  <text x="130.0" y="241.0" text-anchor="end" font-family="'Source Sans 3','Source Sans Pro','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="16" font-weight="700" fill="#b56a3a">start</text>
+  <text x="230.0" y="280.0" text-anchor="middle" font-family="'Source Sans 3','Source Sans Pro','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="20" font-weight="700" fill="#1c2430">every vertex once: Hamiltonian</text>
+  <line x1="670.0" y1="50.0" x2="600.0" y2="120.0" stroke="#b56a3a" stroke-width="5"/>
+  <circle cx="635.0" cy="85.0" r="13" fill="#ffffff" stroke="#b56a3a" stroke-width="2"/>
+  <text x="635.0" y="91.0" text-anchor="middle" font-family="'Source Sans 3','Source Sans Pro','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="16" font-weight="700" fill="#b56a3a">1</text>
+  <line x1="670.0" y1="50.0" x2="740.0" y2="120.0" stroke="#b56a3a" stroke-width="5"/>
+  <circle cx="705.0" cy="85.0" r="13" fill="#ffffff" stroke="#b56a3a" stroke-width="2"/>
+  <text x="705.0" y="91.0" text-anchor="middle" font-family="'Source Sans 3','Source Sans Pro','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="16" font-weight="700" fill="#b56a3a">2</text>
+  <line x1="600.0" y1="120.0" x2="740.0" y2="120.0" stroke="#b56a3a" stroke-width="5"/>
+  <circle cx="670.0" cy="120.0" r="13" fill="#ffffff" stroke="#b56a3a" stroke-width="2"/>
+  <text x="670.0" y="126.0" text-anchor="middle" font-family="'Source Sans 3','Source Sans Pro','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="16" font-weight="700" fill="#b56a3a">3</text>
+  <line x1="600.0" y1="120.0" x2="600.0" y2="235.0" stroke="#b56a3a" stroke-width="5"/>
+  <circle cx="600.0" cy="177.5" r="13" fill="#ffffff" stroke="#b56a3a" stroke-width="2"/>
+  <text x="600.0" y="183.5" text-anchor="middle" font-family="'Source Sans 3','Source Sans Pro','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="16" font-weight="700" fill="#b56a3a">4</text>
+  <line x1="740.0" y1="120.0" x2="740.0" y2="235.0" stroke="#b56a3a" stroke-width="5"/>
+  <circle cx="740.0" cy="177.5" r="13" fill="#ffffff" stroke="#b56a3a" stroke-width="2"/>
+  <text x="740.0" y="183.5" text-anchor="middle" font-family="'Source Sans 3','Source Sans Pro','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="16" font-weight="700" fill="#b56a3a">6</text>
+  <line x1="600.0" y1="235.0" x2="740.0" y2="235.0" stroke="#b56a3a" stroke-width="5"/>
+  <circle cx="670.0" cy="235.0" r="13" fill="#ffffff" stroke="#b56a3a" stroke-width="2"/>
+  <text x="670.0" y="241.0" text-anchor="middle" font-family="'Source Sans 3','Source Sans Pro','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="16" font-weight="700" fill="#b56a3a">5</text>
+  <circle cx="670" cy="50" r="17" fill="#eef3f8" stroke="#2a5a8c" stroke-width="2.4"/>
+  <circle cx="600" cy="120" r="17" fill="#eef3f8" stroke="#2a5a8c" stroke-width="2.4"/>
+  <circle cx="740" cy="120" r="17" fill="#eef3f8" stroke="#2a5a8c" stroke-width="2.4"/>
+  <circle cx="600" cy="235" r="17" fill="#eef3f8" stroke="#2a5a8c" stroke-width="2.4"/>
+  <circle cx="740" cy="235" r="17" fill="#eef3f8" stroke="#2a5a8c" stroke-width="2.4"/>
+  <circle cx="600" cy="120" r="17" fill="#f7f3ee" stroke="#b56a3a" stroke-width="2.4"/>
+  <text x="570.0" y="126.0" text-anchor="end" font-family="'Source Sans 3','Source Sans Pro','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="16" font-weight="700" fill="#b56a3a">start</text>
+  <text x="670.0" y="280.0" text-anchor="middle" font-family="'Source Sans 3','Source Sans Pro','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="20" font-weight="700" fill="#1c2430">every edge once: Eulerian</text>
+</svg>

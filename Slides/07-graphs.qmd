@@ -108,16 +108,39 @@ Visiting every vertex and using every edge are very different problems.
 - The **in-degree** of a vertex is the number of arrows coming in; the **out-degree** is the number going out.
 - A **path** is a walk from vertex to vertex along edges.
 
-## Euler and Hamilton
+## Two ways to walk through a graph
 
-| A walk that … | Name | Known method |
+![](img/two-walks.svg){.sketch .below .tall}
+
+- A **Hamiltonian path** visits every **vertex** exactly once (left).
+- An **Eulerian path** uses every **edge** exactly once (right).
+
+At first glance the Eulerian path looks harder: a graph usually has more edges than vertices, so the walk is longer, and no edge may be used twice.
+
+## In assembly, a walk has a score
+
+Week 2: the reads $\mathtt{ACA}$, $\mathtt{CAA}$, $\mathtt{AAT}$. Every order of the reads is a path through all of them, but the orders are not equally good. Glue each read onto the previous one with the largest overlap:
+
+| Order of the reads | Total overlap | Glued string |
 |---|---|---|
-| uses every **edge** exactly once | Eulerian path | easy: check the degrees, then walk; time proportional to the number of edges |
-| visits every **vertex** exactly once | Hamiltonian path | no polynomial-time method known; the travelling salesman problem is the weighted version |
+| $\mathtt{ACA} \to \mathtt{CAA} \to \mathtt{AAT}$ | 4 | $\mathtt{ACAAT}$ (5 letters) |
+| $\mathtt{CAA} \to \mathtt{ACA} \to \mathtt{AAT}$ | 2 | $\mathtt{CAACAAT}$ (7 letters) |
+| $\mathtt{ACA} \to \mathtt{AAT} \to \mathtt{CAA}$ | 1 | $\mathtt{ACAATCAA}$ (8 letters) |
 
-The two questions look almost the same. Their difficulty is completely different.
+We want the order with the **largest total overlap**, the shortest genome that explains the reads. Finding it means comparing orders: the travelling salesman problem.
 
-![](img/euler-hamilton.svg){.sketch .below}
+## The trick: make every walk equally good
+
+::: {.idea}
+Suppose we could build a graph in which **every** walk that uses all the data has the same score. Then there is nothing left to optimise: any such walk is a best one, and we only have to find one.
+:::
+
+- This week we build that graph: put the letters of the reads on the **edges**. Every Eulerian path then spells a genome of the same length.
+- Finding one Eulerian path is fast: check the degrees, then walk.
+
+::: {.muted}
+Without scores, the two problems still differ: whether a graph has any Hamiltonian path has no known fast test, while for an Eulerian path the degrees decide.
+:::
 
 ## Reads as vertices {.section-head}
 
@@ -134,7 +157,7 @@ Make each read a vertex. Draw an arrow from read $u$ to read $v$ when the end of
 
 ## Why the overlap graph is hard
 
-- A path through every vertex once is a **Hamiltonian path**. Finding one is as hard as the travelling salesman problem (week 2).
+- The genome is the **best** Hamiltonian path: the one with the largest total overlap. Finding it is the travelling salesman problem (week 2).
 - A real data set has millions of reads, so the graph has millions of vertices.
 - Coverage makes it worse: at 30× coverage every stretch of the genome appears in about 30 reads, so the graph is about 30 times larger than the genome requires.
 
@@ -172,6 +195,18 @@ Identical $k$-mers from different reads become the **same** edge.
 - **de Bruijn graph:** at most one vertex per distinct $(k-1)$-mer of the genome, so it grows only with the genome.
 
 ![](img/asm-collapse.svg){.sketch .below}
+
+## Every Eulerian path has the same score
+
+- Each edge is a $k$-mer. Walking along it adds exactly **one** new letter, its last one.
+- A walk that uses all $E$ edges spells $E + k - 1$ letters, whichever Eulerian path we take.
+- Example 1: 3 edges and $k = 3$, so $3 + 2 = 5$ letters: $\mathtt{ACAAT}$.
+
+::: {.takeaway}
+The overlap graph asks for the best of many paths. The de Bruijn graph asks only for **some** Eulerian path: every one has the same length, so every one is a best one.
+:::
+
+Different Eulerian paths can still spell different genomes of the same length. That happens at repeats, below.
 
 ## Finding an Eulerian path {.section-head}
 
