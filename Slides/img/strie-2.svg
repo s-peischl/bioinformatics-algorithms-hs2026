@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 270" width="588" height="378" preserveAspectRatio="xMidYMid meet">
+  <rect width="420" height="270" fill="#ffffff"/>
+  <defs><marker id="ah-2a5a8c" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#2a5a8c"/></marker><marker id="ah-b56a3a" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#b56a3a"/></marker><marker id="ah-6b7380" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#6b7380"/></marker><marker id="ah-1c2430" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#1c2430"/></marker></defs>
+  <line x1="210.0" y1="50.0" x2="155.0" y2="140.0" stroke="#1c2430" stroke-width="2"/>
+  <text x="170.5" y="101.0" text-anchor="end" font-family="ui-monospace,Menlo,monospace" font-size="17" font-weight="700" fill="#1c2430">$</text>
+  <line x1="210.0" y1="50.0" x2="265.0" y2="140.0" stroke="#b56a3a" stroke-width="3"/>
+  <text x="249.5" y="101.0" text-anchor="start" font-family="ui-monospace,Menlo,monospace" font-size="17" font-weight="700" fill="#b56a3a">A</text>
+  <line x1="265.0" y1="140.0" x2="265.0" y2="230.0" stroke="#b56a3a" stroke-width="3"/>
+  <text x="277.0" y="191.0" text-anchor="start" font-family="ui-monospace,Menlo,monospace" font-size="17" font-weight="700" fill="#b56a3a">$</text>
+  <circle cx="210.0" cy="50" r="16" fill="#eef3f8" stroke="#2a5a8c" stroke-width="2.2"/>
+  <circle cx="155.0" cy="140" r="19" fill="#1c2430"/>
+  <text x="155.0" y="146.0" text-anchor="middle" font-family="'Source Sans 3','Source Sans Pro','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="17" font-weight="700" fill="#ffffff">3</text>
+  <circle cx="265.0" cy="140" r="13" fill="#f7f3ee" stroke="#b56a3a" stroke-width="2.2"/>
+  <circle cx="265.0" cy="230" r="19" fill="#b56a3a"/>
+  <text x="265.0" y="236.0" text-anchor="middle" font-family="'Source Sans 3','Source Sans Pro','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="17" font-weight="700" fill="#ffffff">2</text>
+</svg>

@@ -20,6 +20,8 @@ This repository is meant for **students**: clone it, open the Quarto slides, and
   - Lab: `Slides/labs/06-greedy.ipynb` (needs `matplotlib`)
 - **Week 7** — Graphs: genome assembly, Euler vs Hamilton (`Slides/07-graphs.qmd`, [PDF](Slides/07-graphs.pdf))
   - Lab: `Slides/labs/07-graphs.ipynb` (needs `matplotlib`)
+- **Week 8** — Suffix trees and suffix arrays: exact matching, repeats (`Slides/08-suffix-trees.qmd`, [PDF](Slides/08-suffix-trees.pdf))
+  - Lab: `Slides/labs/08-suffix.ipynb`
 
 Later weeks will be added as the course progresses.
 
@@ -52,6 +54,7 @@ Later weeks will be added as the course progresses.
    - Week 5: `Slides/labs/05-search.ipynb`
    - Week 6: `Slides/labs/06-greedy.ipynb` (needs `matplotlib`)
    - Week 7: `Slides/labs/07-graphs.ipynb` (needs `matplotlib`)
+   - Week 8: `Slides/labs/08-suffix.ipynb`
 
 ## Course
 

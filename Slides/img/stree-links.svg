@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 930 450" width="1302" height="630" preserveAspectRatio="xMidYMid meet">
+  <rect width="930" height="450" fill="#ffffff"/>
+  <defs><marker id="ah-2a5a8c" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#2a5a8c"/></marker><marker id="ah-b56a3a" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#b56a3a"/></marker><marker id="ah-6b7380" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#6b7380"/></marker><marker id="ah-1c2430" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#1c2430"/></marker></defs>
+  <line x1="420.0" y1="50.0" x2="60.0" y2="410.0" stroke="#1c2430" stroke-width="2"/>
+  <text x="228.0" y="236.0" text-anchor="end" font-family="ui-monospace,Menlo,monospace" font-size="17" font-weight="700" fill="#1c2430">$</text>
+  <line x1="420.0" y1="50.0" x2="150.0" y2="410.0" stroke="#1c2430" stroke-width="2"/>
+  <text x="254.6" y="252.2" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="15" font-weight="700" fill="#1c2430" transform="rotate(-53.1 254.6 252.2)" dominant-baseline="middle">ATGGTCGGT$</text>
+  <line x1="420.0" y1="50.0" x2="240.0" y2="410.0" stroke="#1c2430" stroke-width="2"/>
+  <text x="305.8" y="253.9" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="15" font-weight="700" fill="#1c2430" transform="rotate(-63.4 305.8 253.9)" dominant-baseline="middle">CGGT$</text>
+  <line x1="420.0" y1="50.0" x2="465.0" y2="170.0" stroke="#1c2430" stroke-width="2"/>
+  <text x="454.5" y="116.0" text-anchor="start" font-family="ui-monospace,Menlo,monospace" font-size="17" font-weight="700" fill="#1c2430">G</text>
+  <line x1="465.0" y1="170.0" x2="375.0" y2="290.0" stroke="#1c2430" stroke-width="2"/>
+  <text x="408.0" y="236.0" text-anchor="end" font-family="ui-monospace,Menlo,monospace" font-size="17" font-weight="700" fill="#1c2430">GT</text>
+  <line x1="375.0" y1="290.0" x2="330.0" y2="410.0" stroke="#1c2430" stroke-width="2"/>
+  <text x="340.5" y="356.0" text-anchor="end" font-family="ui-monospace,Menlo,monospace" font-size="17" font-weight="700" fill="#1c2430">$</text>
+  <line x1="375.0" y1="290.0" x2="420.0" y2="410.0" stroke="#1c2430" stroke-width="2"/>
+  <text x="411.4" y="355.7" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="15" font-weight="700" fill="#1c2430" transform="rotate(69.4 411.4 355.7)" dominant-baseline="middle">CGGT$</text>
+  <line x1="465.0" y1="170.0" x2="555.0" y2="290.0" stroke="#1c2430" stroke-width="2"/>
+  <text x="522.0" y="236.0" text-anchor="start" font-family="ui-monospace,Menlo,monospace" font-size="17" font-weight="700" fill="#1c2430">T</text>
+  <line x1="555.0" y1="290.0" x2="510.0" y2="410.0" stroke="#1c2430" stroke-width="2"/>
+  <text x="520.5" y="356.0" text-anchor="end" font-family="ui-monospace,Menlo,monospace" font-size="17" font-weight="700" fill="#1c2430">$</text>
+  <line x1="555.0" y1="290.0" x2="600.0" y2="410.0" stroke="#1c2430" stroke-width="2"/>
+  <text x="591.4" y="355.7" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="15" font-weight="700" fill="#1c2430" transform="rotate(69.4 591.4 355.7)" dominant-baseline="middle">CGGT$</text>
+  <line x1="420.0" y1="50.0" x2="780.0" y2="170.0" stroke="#1c2430" stroke-width="2"/>
+  <text x="612.0" y="116.0" text-anchor="start" font-family="ui-monospace,Menlo,monospace" font-size="17" font-weight="700" fill="#1c2430">T</text>
+  <line x1="780.0" y1="170.0" x2="690.0" y2="410.0" stroke="#1c2430" stroke-width="2"/>
+  <text x="723.0" y="296.0" text-anchor="end" font-family="ui-monospace,Menlo,monospace" font-size="17" font-weight="700" fill="#1c2430">$</text>
+  <line x1="780.0" y1="170.0" x2="780.0" y2="410.0" stroke="#1c2430" stroke-width="2"/>
+  <text x="791.0" y="309.2" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="15" font-weight="700" fill="#1c2430" transform="rotate(90.0 791.0 309.2)" dominant-baseline="middle">CGGT$</text>
+  <line x1="780.0" y1="170.0" x2="870.0" y2="410.0" stroke="#1c2430" stroke-width="2"/>
+  <text x="842.5" y="305.3" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="15" font-weight="700" fill="#1c2430" transform="rotate(69.4 842.5 305.3)" dominant-baseline="middle">GGTCGGT$</text>
+  <path d="M 361.0 286 Q 465.0 250.0 571.0 292" stroke="#2a5a8c" stroke-width="3.4" fill="none" stroke-dasharray="9 6" marker-end="url(#ah-2a5a8c)"/>
+  <path d="M 541.0 286 Q 667.5 190.0 796.0 172" stroke="#2a5a8c" stroke-width="3.4" fill="none" stroke-dasharray="9 6" marker-end="url(#ah-2a5a8c)"/>
+  <circle cx="420.0" cy="50" r="16" fill="#eef3f8" stroke="#2a5a8c" stroke-width="2.2"/>
+  <circle cx="150.0" cy="410" r="19" fill="#1c2430"/>
+  <text x="150.0" y="416.0" text-anchor="middle" font-family="'Source Sans 3','Source Sans Pro','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="17" font-weight="700" fill="#ffffff">0</text>
+  <circle cx="780.0" cy="170" r="13" fill="#eef3f8" stroke="#2a5a8c" stroke-width="2.2"/>
+  <circle cx="870.0" cy="410" r="19" fill="#1c2430"/>
+  <text x="870.0" y="416.0" text-anchor="middle" font-family="'Source Sans 3','Source Sans Pro','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="17" font-weight="700" fill="#ffffff">1</text>
+  <circle cx="780.0" cy="410" r="19" fill="#1c2430"/>
+  <text x="780.0" y="416.0" text-anchor="middle" font-family="'Source Sans 3','Source Sans Pro','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="17" font-weight="700" fill="#ffffff">4</text>
+  <circle cx="690.0" cy="410" r="19" fill="#1c2430"/>
+  <text x="690.0" y="416.0" text-anchor="middle" font-family="'Source Sans 3','Source Sans Pro','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="17" font-weight="700" fill="#ffffff">8</text>
+  <circle cx="465.0" cy="170" r="13" fill="#eef3f8" stroke="#2a5a8c" stroke-width="2.2"/>
+  <circle cx="375.0" cy="290" r="13" fill="#eef3f8" stroke="#2a5a8c" stroke-width="2.2"/>
+  <circle cx="420.0" cy="410" r="19" fill="#1c2430"/>
+  <text x="420.0" y="416.0" text-anchor="middle" font-family="'Source Sans 3','Source Sans Pro','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="17" font-weight="700" fill="#ffffff">2</text>
+  <circle cx="330.0" cy="410" r="19" fill="#1c2430"/>
+  <text x="330.0" y="416.0" text-anchor="middle" font-family="'Source Sans 3','Source Sans Pro','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="17" font-weight="700" fill="#ffffff">6</text>
+  <circle cx="555.0" cy="290" r="13" fill="#eef3f8" stroke="#2a5a8c" stroke-width="2.2"/>
+  <circle cx="600.0" cy="410" r="19" fill="#1c2430"/>
+  <text x="600.0" y="416.0" text-anchor="middle" font-family="'Source Sans 3','Source Sans Pro','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="17" font-weight="700" fill="#ffffff">3</text>
+  <circle cx="510.0" cy="410" r="19" fill="#1c2430"/>
+  <text x="510.0" y="416.0" text-anchor="middle" font-family="'Source Sans 3','Source Sans Pro','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="17" font-weight="700" fill="#ffffff">7</text>
+  <circle cx="240.0" cy="410" r="19" fill="#1c2430"/>
+  <text x="240.0" y="416.0" text-anchor="middle" font-family="'Source Sans 3','Source Sans Pro','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="17" font-weight="700" fill="#ffffff">5</text>
+  <circle cx="60.0" cy="410" r="19" fill="#1c2430"/>
+  <text x="60.0" y="416.0" text-anchor="middle" font-family="'Source Sans 3','Source Sans Pro','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="17" font-weight="700" fill="#ffffff">9</text>
+  <rect x="481.0" y="136.0" width="30.0" height="28.0" rx="6" fill="#ffffff" stroke="#2a5a8c" stroke-width="1.6"/>
+  <text x="489.0" y="156.0" text-anchor="start" font-family="ui-monospace,Menlo,monospace" font-size="19" font-weight="700" fill="#2a5a8c">G</text>
+  <rect x="571.0" y="256.0" width="44.0" height="28.0" rx="6" fill="#ffffff" stroke="#2a5a8c" stroke-width="1.6"/>
+  <text x="579.0" y="276.0" text-anchor="start" font-family="ui-monospace,Menlo,monospace" font-size="19" font-weight="700" fill="#2a5a8c">GT</text>
+  <rect x="391.0" y="256.0" width="58.0" height="28.0" rx="6" fill="#ffffff" stroke="#2a5a8c" stroke-width="1.6"/>
+  <text x="399.0" y="276.0" text-anchor="start" font-family="ui-monospace,Menlo,monospace" font-size="19" font-weight="700" fill="#2a5a8c">GGT</text>
+  <rect x="796.0" y="136.0" width="30.0" height="28.0" rx="6" fill="#ffffff" stroke="#2a5a8c" stroke-width="1.6"/>
+  <text x="804.0" y="156.0" text-anchor="start" font-family="ui-monospace,Menlo,monospace" font-size="19" font-weight="700" fill="#2a5a8c">T</text>
+</svg>

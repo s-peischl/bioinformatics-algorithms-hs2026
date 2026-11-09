@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 520" width="1008" height="728" preserveAspectRatio="xMidYMid meet">
+  <rect width="720" height="520" fill="#ffffff"/>
+  <defs><marker id="ah-2a5a8c" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#2a5a8c"/></marker><marker id="ah-b56a3a" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#b56a3a"/></marker><marker id="ah-6b7380" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#6b7380"/></marker><marker id="ah-1c2430" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#1c2430"/></marker></defs>
+  <text x="70.0" y="30.0" text-anchor="middle" font-family="'Source Sans 3','Source Sans Pro','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="16" font-weight="normal" fill="#6b7380">row</text>
+  <text x="130.0" y="30.0" text-anchor="middle" font-family="'Source Sans 3','Source Sans Pro','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="16" font-weight="normal" fill="#6b7380">start</text>
+  <text x="200.0" y="30.0" text-anchor="start" font-family="'Source Sans 3','Source Sans Pro','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="16" font-weight="normal" fill="#6b7380">suffix</text>
+  <text x="70.0" y="73.0" text-anchor="middle" font-family="'Source Sans 3','Source Sans Pro','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="19" font-weight="normal" fill="#c9ced6">0</text>
+  <text x="130.0" y="73.0" text-anchor="middle" font-family="'Source Sans 3','Source Sans Pro','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="21" font-weight="700" fill="#c9ced6">9</text>
+  <text x="200.0" y="74.0" text-anchor="start" font-family="ui-monospace,Menlo,monospace" font-size="23" font-weight="700" fill="#c9ced6">$</text>
+  <text x="70.0" y="115.0" text-anchor="middle" font-family="'Source Sans 3','Source Sans Pro','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="19" font-weight="normal" fill="#c9ced6">1</text>
+  <text x="130.0" y="115.0" text-anchor="middle" font-family="'Source Sans 3','Source Sans Pro','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="21" font-weight="700" fill="#c9ced6">0</text>
+  <text x="200.0" y="116.0" text-anchor="start" font-family="ui-monospace,Menlo,monospace" font-size="23" font-weight="700" fill="#c9ced6">ATGGTCGGT$</text>
+  <text x="70.0" y="157.0" text-anchor="middle" font-family="'Source Sans 3','Source Sans Pro','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="19" font-weight="normal" fill="#c9ced6">2</text>
+  <text x="130.0" y="157.0" text-anchor="middle" font-family="'Source Sans 3','Source Sans Pro','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="21" font-weight="700" fill="#c9ced6">5</text>
+  <text x="200.0" y="158.0" text-anchor="start" font-family="ui-monospace,Menlo,monospace" font-size="23" font-weight="700" fill="#c9ced6">CGGT$</text>
+  <rect x="40.0" y="176.0" width="480.0" height="36.0" rx="6" fill="#f7f3ee" stroke="#b56a3a" stroke-width="2"/>
+  <text x="70.0" y="199.0" text-anchor="middle" font-family="'Source Sans 3','Source Sans Pro','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="19" font-weight="normal" fill="#6b7380">3</text>
+  <text x="130.0" y="199.0" text-anchor="middle" font-family="'Source Sans 3','Source Sans Pro','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="21" font-weight="700" fill="#1c2430">6</text>
+  <text x="200" y="200" font-family="ui-monospace,Menlo,monospace" font-size="23" font-weight="700"><tspan fill="#b56a3a">GGT</tspan><tspan fill="#1c2430">$</tspan></text>
+  <rect x="40.0" y="218.0" width="480.0" height="36.0" rx="6" fill="#f7f3ee" stroke="#b56a3a" stroke-width="2"/>
+  <text x="70.0" y="241.0" text-anchor="middle" font-family="'Source Sans 3','Source Sans Pro','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="19" font-weight="normal" fill="#6b7380">4</text>
+  <text x="130.0" y="241.0" text-anchor="middle" font-family="'Source Sans 3','Source Sans Pro','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="21" font-weight="700" fill="#1c2430">2</text>
+  <text x="200" y="242" font-family="ui-monospace,Menlo,monospace" font-size="23" font-weight="700"><tspan fill="#b56a3a">GGT</tspan><tspan fill="#1c2430">CGGT$</tspan></text>
+  <text x="70.0" y="283.0" text-anchor="middle" font-family="'Source Sans 3','Source Sans Pro','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="19" font-weight="normal" fill="#c9ced6">5</text>
+  <text x="130.0" y="283.0" text-anchor="middle" font-family="'Source Sans 3','Source Sans Pro','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="21" font-weight="700" fill="#c9ced6">7</text>
+  <text x="200.0" y="284.0" text-anchor="start" font-family="ui-monospace,Menlo,monospace" font-size="23" font-weight="700" fill="#c9ced6">GT$</text>
+  <text x="70.0" y="325.0" text-anchor="middle" font-family="'Source Sans 3','Source Sans Pro','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="19" font-weight="normal" fill="#c9ced6">6</text>
+  <text x="130.0" y="325.0" text-anchor="middle" font-family="'Source Sans 3','Source Sans Pro','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="21" font-weight="700" fill="#c9ced6">3</text>
+  <text x="200.0" y="326.0" text-anchor="start" font-family="ui-monospace,Menlo,monospace" font-size="23" font-weight="700" fill="#c9ced6">GTCGGT$</text>
+  <text x="70.0" y="367.0" text-anchor="middle" font-family="'Source Sans 3','Source Sans Pro','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="19" font-weight="normal" fill="#c9ced6">7</text>
+  <text x="130.0" y="367.0" text-anchor="middle" font-family="'Source Sans 3','Source Sans Pro','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="21" font-weight="700" fill="#c9ced6">8</text>
+  <text x="200.0" y="368.0" text-anchor="start" font-family="ui-monospace,Menlo,monospace" font-size="23" font-weight="700" fill="#c9ced6">T$</text>
+  <text x="70.0" y="409.0" text-anchor="middle" font-family="'Source Sans 3','Source Sans Pro','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="19" font-weight="normal" fill="#c9ced6">8</text>
+  <text x="130.0" y="409.0" text-anchor="middle" font-family="'Source Sans 3','Source Sans Pro','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="21" font-weight="700" fill="#c9ced6">4</text>
+  <text x="200.0" y="410.0" text-anchor="start" font-family="ui-monospace,Menlo,monospace" font-size="23" font-weight="700" fill="#c9ced6">TCGGT$</text>
+  <text x="70.0" y="451.0" text-anchor="middle" font-family="'Source Sans 3','Source Sans Pro','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="19" font-weight="normal" fill="#c9ced6">9</text>
+  <text x="130.0" y="451.0" text-anchor="middle" font-family="'Source Sans 3','Source Sans Pro','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="21" font-weight="700" fill="#c9ced6">1</text>
+  <text x="200.0" y="452.0" text-anchor="start" font-family="ui-monospace,Menlo,monospace" font-size="23" font-weight="700" fill="#c9ced6">TGGTCGGT$</text>
+  <text x="360.0" y="506.0" text-anchor="middle" font-family="'Source Sans 3','Source Sans Pro','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="22" font-weight="700" fill="#b56a3a">rows 3 and 4 start with GGT: positions 6 and 2</text>
+</svg>
