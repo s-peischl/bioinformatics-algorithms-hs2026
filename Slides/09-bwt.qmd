@@ -15,6 +15,7 @@ format:
           .reveal img.sketch.r-stretch:not(.below) { max-height: 420px !important; }
           .reveal .split img.sketch { max-height: 470px !important; }
           .reveal .split img.sketch.big { max-height: 550px !important; }
+          .reveal .split img.sketch.xbig { max-height: 590px !important; }
           .reveal img.sketch.huge,
           .reveal img.sketch.huge.r-stretch { max-height: 520px !important; }
           .reveal ul li { margin: 0.25em 0; }
@@ -251,7 +252,7 @@ The table is complete. The row that **ends** with $\mathtt{\$}$ is the text: $\m
 Method 2 reads the text **one letter at a time, from the end**, using only $F$ and $L$.
 
 - Each row starts at some position of the text. We do not know which.
-- The $L$ letter of that row is the letter **just before** that position. Reading it gives us one letter of the text.
+- Its $L$ letter is the letter **just before** that position: one letter of the text.
 - To read the letter before that, we must move to the row that starts **at** it.
 :::
 ::: {.pane}
@@ -596,96 +597,129 @@ The same jump finds patterns.
 
 ## Matching rows form a block
 
-- A pattern occurs in $T$ exactly when some sorted row **begins** with it.
-- Rows that begin with the same letters sit next to each other, so the matches form one **block** of consecutive rows.
-- We find the block for the last letter of the pattern, then extend the pattern one letter to the **left** at a time, using the same last-to-first jump.
+:::: {.split .fig-right}
+::: {.pane}
+Where does $\mathtt{abra}$ occur in $\mathtt{abracadabra\$}$?
+
+- Each occurrence is the **start** of one sorted row: rows 2 and 3 begin with $\mathtt{abra}$.
+- The rows are sorted, so all rows that begin with $\mathtt{abra}$ sit **together**, in one block.
+
+To search, we find that block, without reading the text.
+:::
+::: {.pane}
+![](img/bws-0.svg){.sketch .xbig}
+:::
+::::
+
+## The plan: grow the pattern from the right
+
+We find the block one letter at a time, starting from the **last** letter:
+
+$$
+\mathtt{a} \;\to\; \mathtt{ra} \;\to\; \mathtt{bra} \;\to\; \mathtt{abra}
+$$
+
+Each step puts one letter **in front** of what we have matched. That is exactly the move of last-to-first: from a row, the $L$ letter is the letter just before it.
 
 ::: {.takeaway}
 A suffix tree reads the pattern forward from the root. The Burrows–Wheeler index reads it **backward**, and needs no tree.
 :::
 
-## The update rule
-
-Suppose the rows $[lo, hi)$ begin with the end of the pattern, and the next letter to the left is $c$.
-
-- Inside the block, the rows whose $L$ is $c$ are exactly the matches that can be extended by $c$.
-- Equal letters keep their order, so those $c$s land in one block of $F$ again.
-- The first has B-rank $\mathrm{occ}_c(lo)$: the $c$s in $L$ above the block.
-
-$$
-lo' = F_c + \mathrm{occ}_c(lo), \qquad hi' = F_c + \mathrm{occ}_c(hi)
-$$
-
-Here $F_c$ is the first row of $c$ in $F$, and $\mathrm{occ}_c(r)$ counts the copies of $c$ in $L$ above row $r$. If $lo' = hi'$, the block is empty and the pattern does not occur.
-
-## Search $\mathtt{abra}$, step 1
+## Search $\mathtt{abra}$, step 1: the last letter
 
 :::: {.split .fig-right}
 ::: {.pane}
-Start with the **last** letter, $\mathtt{a}$.
+Start with $\mathtt{a}$.
 
-The rows that begin with $\mathtt{a}$ are rows **1 to 5**: five rows, one for each $\mathtt{a}$ in the text.
+The rows that begin with $\mathtt{a}$ are the $\mathtt{a}$ block of $F$: rows **1 to 5**, one for each $\mathtt{a}$ in the text.
+
+How we know it from $L$ alone: count. In $L$, only one letter is smaller than $\mathtt{a}$, namely $\mathtt{\$}$. So the $\mathtt{a}$ block starts in row 1. $L$ has five $\mathtt{a}$s, so it ends in row 5.
 :::
 ::: {.pane}
-![](img/bsearch-1.svg){.sketch}
+![](img/bws-1.svg){.sketch .xbig}
 :::
 ::::
 
-## Step 2: prepend $\mathtt{r}$
+## Step 2: put $\mathtt{r}$ in front
 
 :::: {.split .fig-right}
 ::: {.pane}
-Inside rows 1–5, the letter $\mathtt{r}$ appears in $L$ twice (circled). They are the first two $\mathtt{r}$s of $L$, B-ranks 0 and 1.
+Which of rows 1–5 can grow into $\mathtt{ra}$?
 
-- $\mathrm{occ}_{\mathtt{r}}(1) = 0$, $\mathrm{occ}_{\mathtt{r}}(6) = 2$, $F_{\mathtt{r}} = 10$.
-- New block: rows $10 + 0 = 10$ up to $10 + 2 = 12$, not included.
+1. **Look at $L$** in the grey block: the letter before each $\mathtt{a}$. Rows 1 and 4 have $\mathtt{r}$ (circled).
+2. **Jump**, as in the inversion: those are the first two $\mathtt{r}$s of $L$, so they land in the first two $\mathtt{r}$ rows of $F$.
 
-Rows **10 to 11** begin with $\mathtt{ra}$.
+New block: rows **10 and 11**, which begin with $\mathtt{ra}$.
 :::
 ::: {.pane}
-![](img/bsearch-2.svg){.sketch}
+![](img/bws-2.svg){.sketch .xbig}
 :::
 ::::
 
-## Step 3: prepend $\mathtt{b}$
+## Step 3: put $\mathtt{b}$ in front
 
 :::: {.split .fig-right}
 ::: {.pane}
-Inside rows 10–11, both $L$ letters are $\mathtt{b}$, B-ranks 0 and 1.
+1. **Look at $L$** in rows 10–11: both are $\mathtt{b}$.
+2. **Jump:** they are the first two $\mathtt{b}$s of $L$, so they land in the first two $\mathtt{b}$ rows of $F$.
 
-- $\mathrm{occ}_{\mathtt{b}}(10) = 0$, $\mathrm{occ}_{\mathtt{b}}(12) = 2$, $F_{\mathtt{b}} = 6$.
-- New block: rows $6 + 0 = 6$ up to $6 + 2 = 8$.
-
-Rows **6 to 7** begin with $\mathtt{bra}$.
+New block: rows **6 and 7**, which begin with $\mathtt{bra}$.
 :::
 ::: {.pane}
-![](img/bsearch-3.svg){.sketch}
+![](img/bws-3.svg){.sketch .xbig}
 :::
 ::::
 
-## Step 4: prepend $\mathtt{a}$
+## Step 4: put $\mathtt{a}$ in front
 
 :::: {.split .fig-right}
 ::: {.pane}
-Inside rows 6–7, both $L$ letters are $\mathtt{a}$. One $\mathtt{a}$ sits above row 6 in $L$, so their B-ranks are 1 and 2.
+1. **Look at $L$** in rows 6–7: both are $\mathtt{a}$.
+2. **Jump:** one $\mathtt{a}$ of $L$ lies above them (row 0), so they are the second and third $\mathtt{a}$s. They land in the second and third $\mathtt{a}$ rows of $F$.
 
-- $\mathrm{occ}_{\mathtt{a}}(6) = 1$, $\mathrm{occ}_{\mathtt{a}}(8) = 3$, $F_{\mathtt{a}} = 1$.
-- New block: rows $1 + 1 = 2$ up to $1 + 3 = 4$.
-
-Rows **2 to 3** start at text positions **7** and **0**: $\mathtt{abra}$ occurs twice.
+New block: rows **2 and 3**, which begin with $\mathtt{abra}$.
 :::
 ::: {.pane}
-![](img/bsearch-4.svg){.sketch}
+![](img/bws-4.svg){.sketch .xbig}
 :::
 ::::
+
+## Where in the text?
+
+The block says **which rows** begin with $\mathtt{abra}$, not where they are in the text. For that the index stores one more column: the position where each sorted row starts. It is the "starts at" column of the sorted rotations, the suffix array of week 8.
+
+| row | starts at | the row |
+|---|---|---|
+| 2 | 7 | $\mathtt{abra\$abracad}$ |
+| 3 | 0 | $\mathtt{abracadabra\$}$ |
+
+Look up rows 2 and 3: $\mathtt{abra}$ occurs at positions **0 and 7**.
 
 ## A miss: $\mathtt{acb}$
 
+:::: {.split .fig-right}
+::: {.pane}
 - Last letter $\mathtt{b}$: rows 6–7.
-- Prepend $\mathtt{c}$: the $L$ letters in rows 6–7 are $\mathtt{a}$ and $\mathtt{a}$. There is no $\mathtt{c}$.
-- In numbers: one $\mathtt{c}$ above row 6 and still one above row 8, so $lo' = F_{\mathtt{c}} + 1 = 9$ and $hi' = 9$. The block is empty.
+- Put $\mathtt{c}$ in front: **look at $L$** in rows 6–7. Both are $\mathtt{a}$, there is no $\mathtt{c}$.
+- Nothing to jump with: the block is empty, and $\mathtt{cb}$ (so also $\mathtt{acb}$) does not occur.
 
-The pattern does not occur. We looked at two rows; the text itself was never read.
+We looked at two letters of $L$. The text itself was never read.
+:::
+::: {.pane}
+![](img/bws-miss.svg){.sketch .xbig}
+:::
+::::
+
+## What each step costs
+
+Each step does two things:
+
+- **look at $L$** inside the current block, and keep the rows with the new letter;
+- **jump** those rows to $F$, as in the inversion.
+
+The kept rows always land next to each other, because equal letters keep their order. So the new block is again one run of rows, and the next step can start.
+
+The implementation below does the "look at $L$" part by counting, so each step costs a couple of lookups, however large the block.
 
 ## Implementing the search {.section-head}
 
@@ -698,7 +732,7 @@ To search a text $T$ for a pattern $p$:
 1. **Transform.** Sort the rotations of $T$. Keep $L$, and the text position where each row starts.
 2. **Where each letter starts in $F$.** For each letter $c$: $F_c$ = number of letters in $L$ smaller than $c$.
 3. **Counts above each row.** For each letter $c$ and each row $r$: $\mathrm{occ}_c(r)$ = copies of $c$ in $L$ above row $r$.
-4. **Walk the pattern backward.** Start with all rows, $[0, n)$. For each letter of $p$, last to first, apply the update rule. Stop if the block is empty.
+4. **Walk the pattern backward.** Start with all rows. For each letter of $p$, last to first, jump the block by counting. Stop if it is empty.
 5. **Report.** The rows left in the block start at the text positions where $p$ occurs.
 
 Steps 1–3 are done once per text. Step 4 runs for every pattern.
@@ -760,6 +794,19 @@ $L = \mathtt{ard\$rcaaaabb}$:
 
 $\mathrm{occ}_c(r)$ counts rows $0$ to $r-1$ only: the $\mathtt{a}$ in row 0 shows up first in $\mathrm{occ}_{\mathtt{a}}(1)$.
 
+## Step 4, the idea: jump a block by counting
+
+In the sketches we circled the $c$s in $L$ and jumped each one. The program keeps the block as two numbers, rows $lo$ up to $hi$ (not included), and counts instead:
+
+- The $c$s of $L$ **above** the block are skipped: there are $\mathrm{occ}_c(lo)$ of them. So the first kept $c$ is $c$ number $\mathrm{occ}_c(lo)$, and it lands in row $F_c + \mathrm{occ}_c(lo)$.
+- All $c$s above row $hi$ number $\mathrm{occ}_c(hi)$, so the kept ones end just before row $F_c + \mathrm{occ}_c(hi)$.
+
+$$
+lo' = F_c + \mathrm{occ}_c(lo), \qquad hi' = F_c + \mathrm{occ}_c(hi)
+$$
+
+If $lo' = hi'$, no $c$ was kept: the block is empty.
+
 ## Step 4: walk the pattern backward
 
 ```python
@@ -775,7 +822,7 @@ def backward_search(p, first, occ, n):
     return lo, hi
 ```
 
-Two lines do the work: the update rule, once for $lo$ and once for $hi$. Starting from all rows, the first update gives the block of the last letter, so no special case is needed.
+Two lines do the work: the block jump, once for $lo$ and once for $hi$. Starting from all rows, the first update gives the block of the last letter, so no special case is needed.
 
 ## Step 4, in numbers
 
@@ -820,7 +867,7 @@ for _ in range(300):
 The plain scan reads the whole text for every pattern. It is slow but obviously right, so it is the reference to test against.
 
 ::: {.takeaway}
-About 30 lines in all. A real mapper uses the same five steps, and stores the counts only at every 100th row so that they fit in memory.
+About 30 lines in all. A real mapper uses the same five steps.
 :::
 
 ## The index in memory
@@ -829,12 +876,11 @@ The sorted table is never stored. The index keeps:
 
 - the string $L$: one letter per letter of the text, and highly compressible;
 - for each letter, the row where it starts in $F$ (four numbers for DNA);
-- counts of each letter in $L$ above every row, stored only at every 100th row or so and completed by counting.
-
-To turn a row into a text position, the starting position is also stored for, say, every 32nd row; for other rows, last-to-first steps lead to a stored row.
+- counts of each letter in $L$ above every row: the $\mathrm{occ}$ table;
+- the text position where each row starts, to report where a match lies.
 
 ::: {.takeaway}
-For the human genome this index needs a few gigabytes instead of tens: it fits on a laptop, and every search is still a backward walk.
+For the human genome this index is several times smaller than a suffix tree, and every search is still a backward walk.
 :::
 
 ## Back to the patient sample
