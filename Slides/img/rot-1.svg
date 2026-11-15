@@ -1,0 +1,141 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 532 432" width="745" height="605" preserveAspectRatio="xMidYMid meet">
+  <rect width="532" height="432" fill="#ffffff"/>
+  <defs><marker id="ah-2a5a8c" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#2a5a8c"/></marker><marker id="ah-b56a3a" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#b56a3a"/></marker><marker id="ah-6b7380" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#6b7380"/></marker><marker id="ah-1c2430" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#1c2430"/></marker></defs>
+  <text x="60.0" y="42.0" text-anchor="middle" font-family="'Source Sans 3','Source Sans Pro','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="17" font-weight="normal" fill="#6b7380">starts at</text>
+  <text x="60.0" y="87.0" text-anchor="middle" font-family="'Source Sans 3','Source Sans Pro','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="19" font-weight="700" fill="#1c2430">0</text>
+  <rect x="150.0" y="60.0" width="40.0" height="38.0" rx="5" fill="#ffffff" stroke="#c9ced6" stroke-width="1.4"/>
+  <text x="170.0" y="87.0" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="21" font-weight="700" fill="#1c2430">A</text>
+  <rect x="194.0" y="60.0" width="40.0" height="38.0" rx="5" fill="#ffffff" stroke="#c9ced6" stroke-width="1.4"/>
+  <text x="214.0" y="87.0" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="21" font-weight="700" fill="#1c2430">C</text>
+  <rect x="238.0" y="60.0" width="40.0" height="38.0" rx="5" fill="#ffffff" stroke="#c9ced6" stroke-width="1.4"/>
+  <text x="258.0" y="87.0" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="21" font-weight="700" fill="#1c2430">T</text>
+  <rect x="282.0" y="60.0" width="40.0" height="38.0" rx="5" fill="#ffffff" stroke="#c9ced6" stroke-width="1.4"/>
+  <text x="302.0" y="87.0" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="21" font-weight="700" fill="#1c2430">G</text>
+  <rect x="326.0" y="60.0" width="40.0" height="38.0" rx="5" fill="#ffffff" stroke="#c9ced6" stroke-width="1.4"/>
+  <text x="346.0" y="87.0" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="21" font-weight="700" fill="#1c2430">G</text>
+  <rect x="370.0" y="60.0" width="40.0" height="38.0" rx="5" fill="#ffffff" stroke="#c9ced6" stroke-width="1.4"/>
+  <text x="390.0" y="87.0" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="21" font-weight="700" fill="#1c2430">A</text>
+  <rect x="414.0" y="60.0" width="40.0" height="38.0" rx="5" fill="#ffffff" stroke="#c9ced6" stroke-width="1.4"/>
+  <text x="434.0" y="87.0" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="21" font-weight="700" fill="#1c2430">C</text>
+  <rect x="458.0" y="60.0" width="40.0" height="38.0" rx="5" fill="#ffffff" stroke="#c9ced6" stroke-width="1.4"/>
+  <text x="478.0" y="87.0" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="21" font-weight="700" fill="#1c2430">$</text>
+  <text x="60.0" y="131.0" text-anchor="middle" font-family="'Source Sans 3','Source Sans Pro','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="19" font-weight="700" fill="#1c2430">1</text>
+  <rect x="150.0" y="104.0" width="40.0" height="38.0" rx="5" fill="#ffffff" stroke="#c9ced6" stroke-width="1.4"/>
+  <text x="170.0" y="131.0" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="21" font-weight="700" fill="#1c2430">C</text>
+  <rect x="194.0" y="104.0" width="40.0" height="38.0" rx="5" fill="#ffffff" stroke="#c9ced6" stroke-width="1.4"/>
+  <text x="214.0" y="131.0" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="21" font-weight="700" fill="#1c2430">T</text>
+  <rect x="238.0" y="104.0" width="40.0" height="38.0" rx="5" fill="#ffffff" stroke="#c9ced6" stroke-width="1.4"/>
+  <text x="258.0" y="131.0" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="21" font-weight="700" fill="#1c2430">G</text>
+  <rect x="282.0" y="104.0" width="40.0" height="38.0" rx="5" fill="#ffffff" stroke="#c9ced6" stroke-width="1.4"/>
+  <text x="302.0" y="131.0" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="21" font-weight="700" fill="#1c2430">G</text>
+  <rect x="326.0" y="104.0" width="40.0" height="38.0" rx="5" fill="#ffffff" stroke="#c9ced6" stroke-width="1.4"/>
+  <text x="346.0" y="131.0" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="21" font-weight="700" fill="#1c2430">A</text>
+  <rect x="370.0" y="104.0" width="40.0" height="38.0" rx="5" fill="#ffffff" stroke="#c9ced6" stroke-width="1.4"/>
+  <text x="390.0" y="131.0" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="21" font-weight="700" fill="#1c2430">C</text>
+  <rect x="414.0" y="104.0" width="40.0" height="38.0" rx="5" fill="#ffffff" stroke="#c9ced6" stroke-width="1.4"/>
+  <text x="434.0" y="131.0" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="21" font-weight="700" fill="#1c2430">$</text>
+  <rect x="458.0" y="104.0" width="40.0" height="38.0" rx="5" fill="#f4f5f7" stroke="#c9ced6" stroke-width="1.4"/>
+  <text x="478.0" y="131.0" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="21" font-weight="700" fill="#6b7380">A</text>
+  <text x="60.0" y="175.0" text-anchor="middle" font-family="'Source Sans 3','Source Sans Pro','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="19" font-weight="700" fill="#1c2430">2</text>
+  <rect x="150.0" y="148.0" width="40.0" height="38.0" rx="5" fill="#ffffff" stroke="#c9ced6" stroke-width="1.4"/>
+  <text x="170.0" y="175.0" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="21" font-weight="700" fill="#1c2430">T</text>
+  <rect x="194.0" y="148.0" width="40.0" height="38.0" rx="5" fill="#ffffff" stroke="#c9ced6" stroke-width="1.4"/>
+  <text x="214.0" y="175.0" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="21" font-weight="700" fill="#1c2430">G</text>
+  <rect x="238.0" y="148.0" width="40.0" height="38.0" rx="5" fill="#ffffff" stroke="#c9ced6" stroke-width="1.4"/>
+  <text x="258.0" y="175.0" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="21" font-weight="700" fill="#1c2430">G</text>
+  <rect x="282.0" y="148.0" width="40.0" height="38.0" rx="5" fill="#ffffff" stroke="#c9ced6" stroke-width="1.4"/>
+  <text x="302.0" y="175.0" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="21" font-weight="700" fill="#1c2430">A</text>
+  <rect x="326.0" y="148.0" width="40.0" height="38.0" rx="5" fill="#ffffff" stroke="#c9ced6" stroke-width="1.4"/>
+  <text x="346.0" y="175.0" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="21" font-weight="700" fill="#1c2430">C</text>
+  <rect x="370.0" y="148.0" width="40.0" height="38.0" rx="5" fill="#ffffff" stroke="#c9ced6" stroke-width="1.4"/>
+  <text x="390.0" y="175.0" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="21" font-weight="700" fill="#1c2430">$</text>
+  <rect x="414.0" y="148.0" width="40.0" height="38.0" rx="5" fill="#f4f5f7" stroke="#c9ced6" stroke-width="1.4"/>
+  <text x="434.0" y="175.0" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="21" font-weight="700" fill="#6b7380">A</text>
+  <rect x="458.0" y="148.0" width="40.0" height="38.0" rx="5" fill="#f4f5f7" stroke="#c9ced6" stroke-width="1.4"/>
+  <text x="478.0" y="175.0" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="21" font-weight="700" fill="#6b7380">C</text>
+  <text x="60.0" y="219.0" text-anchor="middle" font-family="'Source Sans 3','Source Sans Pro','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="19" font-weight="700" fill="#1c2430">3</text>
+  <rect x="150.0" y="192.0" width="40.0" height="38.0" rx="5" fill="#ffffff" stroke="#c9ced6" stroke-width="1.4"/>
+  <text x="170.0" y="219.0" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="21" font-weight="700" fill="#1c2430">G</text>
+  <rect x="194.0" y="192.0" width="40.0" height="38.0" rx="5" fill="#ffffff" stroke="#c9ced6" stroke-width="1.4"/>
+  <text x="214.0" y="219.0" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="21" font-weight="700" fill="#1c2430">G</text>
+  <rect x="238.0" y="192.0" width="40.0" height="38.0" rx="5" fill="#ffffff" stroke="#c9ced6" stroke-width="1.4"/>
+  <text x="258.0" y="219.0" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="21" font-weight="700" fill="#1c2430">A</text>
+  <rect x="282.0" y="192.0" width="40.0" height="38.0" rx="5" fill="#ffffff" stroke="#c9ced6" stroke-width="1.4"/>
+  <text x="302.0" y="219.0" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="21" font-weight="700" fill="#1c2430">C</text>
+  <rect x="326.0" y="192.0" width="40.0" height="38.0" rx="5" fill="#ffffff" stroke="#c9ced6" stroke-width="1.4"/>
+  <text x="346.0" y="219.0" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="21" font-weight="700" fill="#1c2430">$</text>
+  <rect x="370.0" y="192.0" width="40.0" height="38.0" rx="5" fill="#f4f5f7" stroke="#c9ced6" stroke-width="1.4"/>
+  <text x="390.0" y="219.0" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="21" font-weight="700" fill="#6b7380">A</text>
+  <rect x="414.0" y="192.0" width="40.0" height="38.0" rx="5" fill="#f4f5f7" stroke="#c9ced6" stroke-width="1.4"/>
+  <text x="434.0" y="219.0" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="21" font-weight="700" fill="#6b7380">C</text>
+  <rect x="458.0" y="192.0" width="40.0" height="38.0" rx="5" fill="#f4f5f7" stroke="#c9ced6" stroke-width="1.4"/>
+  <text x="478.0" y="219.0" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="21" font-weight="700" fill="#6b7380">T</text>
+  <text x="60.0" y="263.0" text-anchor="middle" font-family="'Source Sans 3','Source Sans Pro','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="19" font-weight="700" fill="#1c2430">4</text>
+  <rect x="150.0" y="236.0" width="40.0" height="38.0" rx="5" fill="#ffffff" stroke="#c9ced6" stroke-width="1.4"/>
+  <text x="170.0" y="263.0" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="21" font-weight="700" fill="#1c2430">G</text>
+  <rect x="194.0" y="236.0" width="40.0" height="38.0" rx="5" fill="#ffffff" stroke="#c9ced6" stroke-width="1.4"/>
+  <text x="214.0" y="263.0" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="21" font-weight="700" fill="#1c2430">A</text>
+  <rect x="238.0" y="236.0" width="40.0" height="38.0" rx="5" fill="#ffffff" stroke="#c9ced6" stroke-width="1.4"/>
+  <text x="258.0" y="263.0" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="21" font-weight="700" fill="#1c2430">C</text>
+  <rect x="282.0" y="236.0" width="40.0" height="38.0" rx="5" fill="#ffffff" stroke="#c9ced6" stroke-width="1.4"/>
+  <text x="302.0" y="263.0" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="21" font-weight="700" fill="#1c2430">$</text>
+  <rect x="326.0" y="236.0" width="40.0" height="38.0" rx="5" fill="#f4f5f7" stroke="#c9ced6" stroke-width="1.4"/>
+  <text x="346.0" y="263.0" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="21" font-weight="700" fill="#6b7380">A</text>
+  <rect x="370.0" y="236.0" width="40.0" height="38.0" rx="5" fill="#f4f5f7" stroke="#c9ced6" stroke-width="1.4"/>
+  <text x="390.0" y="263.0" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="21" font-weight="700" fill="#6b7380">C</text>
+  <rect x="414.0" y="236.0" width="40.0" height="38.0" rx="5" fill="#f4f5f7" stroke="#c9ced6" stroke-width="1.4"/>
+  <text x="434.0" y="263.0" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="21" font-weight="700" fill="#6b7380">T</text>
+  <rect x="458.0" y="236.0" width="40.0" height="38.0" rx="5" fill="#f4f5f7" stroke="#c9ced6" stroke-width="1.4"/>
+  <text x="478.0" y="263.0" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="21" font-weight="700" fill="#6b7380">G</text>
+  <text x="60.0" y="307.0" text-anchor="middle" font-family="'Source Sans 3','Source Sans Pro','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="19" font-weight="700" fill="#1c2430">5</text>
+  <rect x="150.0" y="280.0" width="40.0" height="38.0" rx="5" fill="#ffffff" stroke="#c9ced6" stroke-width="1.4"/>
+  <text x="170.0" y="307.0" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="21" font-weight="700" fill="#1c2430">A</text>
+  <rect x="194.0" y="280.0" width="40.0" height="38.0" rx="5" fill="#ffffff" stroke="#c9ced6" stroke-width="1.4"/>
+  <text x="214.0" y="307.0" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="21" font-weight="700" fill="#1c2430">C</text>
+  <rect x="238.0" y="280.0" width="40.0" height="38.0" rx="5" fill="#ffffff" stroke="#c9ced6" stroke-width="1.4"/>
+  <text x="258.0" y="307.0" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="21" font-weight="700" fill="#1c2430">$</text>
+  <rect x="282.0" y="280.0" width="40.0" height="38.0" rx="5" fill="#f4f5f7" stroke="#c9ced6" stroke-width="1.4"/>
+  <text x="302.0" y="307.0" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="21" font-weight="700" fill="#6b7380">A</text>
+  <rect x="326.0" y="280.0" width="40.0" height="38.0" rx="5" fill="#f4f5f7" stroke="#c9ced6" stroke-width="1.4"/>
+  <text x="346.0" y="307.0" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="21" font-weight="700" fill="#6b7380">C</text>
+  <rect x="370.0" y="280.0" width="40.0" height="38.0" rx="5" fill="#f4f5f7" stroke="#c9ced6" stroke-width="1.4"/>
+  <text x="390.0" y="307.0" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="21" font-weight="700" fill="#6b7380">T</text>
+  <rect x="414.0" y="280.0" width="40.0" height="38.0" rx="5" fill="#f4f5f7" stroke="#c9ced6" stroke-width="1.4"/>
+  <text x="434.0" y="307.0" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="21" font-weight="700" fill="#6b7380">G</text>
+  <rect x="458.0" y="280.0" width="40.0" height="38.0" rx="5" fill="#f4f5f7" stroke="#c9ced6" stroke-width="1.4"/>
+  <text x="478.0" y="307.0" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="21" font-weight="700" fill="#6b7380">G</text>
+  <text x="60.0" y="351.0" text-anchor="middle" font-family="'Source Sans 3','Source Sans Pro','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="19" font-weight="700" fill="#1c2430">6</text>
+  <rect x="150.0" y="324.0" width="40.0" height="38.0" rx="5" fill="#ffffff" stroke="#c9ced6" stroke-width="1.4"/>
+  <text x="170.0" y="351.0" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="21" font-weight="700" fill="#1c2430">C</text>
+  <rect x="194.0" y="324.0" width="40.0" height="38.0" rx="5" fill="#ffffff" stroke="#c9ced6" stroke-width="1.4"/>
+  <text x="214.0" y="351.0" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="21" font-weight="700" fill="#1c2430">$</text>
+  <rect x="238.0" y="324.0" width="40.0" height="38.0" rx="5" fill="#f4f5f7" stroke="#c9ced6" stroke-width="1.4"/>
+  <text x="258.0" y="351.0" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="21" font-weight="700" fill="#6b7380">A</text>
+  <rect x="282.0" y="324.0" width="40.0" height="38.0" rx="5" fill="#f4f5f7" stroke="#c9ced6" stroke-width="1.4"/>
+  <text x="302.0" y="351.0" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="21" font-weight="700" fill="#6b7380">C</text>
+  <rect x="326.0" y="324.0" width="40.0" height="38.0" rx="5" fill="#f4f5f7" stroke="#c9ced6" stroke-width="1.4"/>
+  <text x="346.0" y="351.0" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="21" font-weight="700" fill="#6b7380">T</text>
+  <rect x="370.0" y="324.0" width="40.0" height="38.0" rx="5" fill="#f4f5f7" stroke="#c9ced6" stroke-width="1.4"/>
+  <text x="390.0" y="351.0" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="21" font-weight="700" fill="#6b7380">G</text>
+  <rect x="414.0" y="324.0" width="40.0" height="38.0" rx="5" fill="#f4f5f7" stroke="#c9ced6" stroke-width="1.4"/>
+  <text x="434.0" y="351.0" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="21" font-weight="700" fill="#6b7380">G</text>
+  <rect x="458.0" y="324.0" width="40.0" height="38.0" rx="5" fill="#f4f5f7" stroke="#c9ced6" stroke-width="1.4"/>
+  <text x="478.0" y="351.0" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="21" font-weight="700" fill="#6b7380">A</text>
+  <text x="60.0" y="395.0" text-anchor="middle" font-family="'Source Sans 3','Source Sans Pro','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="19" font-weight="700" fill="#1c2430">7</text>
+  <rect x="150.0" y="368.0" width="40.0" height="38.0" rx="5" fill="#ffffff" stroke="#c9ced6" stroke-width="1.4"/>
+  <text x="170.0" y="395.0" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="21" font-weight="700" fill="#1c2430">$</text>
+  <rect x="194.0" y="368.0" width="40.0" height="38.0" rx="5" fill="#f4f5f7" stroke="#c9ced6" stroke-width="1.4"/>
+  <text x="214.0" y="395.0" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="21" font-weight="700" fill="#6b7380">A</text>
+  <rect x="238.0" y="368.0" width="40.0" height="38.0" rx="5" fill="#f4f5f7" stroke="#c9ced6" stroke-width="1.4"/>
+  <text x="258.0" y="395.0" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="21" font-weight="700" fill="#6b7380">C</text>
+  <rect x="282.0" y="368.0" width="40.0" height="38.0" rx="5" fill="#f4f5f7" stroke="#c9ced6" stroke-width="1.4"/>
+  <text x="302.0" y="395.0" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="21" font-weight="700" fill="#6b7380">T</text>
+  <rect x="326.0" y="368.0" width="40.0" height="38.0" rx="5" fill="#f4f5f7" stroke="#c9ced6" stroke-width="1.4"/>
+  <text x="346.0" y="395.0" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="21" font-weight="700" fill="#6b7380">G</text>
+  <rect x="370.0" y="368.0" width="40.0" height="38.0" rx="5" fill="#f4f5f7" stroke="#c9ced6" stroke-width="1.4"/>
+  <text x="390.0" y="395.0" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="21" font-weight="700" fill="#6b7380">G</text>
+  <rect x="414.0" y="368.0" width="40.0" height="38.0" rx="5" fill="#f4f5f7" stroke="#c9ced6" stroke-width="1.4"/>
+  <text x="434.0" y="395.0" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="21" font-weight="700" fill="#6b7380">A</text>
+  <rect x="458.0" y="368.0" width="40.0" height="38.0" rx="5" fill="#f4f5f7" stroke="#c9ced6" stroke-width="1.4"/>
+  <text x="478.0" y="395.0" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="21" font-weight="700" fill="#6b7380">C</text>
+</svg>

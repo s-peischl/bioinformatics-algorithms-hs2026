@@ -22,6 +22,8 @@ This repository is meant for **students**: clone it, open the Quarto slides, and
   - Lab: `Slides/labs/07-graphs.ipynb` (needs `matplotlib`)
 - **Week 8** — Suffix trees and suffix arrays: exact matching, repeats (`Slides/08-suffix-trees.qmd`, [PDF](Slides/08-suffix-trees.pdf))
   - Lab: `Slides/labs/08-suffix.ipynb`
+- **Week 9** — Burrows–Wheeler transform: inversion, backward search, haplotype breakpoints (`Slides/09-bwt.qmd`, [PDF](Slides/09-bwt.pdf))
+  - Lab: `Slides/labs/09-bwt.ipynb`
 
 Later weeks will be added as the course progresses.
 
@@ -55,6 +57,7 @@ Later weeks will be added as the course progresses.
    - Week 6: `Slides/labs/06-greedy.ipynb` (needs `matplotlib`)
    - Week 7: `Slides/labs/07-graphs.ipynb` (needs `matplotlib`)
    - Week 8: `Slides/labs/08-suffix.ipynb`
+   - Week 9: `Slides/labs/09-bwt.ipynb`
 
 ## Course
 
