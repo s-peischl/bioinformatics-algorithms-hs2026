@@ -24,6 +24,8 @@ This repository is meant for **students**: clone it, open the Quarto slides, and
   - Lab: `Slides/labs/08-suffix.ipynb`
 - **Week 9** — Burrows–Wheeler transform: inversion, backward search, haplotype breakpoints (`Slides/09-bwt.qmd`, [PDF](Slides/09-bwt.pdf))
   - Lab: `Slides/labs/09-bwt.ipynb`
+- **Week 10** — Algorithms on trees: neighbour-joining, bootstrap, parsimony, likelihood, Bayesian trees, the coalescent (`Slides/10-trees.qmd`, [PDF](Slides/10-trees.pdf))
+  - Lab: `Slides/labs/10-trees.ipynb`
 
 Later weeks will be added as the course progresses.
 
@@ -58,6 +60,7 @@ Later weeks will be added as the course progresses.
    - Week 7: `Slides/labs/07-graphs.ipynb` (needs `matplotlib`)
    - Week 8: `Slides/labs/08-suffix.ipynb`
    - Week 9: `Slides/labs/09-bwt.ipynb`
+   - Week 10: `Slides/labs/10-trees.ipynb`
 
 ## Course
 

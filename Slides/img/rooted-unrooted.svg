@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 940 300" width="1316" height="420" preserveAspectRatio="xMidYMid meet">
+  <rect width="940" height="300" fill="#ffffff"/>
+  <defs><marker id="ah-2a5a8c" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#2a5a8c"/></marker><marker id="ah-b56a3a" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#b56a3a"/></marker><marker id="ah-6b7380" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#6b7380"/></marker><marker id="ah-1c2430" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#1c2430"/></marker></defs>
+  <line x1="170.0" y1="150.0" x2="290.0" y2="150.0" stroke="#1c2430" stroke-width="2.8"/>
+  <line x1="170.0" y1="150.0" x2="60.0" y2="60.0" stroke="#1c2430" stroke-width="2.8"/>
+  <line x1="170.0" y1="150.0" x2="60.0" y2="240.0" stroke="#1c2430" stroke-width="2.8"/>
+  <line x1="290.0" y1="150.0" x2="400.0" y2="60.0" stroke="#1c2430" stroke-width="2.8"/>
+  <line x1="290.0" y1="150.0" x2="400.0" y2="240.0" stroke="#1c2430" stroke-width="2.8"/>
+  <circle cx="170" cy="150" r="12" fill="#eef3f8" stroke="#2a5a8c" stroke-width="2.2"/>
+  <circle cx="290" cy="150" r="12" fill="#eef3f8" stroke="#2a5a8c" stroke-width="2.2"/>
+  <circle cx="60" cy="60" r="20" fill="#1c2430"/>
+  <text x="60.0" y="66.0" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="17" font-weight="700" fill="#ffffff">A</text>
+  <circle cx="60" cy="240" r="20" fill="#1c2430"/>
+  <text x="60.0" y="246.0" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="17" font-weight="700" fill="#ffffff">B</text>
+  <circle cx="400" cy="60" r="20" fill="#1c2430"/>
+  <text x="400.0" y="66.0" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="17" font-weight="700" fill="#ffffff">C</text>
+  <circle cx="400" cy="240" r="20" fill="#1c2430"/>
+  <text x="400.0" y="246.0" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="17" font-weight="700" fill="#ffffff">D</text>
+  <circle cx="230" cy="150" r="9" fill="#b56a3a"/>
+  <text x="230.0" y="126.0" text-anchor="middle" font-family="'Source Sans 3','Source Sans Pro','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="16" font-weight="700" fill="#b56a3a">root here?</text>
+  <text x="230.0" y="292.0" text-anchor="middle" font-family="'Source Sans 3','Source Sans Pro','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="18" font-weight="normal" fill="#6b7380">unrooted: who is next to whom</text>
+  <line x1="450.0" y1="150.0" x2="520.0" y2="150.0" stroke="#6b7380" stroke-width="2.6" marker-end="url(#ah-6b7380)"/>
+  <line x1="720.0" y1="50.0" x2="630.0" y2="140.0" stroke="#1c2430" stroke-width="2.8"/>
+  <line x1="720.0" y1="50.0" x2="810.0" y2="140.0" stroke="#1c2430" stroke-width="2.8"/>
+  <line x1="630.0" y1="140.0" x2="575.0" y2="240.0" stroke="#1c2430" stroke-width="2.8"/>
+  <line x1="630.0" y1="140.0" x2="685.0" y2="240.0" stroke="#1c2430" stroke-width="2.8"/>
+  <line x1="810.0" y1="140.0" x2="755.0" y2="240.0" stroke="#1c2430" stroke-width="2.8"/>
+  <line x1="810.0" y1="140.0" x2="865.0" y2="240.0" stroke="#1c2430" stroke-width="2.8"/>
+  <circle cx="720" cy="50" r="11" fill="#b56a3a"/>
+  <circle cx="630" cy="140" r="12" fill="#eef3f8" stroke="#2a5a8c" stroke-width="2.2"/>
+  <circle cx="810" cy="140" r="12" fill="#eef3f8" stroke="#2a5a8c" stroke-width="2.2"/>
+  <circle cx="575" cy="240" r="20" fill="#1c2430"/>
+  <text x="575.0" y="246.0" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="17" font-weight="700" fill="#ffffff">A</text>
+  <circle cx="685" cy="240" r="20" fill="#1c2430"/>
+  <text x="685.0" y="246.0" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="17" font-weight="700" fill="#ffffff">B</text>
+  <circle cx="755" cy="240" r="20" fill="#1c2430"/>
+  <text x="755.0" y="246.0" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="17" font-weight="700" fill="#ffffff">C</text>
+  <circle cx="865" cy="240" r="20" fill="#1c2430"/>
+  <text x="865.0" y="246.0" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="17" font-weight="700" fill="#ffffff">D</text>
+  <text x="742.0" y="56.0" text-anchor="start" font-family="'Source Sans 3','Source Sans Pro','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="17" font-weight="700" fill="#b56a3a">root</text>
+  <text x="720.0" y="292.0" text-anchor="middle" font-family="'Source Sans 3','Source Sans Pro','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="18" font-weight="normal" fill="#6b7380">rooted: also which ancestor came first</text>
+</svg>

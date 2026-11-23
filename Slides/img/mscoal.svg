@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 940 470" width="1316" height="658" preserveAspectRatio="xMidYMid meet">
+  <rect width="940" height="470" fill="#ffffff"/>
+  <defs><marker id="ah-2a5a8c" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#2a5a8c"/></marker><marker id="ah-b56a3a" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#b56a3a"/></marker><marker id="ah-6b7380" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#6b7380"/></marker><marker id="ah-1c2430" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#1c2430"/></marker></defs>
+  <line x1="80" y1="380" x2="145" y2="255" stroke="#e6e9ee" stroke-width="92" stroke-linecap="round"/>
+  <line x1="210" y1="380" x2="145" y2="255" stroke="#e6e9ee" stroke-width="92" stroke-linecap="round"/>
+  <line x1="145" y1="255" x2="260" y2="140" stroke="#e6e9ee" stroke-width="92" stroke-linecap="round"/>
+  <line x1="380" y1="380" x2="260" y2="140" stroke="#e6e9ee" stroke-width="92" stroke-linecap="round"/>
+  <line x1="260" y1="140" x2="260" y2="25" stroke="#e6e9ee" stroke-width="92" stroke-linecap="round"/>
+  <text x="80.0" y="420.0" text-anchor="middle" font-family="'Source Sans 3','Source Sans Pro','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="24" font-weight="700" fill="#6b7380">A</text>
+  <text x="210.0" y="420.0" text-anchor="middle" font-family="'Source Sans 3','Source Sans Pro','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="24" font-weight="700" fill="#6b7380">B</text>
+  <text x="380.0" y="420.0" text-anchor="middle" font-family="'Source Sans 3','Source Sans Pro','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="24" font-weight="700" fill="#6b7380">C</text>
+  <path d="M 85 372 L 145 250" stroke="#2a5a8c" stroke-width="3.6" fill="none" opacity="1.0"/>
+  <path d="M 205 372 L 145 250" stroke="#b56a3a" stroke-width="3.6" fill="none" opacity="1.0"/>
+  <path d="M 145 250 L 245 150 L 255 95" stroke="#1c2430" stroke-width="3.6" fill="none" opacity="1.0"/>
+  <path d="M 375 372 L 278 150 L 255 95" stroke="#1c2430" stroke-width="3.6" fill="none" opacity="1.0"/>
+  <path d="M 255 95 L 255 40" stroke="#1c2430" stroke-width="3.6" fill="none" opacity="1.0"/>
+  <circle cx="145" cy="250" r="7" fill="#1c2430"/>
+  <circle cx="255" cy="95" r="7" fill="#1c2430"/>
+  <text x="230.0" y="462.0" text-anchor="middle" font-family="'Source Sans 3','Source Sans Pro','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="27" font-weight="700" fill="#1c2430">gene tree matches: A with B</text>
+  <line x1="560" y1="380" x2="625" y2="255" stroke="#e6e9ee" stroke-width="92" stroke-linecap="round"/>
+  <line x1="690" y1="380" x2="625" y2="255" stroke="#e6e9ee" stroke-width="92" stroke-linecap="round"/>
+  <line x1="625" y1="255" x2="740" y2="140" stroke="#e6e9ee" stroke-width="92" stroke-linecap="round"/>
+  <line x1="860" y1="380" x2="740" y2="140" stroke="#e6e9ee" stroke-width="92" stroke-linecap="round"/>
+  <line x1="740" y1="140" x2="740" y2="25" stroke="#e6e9ee" stroke-width="92" stroke-linecap="round"/>
+  <text x="560.0" y="420.0" text-anchor="middle" font-family="'Source Sans 3','Source Sans Pro','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="24" font-weight="700" fill="#6b7380">A</text>
+  <text x="690.0" y="420.0" text-anchor="middle" font-family="'Source Sans 3','Source Sans Pro','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="24" font-weight="700" fill="#6b7380">B</text>
+  <text x="860.0" y="420.0" text-anchor="middle" font-family="'Source Sans 3','Source Sans Pro','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="24" font-weight="700" fill="#6b7380">C</text>
+  <path d="M 552 372 L 602 262 L 712 150 L 730 70" stroke="#2a5a8c" stroke-width="3.6" fill="none" opacity="1.0"/>
+  <path d="M 698 372 L 650 262 L 748 155 L 758 105" stroke="#b56a3a" stroke-width="3.6" fill="none" opacity="1.0"/>
+  <path d="M 865 372 L 780 150 L 758 105" stroke="#1c2430" stroke-width="3.6" fill="none" opacity="1.0"/>
+  <path d="M 758 105 L 730 70" stroke="#1c2430" stroke-width="3.6" fill="none" opacity="1.0"/>
+  <path d="M 730 70 L 730 35" stroke="#1c2430" stroke-width="3.6" fill="none" opacity="1.0"/>
+  <circle cx="758" cy="105" r="7" fill="#1c2430"/>
+  <circle cx="730" cy="70" r="7" fill="#1c2430"/>
+  <text x="710.0" y="462.0" text-anchor="middle" font-family="'Source Sans 3','Source Sans Pro','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="27" font-weight="700" fill="#b56a3a">gene tree differs: B with C</text>
+</svg>

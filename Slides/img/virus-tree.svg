@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 400" width="1260" height="560" preserveAspectRatio="xMidYMid meet">
+  <rect width="900" height="400" fill="#ffffff"/>
+  <defs><marker id="ah-2a5a8c" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#2a5a8c"/></marker><marker id="ah-b56a3a" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#b56a3a"/></marker><marker id="ah-6b7380" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#6b7380"/></marker><marker id="ah-1c2430" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#1c2430"/></marker></defs>
+  <path d="M 80 197.0 L 80 134.0 L 260 134.0" stroke="#b56a3a" stroke-width="2.6" fill="none" opacity="1.0"/>
+  <path d="M 80 197.0 L 80 302 L 330 302" stroke="#1c2430" stroke-width="2.6" fill="none" opacity="1.0"/>
+  <path d="M 260 134.0 L 260 71.0 L 440 71.0" stroke="#b56a3a" stroke-width="2.6" fill="none" opacity="1.0"/>
+  <path d="M 260 134.0 L 260 176 L 470 176" stroke="#b56a3a" stroke-width="2.6" fill="none" opacity="1.0"/>
+  <path d="M 440 71.0 L 440 50 L 700 50" stroke="#b56a3a" stroke-width="2.6" fill="none" opacity="1.0"/>
+  <circle cx="700" cy="50" r="16" fill="#b56a3a"/>
+  <text x="700.0" y="56.0" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="15" font-weight="700" fill="#ffffff">1</text>
+  <text x="726.0" y="56.0" text-anchor="start" font-family="'Source Sans 3','Source Sans Pro','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="16" font-weight="normal" fill="#6b7380">sample 1</text>
+  <path d="M 440 71.0 L 440 92 L 700 92" stroke="#b56a3a" stroke-width="2.6" fill="none" opacity="1.0"/>
+  <circle cx="700" cy="92" r="16" fill="#b56a3a"/>
+  <text x="700.0" y="98.0" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="15" font-weight="700" fill="#ffffff">2</text>
+  <text x="726.0" y="98.0" text-anchor="start" font-family="'Source Sans 3','Source Sans Pro','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="16" font-weight="normal" fill="#6b7380">sample 2</text>
+  <path d="M 470 176 L 470 134 L 700 134" stroke="#b56a3a" stroke-width="2.6" fill="none" opacity="1.0"/>
+  <circle cx="700" cy="134" r="16" fill="#b56a3a"/>
+  <text x="700.0" y="140.0" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="15" font-weight="700" fill="#ffffff">3</text>
+  <text x="726.0" y="140.0" text-anchor="start" font-family="'Source Sans 3','Source Sans Pro','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="16" font-weight="normal" fill="#6b7380">sample 3</text>
+  <path d="M 470 176 L 470 176 L 700 176" stroke="#b56a3a" stroke-width="2.6" fill="none" opacity="1.0"/>
+  <circle cx="700" cy="176" r="16" fill="#b56a3a"/>
+  <text x="700.0" y="182.0" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="15" font-weight="700" fill="#ffffff">4</text>
+  <text x="726.0" y="182.0" text-anchor="start" font-family="'Source Sans 3','Source Sans Pro','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="16" font-weight="normal" fill="#6b7380">sample 4</text>
+  <path d="M 470 176 L 470 218 L 700 218" stroke="#b56a3a" stroke-width="2.6" fill="none" opacity="1.0"/>
+  <circle cx="700" cy="218" r="16" fill="#b56a3a"/>
+  <text x="700.0" y="224.0" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="15" font-weight="700" fill="#ffffff">5</text>
+  <text x="726.0" y="224.0" text-anchor="start" font-family="'Source Sans 3','Source Sans Pro','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="16" font-weight="normal" fill="#6b7380">sample 5</text>
+  <path d="M 330 302 L 330 260 L 700 260" stroke="#1c2430" stroke-width="2.6" fill="none" opacity="1.0"/>
+  <circle cx="700" cy="260" r="16" fill="#1c2430"/>
+  <text x="700.0" y="266.0" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="15" font-weight="700" fill="#ffffff">6</text>
+  <text x="726.0" y="266.0" text-anchor="start" font-family="'Source Sans 3','Source Sans Pro','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="16" font-weight="normal" fill="#6b7380">sample 6</text>
+  <path d="M 330 302 L 330 302 L 700 302" stroke="#1c2430" stroke-width="2.6" fill="none" opacity="1.0"/>
+  <circle cx="700" cy="302" r="16" fill="#1c2430"/>
+  <text x="700.0" y="308.0" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="15" font-weight="700" fill="#ffffff">7</text>
+  <text x="726.0" y="308.0" text-anchor="start" font-family="'Source Sans 3','Source Sans Pro','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="16" font-weight="normal" fill="#6b7380">sample 7</text>
+  <path d="M 330 302 L 330 344 L 700 344" stroke="#1c2430" stroke-width="2.6" fill="none" opacity="1.0"/>
+  <circle cx="700" cy="344" r="16" fill="#1c2430"/>
+  <text x="700.0" y="350.0" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="15" font-weight="700" fill="#ffffff">8</text>
+  <text x="726.0" y="350.0" text-anchor="start" font-family="'Source Sans 3','Source Sans Pro','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="16" font-weight="normal" fill="#6b7380">sample 8</text>
+  <circle cx="80" cy="197.0" r="12" fill="#eef3f8" stroke="#2a5a8c" stroke-width="2.2"/>
+  <circle cx="260" cy="134.0" r="12" fill="#f7f3ee" stroke="#b56a3a" stroke-width="2.2"/>
+  <circle cx="440" cy="71.0" r="12" fill="#f7f3ee" stroke="#b56a3a" stroke-width="2.2"/>
+  <circle cx="470" cy="176" r="12" fill="#f7f3ee" stroke="#b56a3a" stroke-width="2.2"/>
+  <circle cx="330" cy="302" r="12" fill="#eef3f8" stroke="#2a5a8c" stroke-width="2.2"/>
+  <rect x="176" y="122.0" width="8" height="24" fill="#b56a3a"/>
+  <text x="180.0" y="116.0" text-anchor="middle" font-family="'Source Sans 3','Source Sans Pro','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="15" font-weight="700" fill="#b56a3a">D614G</text>
+  <rect x="356" y="59.0" width="8" height="24" fill="#b56a3a"/>
+  <text x="360.0" y="53.0" text-anchor="middle" font-family="'Source Sans 3','Source Sans Pro','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="15" font-weight="700" fill="#b56a3a"></text>
+  <rect x="516" y="164" width="8" height="24" fill="#b56a3a"/>
+  <text x="520.0" y="158.0" text-anchor="middle" font-family="'Source Sans 3','Source Sans Pro','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="15" font-weight="700" fill="#b56a3a"></text>
+  <rect x="216" y="290" width="8" height="24" fill="#2a5a8c"/>
+  <text x="220.0" y="284.0" text-anchor="middle" font-family="'Source Sans 3','Source Sans Pro','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="15" font-weight="700" fill="#2a5a8c"></text>
+  <rect x="556" y="332" width="8" height="24" fill="#2a5a8c"/>
+  <text x="560.0" y="326.0" text-anchor="middle" font-family="'Source Sans 3','Source Sans Pro','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="15" font-weight="700" fill="#2a5a8c"></text>
+  <text x="80.0" y="231.0" text-anchor="middle" font-family="'Source Sans 3','Source Sans Pro','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="15" font-weight="normal" fill="#6b7380">root</text>
+  <text x="450.0" y="385.0" text-anchor="middle" font-family="'Source Sans 3','Source Sans Pro','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="17" font-weight="normal" fill="#1c2430">a mutation on a branch is shared by every sample below it</text>
+</svg>

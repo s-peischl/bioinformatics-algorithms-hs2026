@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 280" width="1260" height="392" preserveAspectRatio="xMidYMid meet">
+  <rect width="900" height="280" fill="#ffffff"/>
+  <defs><marker id="ah-2a5a8c" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#2a5a8c"/></marker><marker id="ah-b56a3a" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#b56a3a"/></marker><marker id="ah-6b7380" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#6b7380"/></marker><marker id="ah-1c2430" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#1c2430"/></marker></defs>
+  <line x1="110.0" y1="110.0" x2="190.0" y2="110.0" stroke="#b56a3a" stroke-width="4"/>
+  <line x1="110.0" y1="110.0" x2="45.0" y2="45.0" stroke="#1c2430" stroke-width="2.6"/>
+  <line x1="110.0" y1="110.0" x2="45.0" y2="175.0" stroke="#1c2430" stroke-width="2.6"/>
+  <line x1="190.0" y1="110.0" x2="255.0" y2="45.0" stroke="#1c2430" stroke-width="2.6"/>
+  <line x1="190.0" y1="110.0" x2="255.0" y2="175.0" stroke="#1c2430" stroke-width="2.6"/>
+  <circle cx="110" cy="110" r="12" fill="#eef3f8" stroke="#2a5a8c" stroke-width="2.2"/>
+  <circle cx="190" cy="110" r="12" fill="#eef3f8" stroke="#2a5a8c" stroke-width="2.2"/>
+  <circle cx="45" cy="45" r="18" fill="#1c2430"/>
+  <text x="45.0" y="51.0" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="16" font-weight="700" fill="#ffffff">A</text>
+  <circle cx="45" cy="175" r="18" fill="#1c2430"/>
+  <text x="45.0" y="181.0" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="16" font-weight="700" fill="#ffffff">B</text>
+  <circle cx="255" cy="45" r="18" fill="#1c2430"/>
+  <text x="255.0" y="51.0" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="16" font-weight="700" fill="#ffffff">C</text>
+  <circle cx="255" cy="175" r="18" fill="#1c2430"/>
+  <text x="255.0" y="181.0" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="16" font-weight="700" fill="#ffffff">D</text>
+  <text x="150.0" y="222.0" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="18" font-weight="700" fill="#6b7380">AB | CD</text>
+  <text x="150.0" y="256.0" text-anchor="middle" font-family="'Source Sans 3','Source Sans Pro','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="19" font-weight="700" fill="#b56a3a">87 % of replicates</text>
+  <line x1="410.0" y1="110.0" x2="490.0" y2="110.0" stroke="#1c2430" stroke-width="2.6"/>
+  <line x1="410.0" y1="110.0" x2="345.0" y2="45.0" stroke="#1c2430" stroke-width="2.6"/>
+  <line x1="410.0" y1="110.0" x2="345.0" y2="175.0" stroke="#1c2430" stroke-width="2.6"/>
+  <line x1="490.0" y1="110.0" x2="555.0" y2="45.0" stroke="#1c2430" stroke-width="2.6"/>
+  <line x1="490.0" y1="110.0" x2="555.0" y2="175.0" stroke="#1c2430" stroke-width="2.6"/>
+  <circle cx="410" cy="110" r="12" fill="#eef3f8" stroke="#2a5a8c" stroke-width="2.2"/>
+  <circle cx="490" cy="110" r="12" fill="#eef3f8" stroke="#2a5a8c" stroke-width="2.2"/>
+  <circle cx="345" cy="45" r="18" fill="#1c2430"/>
+  <text x="345.0" y="51.0" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="16" font-weight="700" fill="#ffffff">A</text>
+  <circle cx="345" cy="175" r="18" fill="#1c2430"/>
+  <text x="345.0" y="181.0" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="16" font-weight="700" fill="#ffffff">C</text>
+  <circle cx="555" cy="45" r="18" fill="#1c2430"/>
+  <text x="555.0" y="51.0" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="16" font-weight="700" fill="#ffffff">B</text>
+  <circle cx="555" cy="175" r="18" fill="#1c2430"/>
+  <text x="555.0" y="181.0" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="16" font-weight="700" fill="#ffffff">D</text>
+  <text x="450.0" y="222.0" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="18" font-weight="700" fill="#6b7380">AC | BD</text>
+  <text x="450.0" y="256.0" text-anchor="middle" font-family="'Source Sans 3','Source Sans Pro','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="19" font-weight="700" fill="#1c2430">7 % of replicates</text>
+  <line x1="710.0" y1="110.0" x2="790.0" y2="110.0" stroke="#1c2430" stroke-width="2.6"/>
+  <line x1="710.0" y1="110.0" x2="645.0" y2="45.0" stroke="#1c2430" stroke-width="2.6"/>
+  <line x1="710.0" y1="110.0" x2="645.0" y2="175.0" stroke="#1c2430" stroke-width="2.6"/>
+  <line x1="790.0" y1="110.0" x2="855.0" y2="45.0" stroke="#1c2430" stroke-width="2.6"/>
+  <line x1="790.0" y1="110.0" x2="855.0" y2="175.0" stroke="#1c2430" stroke-width="2.6"/>
+  <circle cx="710" cy="110" r="12" fill="#eef3f8" stroke="#2a5a8c" stroke-width="2.2"/>
+  <circle cx="790" cy="110" r="12" fill="#eef3f8" stroke="#2a5a8c" stroke-width="2.2"/>
+  <circle cx="645" cy="45" r="18" fill="#1c2430"/>
+  <text x="645.0" y="51.0" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="16" font-weight="700" fill="#ffffff">A</text>
+  <circle cx="645" cy="175" r="18" fill="#1c2430"/>
+  <text x="645.0" y="181.0" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="16" font-weight="700" fill="#ffffff">D</text>
+  <circle cx="855" cy="45" r="18" fill="#1c2430"/>
+  <text x="855.0" y="51.0" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="16" font-weight="700" fill="#ffffff">B</text>
+  <circle cx="855" cy="175" r="18" fill="#1c2430"/>
+  <text x="855.0" y="181.0" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="16" font-weight="700" fill="#ffffff">C</text>
+  <text x="750.0" y="222.0" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="18" font-weight="700" fill="#6b7380">AD | BC</text>
+  <text x="750.0" y="256.0" text-anchor="middle" font-family="'Source Sans 3','Source Sans Pro','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="19" font-weight="700" fill="#1c2430">6 % of replicates</text>
+</svg>

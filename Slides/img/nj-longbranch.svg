@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 820 300" width="1148" height="420" preserveAspectRatio="xMidYMid meet">
+  <rect width="820" height="300" fill="#ffffff"/>
+  <defs><marker id="ah-2a5a8c" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#2a5a8c"/></marker><marker id="ah-b56a3a" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#b56a3a"/></marker><marker id="ah-6b7380" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#6b7380"/></marker><marker id="ah-1c2430" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#1c2430"/></marker></defs>
+  <line x1="250.0" y1="80.0" x2="330.0" y2="150.0" stroke="#1c2430" stroke-width="3"/>
+  <text x="302.0" y="105.0" text-anchor="middle" font-family="'Source Sans 3','Source Sans Pro','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="20" font-weight="700" fill="#6b7380">1</text>
+  <line x1="60.0" y1="270.0" x2="330.0" y2="150.0" stroke="#1c2430" stroke-width="3"/>
+  <text x="207.0" y="200.0" text-anchor="middle" font-family="'Source Sans 3','Source Sans Pro','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="20" font-weight="700" fill="#6b7380">6</text>
+  <line x1="330.0" y1="150.0" x2="450.0" y2="150.0" stroke="#1c2430" stroke-width="3"/>
+  <text x="402.0" y="140.0" text-anchor="middle" font-family="'Source Sans 3','Source Sans Pro','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="20" font-weight="700" fill="#6b7380">1</text>
+  <line x1="450.0" y1="150.0" x2="530.0" y2="80.0" stroke="#1c2430" stroke-width="3"/>
+  <text x="502.0" y="105.0" text-anchor="middle" font-family="'Source Sans 3','Source Sans Pro','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="20" font-weight="700" fill="#6b7380">1</text>
+  <line x1="450.0" y1="150.0" x2="760.0" y2="270.0" stroke="#1c2430" stroke-width="3"/>
+  <text x="617.0" y="200.0" text-anchor="middle" font-family="'Source Sans 3','Source Sans Pro','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="20" font-weight="700" fill="#6b7380">6</text>
+  <circle cx="330" cy="150" r="12" fill="#eef3f8" stroke="#2a5a8c" stroke-width="2.2"/>
+  <circle cx="450" cy="150" r="12" fill="#eef3f8" stroke="#2a5a8c" stroke-width="2.2"/>
+  <circle cx="250" cy="80" r="20" fill="#1c2430"/>
+  <text x="250.0" y="86.0" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="17" font-weight="700" fill="#ffffff">A</text>
+  <circle cx="60" cy="270" r="20" fill="#1c2430"/>
+  <text x="60.0" y="276.0" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="17" font-weight="700" fill="#ffffff">B</text>
+  <circle cx="530" cy="80" r="20" fill="#1c2430"/>
+  <text x="530.0" y="86.0" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="17" font-weight="700" fill="#ffffff">C</text>
+  <circle cx="760" cy="270" r="20" fill="#1c2430"/>
+  <text x="760.0" y="276.0" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="17" font-weight="700" fill="#ffffff">D</text>
+  <path d="M 250 52 Q 390 20 530 52" stroke="#b56a3a" stroke-width="2.6" fill="none" opacity="1.0" marker-end="url(#ah-b56a3a)"/>
+  <text x="390.0" y="22.0" text-anchor="middle" font-family="'Source Sans 3','Source Sans Pro','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="18" font-weight="700" fill="#b56a3a">A to C: 1 + 1 + 1 = 3, the smallest distance</text>
+  <text x="410.0" y="292.0" text-anchor="middle" font-family="'Source Sans 3','Source Sans Pro','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="18" font-weight="normal" fill="#1c2430">A's neighbour is B, at distance 1 + 6 = 7</text>
+</svg>

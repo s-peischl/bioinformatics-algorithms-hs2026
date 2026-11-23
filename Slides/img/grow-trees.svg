@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 940 300" width="1316" height="420" preserveAspectRatio="xMidYMid meet">
+  <rect width="940" height="300" fill="#ffffff"/>
+  <defs><marker id="ah-2a5a8c" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#2a5a8c"/></marker><marker id="ah-b56a3a" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#b56a3a"/></marker><marker id="ah-6b7380" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#6b7380"/></marker><marker id="ah-1c2430" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#1c2430"/></marker></defs>
+  <line x1="150.0" y1="150.0" x2="60.0" y2="60.0" stroke="#1c2430" stroke-width="2.8"/>
+  <line x1="150.0" y1="150.0" x2="60.0" y2="240.0" stroke="#1c2430" stroke-width="2.8"/>
+  <line x1="150.0" y1="150.0" x2="270.0" y2="150.0" stroke="#1c2430" stroke-width="2.8"/>
+  <circle cx="150" cy="150" r="12" fill="#eef3f8" stroke="#2a5a8c" stroke-width="2.2"/>
+  <circle cx="60" cy="60" r="20" fill="#1c2430"/>
+  <text x="60.0" y="66.0" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="17" font-weight="700" fill="#ffffff">A</text>
+  <circle cx="60" cy="240" r="20" fill="#1c2430"/>
+  <text x="60.0" y="246.0" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="17" font-weight="700" fill="#ffffff">B</text>
+  <circle cx="270" cy="150" r="20" fill="#1c2430"/>
+  <text x="270.0" y="156.0" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="17" font-weight="700" fill="#ffffff">C</text>
+  <circle cx="105.0" cy="105.0" r="15" fill="#b56a3a"/>
+  <text x="105.0" y="111.0" text-anchor="middle" font-family="'Source Sans 3','Source Sans Pro','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="16" font-weight="700" fill="#ffffff">1</text>
+  <circle cx="105.0" cy="195.0" r="15" fill="#b56a3a"/>
+  <text x="105.0" y="201.0" text-anchor="middle" font-family="'Source Sans 3','Source Sans Pro','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="16" font-weight="700" fill="#ffffff">2</text>
+  <circle cx="210.0" cy="150.0" r="15" fill="#b56a3a"/>
+  <text x="210.0" y="156.0" text-anchor="middle" font-family="'Source Sans 3','Source Sans Pro','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="16" font-weight="700" fill="#ffffff">3</text>
+  <text x="160.0" y="292.0" text-anchor="middle" font-family="'Source Sans 3','Source Sans Pro','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="18" font-weight="700" fill="#1c2430">3 leaves, 3 branches</text>
+  <text x="560.0" y="120.0" text-anchor="middle" font-family="'Source Sans 3','Source Sans Pro','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="20" font-weight="700" fill="#b56a3a">D can go on any of 3 branches</text>
+  <text x="560.0" y="150.0" text-anchor="middle" font-family="'Source Sans 3','Source Sans Pro','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="20" font-weight="normal" fill="#1c2430">→ 3 trees with 4 leaves</text>
+  <text x="560.0" y="200.0" text-anchor="middle" font-family="'Source Sans 3','Source Sans Pro','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="20" font-weight="700" fill="#b56a3a">each has 5 branches for E</text>
+  <text x="560.0" y="230.0" text-anchor="middle" font-family="'Source Sans 3','Source Sans Pro','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="20" font-weight="normal" fill="#1c2430">→ 3 × 5 = 15 trees with 5 leaves</text>
+  <text x="560.0" y="280.0" text-anchor="middle" font-family="'Source Sans 3','Source Sans Pro','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="20" font-weight="normal" fill="#6b7380">then × 7, × 9, × 11, …</text>
+</svg>

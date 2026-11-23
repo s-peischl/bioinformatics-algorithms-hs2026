@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 260" width="1260" height="364" preserveAspectRatio="xMidYMid meet">
+  <rect width="900" height="260" fill="#ffffff"/>
+  <defs><marker id="ah-2a5a8c" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#2a5a8c"/></marker><marker id="ah-b56a3a" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#b56a3a"/></marker><marker id="ah-6b7380" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#6b7380"/></marker><marker id="ah-1c2430" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#1c2430"/></marker></defs>
+  <text x="134.0" y="56.0" text-anchor="end" font-family="ui-monospace,Menlo,monospace" font-size="17" font-weight="700" fill="#1c2430">AB | CD</text>
+  <line x1="150.0" y1="50.0" x2="870.0" y2="50.0" stroke="#e3e6eb" stroke-width="1.4"/>
+  <text x="134.0" y="126.0" text-anchor="end" font-family="ui-monospace,Menlo,monospace" font-size="17" font-weight="700" fill="#1c2430">AC | BD</text>
+  <line x1="150.0" y1="120.0" x2="870.0" y2="120.0" stroke="#e3e6eb" stroke-width="1.4"/>
+  <text x="134.0" y="196.0" text-anchor="end" font-family="ui-monospace,Menlo,monospace" font-size="17" font-weight="700" fill="#1c2430">AD | BC</text>
+  <line x1="150.0" y1="190.0" x2="870.0" y2="190.0" stroke="#e3e6eb" stroke-width="1.4"/>
+  <polyline points="150,190 162,120 174,50 186,50 198,50 210,120 222,190 234,50 246,190 258,50 270,50 282,190 294,50 306,50 318,50 330,50 342,50 354,50 366,50 378,50 390,50 402,50 414,50 426,50 438,50 450,50 462,50 474,50 486,50 498,50 510,50 522,50 534,50 546,50 558,50 570,190 582,50 594,50 606,120 618,190 630,120 642,190 654,120 666,190 678,50 690,50 702,50 714,50 726,50 738,50 750,50 762,50 774,50 786,50 798,50 810,50 822,50 834,120 846,50 858,50" fill="none" stroke="#6b7380" stroke-width="1.4"/>
+  <circle cx="150" cy="190" r="4.5" fill="#2a5a8c"/>
+  <circle cx="162" cy="120" r="4.5" fill="#2a5a8c"/>
+  <circle cx="174" cy="50" r="4.5" fill="#b56a3a"/>
+  <circle cx="186" cy="50" r="4.5" fill="#b56a3a"/>
+  <circle cx="198" cy="50" r="4.5" fill="#b56a3a"/>
+  <circle cx="210" cy="120" r="4.5" fill="#2a5a8c"/>
+  <circle cx="222" cy="190" r="4.5" fill="#2a5a8c"/>
+  <circle cx="234" cy="50" r="4.5" fill="#b56a3a"/>
+  <circle cx="246" cy="190" r="4.5" fill="#2a5a8c"/>
+  <circle cx="258" cy="50" r="4.5" fill="#b56a3a"/>
+  <circle cx="270" cy="50" r="4.5" fill="#b56a3a"/>
+  <circle cx="282" cy="190" r="4.5" fill="#2a5a8c"/>
+  <circle cx="294" cy="50" r="4.5" fill="#b56a3a"/>
+  <circle cx="306" cy="50" r="4.5" fill="#b56a3a"/>
+  <circle cx="318" cy="50" r="4.5" fill="#b56a3a"/>
+  <circle cx="330" cy="50" r="4.5" fill="#b56a3a"/>
+  <circle cx="342" cy="50" r="4.5" fill="#b56a3a"/>
+  <circle cx="354" cy="50" r="4.5" fill="#b56a3a"/>
+  <circle cx="366" cy="50" r="4.5" fill="#b56a3a"/>
+  <circle cx="378" cy="50" r="4.5" fill="#b56a3a"/>
+  <circle cx="390" cy="50" r="4.5" fill="#b56a3a"/>
+  <circle cx="402" cy="50" r="4.5" fill="#b56a3a"/>
+  <circle cx="414" cy="50" r="4.5" fill="#b56a3a"/>
+  <circle cx="426" cy="50" r="4.5" fill="#b56a3a"/>
+  <circle cx="438" cy="50" r="4.5" fill="#b56a3a"/>
+  <circle cx="450" cy="50" r="4.5" fill="#b56a3a"/>
+  <circle cx="462" cy="50" r="4.5" fill="#b56a3a"/>
+  <circle cx="474" cy="50" r="4.5" fill="#b56a3a"/>
+  <circle cx="486" cy="50" r="4.5" fill="#b56a3a"/>
+  <circle cx="498" cy="50" r="4.5" fill="#b56a3a"/>
+  <circle cx="510" cy="50" r="4.5" fill="#b56a3a"/>
+  <circle cx="522" cy="50" r="4.5" fill="#b56a3a"/>
+  <circle cx="534" cy="50" r="4.5" fill="#b56a3a"/>
+  <circle cx="546" cy="50" r="4.5" fill="#b56a3a"/>
+  <circle cx="558" cy="50" r="4.5" fill="#b56a3a"/>
+  <circle cx="570" cy="190" r="4.5" fill="#2a5a8c"/>
+  <circle cx="582" cy="50" r="4.5" fill="#b56a3a"/>
+  <circle cx="594" cy="50" r="4.5" fill="#b56a3a"/>
+  <circle cx="606" cy="120" r="4.5" fill="#2a5a8c"/>
+  <circle cx="618" cy="190" r="4.5" fill="#2a5a8c"/>
+  <circle cx="630" cy="120" r="4.5" fill="#2a5a8c"/>
+  <circle cx="642" cy="190" r="4.5" fill="#2a5a8c"/>
+  <circle cx="654" cy="120" r="4.5" fill="#2a5a8c"/>
+  <circle cx="666" cy="190" r="4.5" fill="#2a5a8c"/>
+  <circle cx="678" cy="50" r="4.5" fill="#b56a3a"/>
+  <circle cx="690" cy="50" r="4.5" fill="#b56a3a"/>
+  <circle cx="702" cy="50" r="4.5" fill="#b56a3a"/>
+  <circle cx="714" cy="50" r="4.5" fill="#b56a3a"/>
+  <circle cx="726" cy="50" r="4.5" fill="#b56a3a"/>
+  <circle cx="738" cy="50" r="4.5" fill="#b56a3a"/>
+  <circle cx="750" cy="50" r="4.5" fill="#b56a3a"/>
+  <circle cx="762" cy="50" r="4.5" fill="#b56a3a"/>
+  <circle cx="774" cy="50" r="4.5" fill="#b56a3a"/>
+  <circle cx="786" cy="50" r="4.5" fill="#b56a3a"/>
+  <circle cx="798" cy="50" r="4.5" fill="#b56a3a"/>
+  <circle cx="810" cy="50" r="4.5" fill="#b56a3a"/>
+  <circle cx="822" cy="50" r="4.5" fill="#b56a3a"/>
+  <circle cx="834" cy="120" r="4.5" fill="#2a5a8c"/>
+  <circle cx="846" cy="50" r="4.5" fill="#b56a3a"/>
+  <circle cx="858" cy="50" r="4.5" fill="#b56a3a"/>
+  <text x="510.0" y="240.0" text-anchor="middle" font-family="'Source Sans 3','Source Sans Pro','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="17" font-weight="normal" fill="#6b7380">the first 60 steps of the walk: which tree it sits on</text>
+</svg>

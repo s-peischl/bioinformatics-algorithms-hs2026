@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 500" width="1400" height="700" preserveAspectRatio="xMidYMid meet">
+  <rect width="1000" height="500" fill="#ffffff"/>
+  <defs><marker id="ah-2a5a8c" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#2a5a8c"/></marker><marker id="ah-b56a3a" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#b56a3a"/></marker><marker id="ah-6b7380" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#6b7380"/></marker><marker id="ah-1c2430" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#1c2430"/></marker></defs>
+  <line x1="500.0" y1="90.0" x2="340.0" y2="225.0" stroke="#b56a3a" stroke-width="4.5"/>
+  <line x1="340.0" y1="225.0" x2="230.0" y2="375.0" stroke="#1c2430" stroke-width="2.6"/>
+  <line x1="340.0" y1="225.0" x2="450.0" y2="375.0" stroke="#1c2430" stroke-width="2.6"/>
+  <line x1="500.0" y1="90.0" x2="700.0" y2="375.0" stroke="#b56a3a" stroke-width="4.5"/>
+  <circle cx="230" cy="375" r="20" fill="#1c2430"/>
+  <text x="230.0" y="381.0" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="17" font-weight="700" fill="#ffffff">C</text>
+  <circle cx="450" cy="375" r="20" fill="#1c2430"/>
+  <text x="450.0" y="381.0" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="17" font-weight="700" fill="#ffffff">C</text>
+  <circle cx="700" cy="375" r="20" fill="#1c2430"/>
+  <text x="700.0" y="381.0" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="17" font-weight="700" fill="#ffffff">T</text>
+  <circle cx="340" cy="225" r="12" fill="#eef3f8" stroke="#2a5a8c" stroke-width="2.2"/>
+  <circle cx="500" cy="90" r="12" fill="#f7f3ee" stroke="#b56a3a" stroke-width="2.2"/>
+  <rect x="138.0" y="429.0" width="88.0" height="48.0" rx="6" fill="#ffffff" stroke="#c9ced6" stroke-width="1.4"/>
+  <text x="182.0" y="422.0" text-anchor="middle" font-family="'Source Sans 3','Source Sans Pro','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="20" font-weight="700" fill="#6b7380">C</text>
+  <text x="182.0" y="463.0" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="26" font-weight="700" fill="#1c2430">1</text>
+  <rect x="230.0" y="429.0" width="88.0" height="48.0" rx="6" fill="#ffffff" stroke="#c9ced6" stroke-width="1.4"/>
+  <text x="274.0" y="422.0" text-anchor="middle" font-family="'Source Sans 3','Source Sans Pro','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="20" font-weight="700" fill="#6b7380">T</text>
+  <text x="274.0" y="463.0" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="26" font-weight="700" fill="#1c2430">0</text>
+  <rect x="358.0" y="429.0" width="88.0" height="48.0" rx="6" fill="#ffffff" stroke="#c9ced6" stroke-width="1.4"/>
+  <text x="402.0" y="422.0" text-anchor="middle" font-family="'Source Sans 3','Source Sans Pro','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="20" font-weight="700" fill="#6b7380">C</text>
+  <text x="402.0" y="463.0" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="26" font-weight="700" fill="#1c2430">1</text>
+  <rect x="450.0" y="429.0" width="88.0" height="48.0" rx="6" fill="#ffffff" stroke="#c9ced6" stroke-width="1.4"/>
+  <text x="494.0" y="422.0" text-anchor="middle" font-family="'Source Sans 3','Source Sans Pro','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="20" font-weight="700" fill="#6b7380">T</text>
+  <text x="494.0" y="463.0" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="26" font-weight="700" fill="#1c2430">0</text>
+  <rect x="608.0" y="429.0" width="88.0" height="48.0" rx="6" fill="#ffffff" stroke="#c9ced6" stroke-width="1.4"/>
+  <text x="652.0" y="422.0" text-anchor="middle" font-family="'Source Sans 3','Source Sans Pro','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="20" font-weight="700" fill="#6b7380">C</text>
+  <text x="652.0" y="463.0" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="26" font-weight="700" fill="#1c2430">0</text>
+  <rect x="700.0" y="429.0" width="88.0" height="48.0" rx="6" fill="#ffffff" stroke="#c9ced6" stroke-width="1.4"/>
+  <text x="744.0" y="422.0" text-anchor="middle" font-family="'Source Sans 3','Source Sans Pro','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="20" font-weight="700" fill="#6b7380">T</text>
+  <text x="744.0" y="463.0" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="26" font-weight="700" fill="#1c2430">1</text>
+  <rect x="128.0" y="201.0" width="88.0" height="48.0" rx="6" fill="#ffffff" stroke="#c9ced6" stroke-width="1.4"/>
+  <text x="172.0" y="194.0" text-anchor="middle" font-family="'Source Sans 3','Source Sans Pro','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="20" font-weight="700" fill="#6b7380">C</text>
+  <text x="172.0" y="235.0" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="26" font-weight="700" fill="#1c2430">0.64</text>
+  <rect x="220.0" y="201.0" width="88.0" height="48.0" rx="6" fill="#ffffff" stroke="#c9ced6" stroke-width="1.4"/>
+  <text x="264.0" y="194.0" text-anchor="middle" font-family="'Source Sans 3','Source Sans Pro','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="20" font-weight="700" fill="#6b7380">T</text>
+  <text x="264.0" y="235.0" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="26" font-weight="700" fill="#1c2430">0.04</text>
+  <rect x="528.0" y="66.0" width="88.0" height="48.0" rx="6" fill="#f7f3ee" stroke="#b56a3a" stroke-width="1.8"/>
+  <text x="572.0" y="59.0" text-anchor="middle" font-family="'Source Sans 3','Source Sans Pro','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="20" font-weight="700" fill="#6b7380">C</text>
+  <text x="572.0" y="100.0" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="26" font-weight="700" fill="#b56a3a">0.104</text>
+  <rect x="620.0" y="66.0" width="88.0" height="48.0" rx="6" fill="#f7f3ee" stroke="#b56a3a" stroke-width="1.8"/>
+  <text x="664.0" y="59.0" text-anchor="middle" font-family="'Source Sans 3','Source Sans Pro','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="20" font-weight="700" fill="#6b7380">T</text>
+  <text x="664.0" y="100.0" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="26" font-weight="700" fill="#b56a3a">?</text>
+  <text x="200.0" y="70.0" text-anchor="middle" font-family="'Source Sans 3','Source Sans Pro','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="25" font-weight="700" fill="#b56a3a">root = C:</text>
+  <text x="200.0" y="102.0" text-anchor="middle" font-family="'Source Sans 3','Source Sans Pro','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="25" font-weight="700" fill="#b56a3a">0.8·0.64 + 0.2·0.04</text>
+  <text x="200.0" y="134.0" text-anchor="middle" font-family="'Source Sans 3','Source Sans Pro','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="25" font-weight="700" fill="#b56a3a">= 0.52</text>
+  <text x="850.0" y="230.0" text-anchor="middle" font-family="'Source Sans 3','Source Sans Pro','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="25" font-weight="700" fill="#b56a3a">root = C:</text>
+  <text x="850.0" y="262.0" text-anchor="middle" font-family="'Source Sans 3','Source Sans Pro','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="25" font-weight="700" fill="#b56a3a">change: 0.2</text>
+</svg>

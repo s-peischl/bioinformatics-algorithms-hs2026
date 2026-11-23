@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 420" width="1204" height="588" preserveAspectRatio="xMidYMid meet">
+  <rect width="860" height="420" fill="#ffffff"/>
+  <defs><marker id="ah-2a5a8c" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#2a5a8c"/></marker><marker id="ah-b56a3a" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#b56a3a"/></marker><marker id="ah-6b7380" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#6b7380"/></marker><marker id="ah-1c2430" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#1c2430"/></marker></defs>
+  <line x1="430.0" y1="70.0" x2="210.0" y2="300.0" stroke="#1c2430" stroke-width="3"/>
+  <line x1="430.0" y1="70.0" x2="650.0" y2="300.0" stroke="#1c2430" stroke-width="3"/>
+  <circle cx="430" cy="70" r="12" fill="#f7f3ee" stroke="#b56a3a" stroke-width="2.2"/>
+  <circle cx="210" cy="300" r="12" fill="#eef3f8" stroke="#2a5a8c" stroke-width="2.2"/>
+  <circle cx="650" cy="300" r="12" fill="#eef3f8" stroke="#2a5a8c" stroke-width="2.2"/>
+  <text x="456.0" y="79.0" text-anchor="start" font-family="'Source Sans 3','Source Sans Pro','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="24" font-weight="700" fill="#b56a3a">parent: two numbers</text>
+  <text x="210.0" y="346.0" text-anchor="middle" font-family="'Source Sans 3','Source Sans Pro','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="23" font-weight="700" fill="#1c2430">left child: two numbers</text>
+  <text x="650.0" y="346.0" text-anchor="middle" font-family="'Source Sans 3','Source Sans Pro','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="23" font-weight="700" fill="#1c2430">right child: two numbers</text>
+  <text x="160.0" y="150.0" text-anchor="middle" font-family="'Source Sans 3','Source Sans Pro','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="23" font-weight="700" fill="#2a5a8c">this branch:</text>
+  <text x="160.0" y="180.0" text-anchor="middle" font-family="'Source Sans 3','Source Sans Pro','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="23" font-weight="normal" fill="#2a5a8c">Σ P(a → x) · child(x)</text>
+  <text x="700.0" y="150.0" text-anchor="middle" font-family="'Source Sans 3','Source Sans Pro','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="23" font-weight="700" fill="#2a5a8c">this branch:</text>
+  <text x="700.0" y="180.0" text-anchor="middle" font-family="'Source Sans 3','Source Sans Pro','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="23" font-weight="normal" fill="#2a5a8c">Σ P(a → x) · child(x)</text>
+  <text x="430.0" y="405.0" text-anchor="middle" font-family="'Source Sans 3','Source Sans Pro','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="23" font-weight="normal" fill="#6b7380">sum along each branch, multiply the two at the parent</text>
+</svg>

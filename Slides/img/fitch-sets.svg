@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 300" width="784" height="420" preserveAspectRatio="xMidYMid meet">
+  <rect width="560" height="300" fill="#ffffff"/>
+  <defs><marker id="ah-2a5a8c" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#2a5a8c"/></marker><marker id="ah-b56a3a" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#b56a3a"/></marker><marker id="ah-6b7380" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#6b7380"/></marker><marker id="ah-1c2430" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto"><path d="M0,0 L10,5 L0,10 Z" fill="#1c2430"/></marker></defs>
+  <line x1="300.0" y1="50.0" x2="190.0" y2="140.0" stroke="#1c2430" stroke-width="2.6"/>
+  <line x1="190.0" y1="140.0" x2="120.0" y2="240.0" stroke="#1c2430" stroke-width="2.6"/>
+  <line x1="190.0" y1="140.0" x2="260.0" y2="240.0" stroke="#1c2430" stroke-width="2.6"/>
+  <line x1="300.0" y1="50.0" x2="410.0" y2="240.0" stroke="#1c2430" stroke-width="2.6"/>
+  <circle cx="120" cy="240" r="20" fill="#1c2430"/>
+  <text x="120.0" y="246.0" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="17" font-weight="700" fill="#ffffff">C</text>
+  <circle cx="260" cy="240" r="20" fill="#1c2430"/>
+  <text x="260.0" y="246.0" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="17" font-weight="700" fill="#ffffff">C</text>
+  <circle cx="410" cy="240" r="20" fill="#1c2430"/>
+  <text x="410.0" y="246.0" text-anchor="middle" font-family="ui-monospace,Menlo,monospace" font-size="17" font-weight="700" fill="#ffffff">T</text>
+  <circle cx="190" cy="140" r="12" fill="#eef3f8" stroke="#2a5a8c" stroke-width="2.2"/>
+  <circle cx="300" cy="50" r="12" fill="#f7f3ee" stroke="#b56a3a" stroke-width="2.2"/>
+  <text x="166.0" y="146.0" text-anchor="end" font-family="ui-monospace,Menlo,monospace" font-size="19" font-weight="700" fill="#1c2430">{C}</text>
+  <text x="166.0" y="170.0" text-anchor="end" font-family="'Source Sans 3','Source Sans Pro','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="15" font-weight="normal" fill="#6b7380">cost 0</text>
+  <text x="324.0" y="56.0" text-anchor="start" font-family="ui-monospace,Menlo,monospace" font-size="19" font-weight="700" fill="#b56a3a">{C,T}</text>
+  <text x="324.0" y="80.0" text-anchor="start" font-family="'Source Sans 3','Source Sans Pro','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="15" font-weight="700" fill="#b56a3a">cost +1</text>
+  <text x="280.0" y="290.0" text-anchor="middle" font-family="'Source Sans 3','Source Sans Pro','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="18" font-weight="700" fill="#b56a3a">total: 1 change</text>
+</svg>
